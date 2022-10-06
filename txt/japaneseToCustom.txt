@@ -1,0 +1,192 @@
+//-------------------------------Hiragana-------------------------------//
+ぁ AA
+あ AA
+ぃ IY
+い IY
+ぅ UW
+う UW
+ぇ EH
+え EH
+ぉ O
+お O
+か K AA
+が G AA
+き K IY
+ぎ G IY
+く K UW
+ぐ G UW
+け K EH
+げ G EH
+こ K O
+ご G O
+さ S AA
+ざ Z AA
+し SH IY
+じ JH IY
+す S UW
+ず DZ UW
+せ S EH
+ぜ Z EH
+そ S O
+ぞ Z O
+た T AA
+だ D AA
+ち CH IY
+ぢ JH IY
+っ -
+つ T S UW
+づ DZ UW
+て T EH
+で D EH
+と T O
+ど D O
+な N AA
+に N IY
+ぬ N UW
+ね N EH
+の N O
+は HH AA,W AA
+ば B AA
+ぱ P AA
+ひ HH IY
+び B IY
+ぴ P IY
+ふ FH UW
+ぶ B UW
+ぷ P UW
+へ HH EH
+べ B EH
+ぺ P EH
+ほ HH O
+ぼ B O
+ぽ P O
+ま M AA
+み M IY
+む M UW
+め M EH
+も M O
+ゃ Y AA
+や Y AA
+ゅ Y UW
+ゆ Y UW
+ょ Y O
+よ Y O
+ら R' AA
+り R' IY
+る R' UW
+れ R' EH
+ろ R' O
+ゎ W AA
+わ W AA
+ゐ W IY
+ゑ W EH
+を W O,O
+ん N
+ゔ V UW
+ゕ K AA
+ゖ K EH
+゙ 
+゚ 
+゛ 
+゜ 
+ゝ 
+ゞ 
+ゟ
+
+//-------------------------------Katakana-------------------------------//
+゠ 
+ァ AA
+ア AA
+ィ IY
+イ IY
+ゥ UW
+ウ UW
+ェ EH
+エ EH
+ォ O
+オ O
+カ K AA
+ガ G AA
+キ K IY
+ギ G IY
+ク K UW
+グ G UW
+ケ K EH
+ゲ G EH
+コ K O
+ゴ G O
+サ S AA
+ザ Z AA
+シ SH IY
+ジ JH IY
+ス S UW
+ズ DZ UW
+セ S EH
+ゼ Z EH
+ソ S O
+ゾ Z O
+タ T AA
+ダ D AA
+チ CH IY
+ヂ JH IY
+ッ -
+ツ T S UW
+ヅ DZ UW
+テ T EH
+デ D EH
+ト T O
+ド D O
+ナ N AA
+ニ N IY
+ヌ N UW
+ネ N EH
+ノ N O
+ハ HH AA
+バ B AA
+パ P AA
+ヒ HH IY
+ビ B IY
+ピ P IY
+フ FH UW
+ブ B UW
+プ P UW
+ヘ HH EH
+ベ B EH
+ペ P EH
+ホ HH O
+ボ B O
+ポ P O
+マ M AA
+ミ M IY
+ム M UW
+メ M EH
+モ M O
+ャ Y AA
+ヤ Y AA
+ュ Y UW
+ユ Y UW
+ョ Y O
+ヨ Y O
+ラ R' AA
+リ R' IY
+ル R' UW
+レ R' EH
+ロ R' O
+ヮ W AA
+ワ W AA
+ヰ W IY
+ヱ W EH
+ヲ W O
+ン N
+ヴ V UW
+ヵ K AA
+ヶ K EH
+ヷ V AA
+ヸ V IY
+ヹ V EH
+ヺ V O
+・
+ー
+ヽ
+ヾ
+ヿ

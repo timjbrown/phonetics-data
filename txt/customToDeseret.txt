@@ -1,0 +1,84 @@
+//EnglishVowels
+AA	𐐪
+AE	𐐰
+AH	𐐲
+AH2	𐐲
+AO	𐐱
+OU	𐐫
+AW	𐐵
+AY	𐐴
+EH	𐐯
+EY	𐐩
+IH	𐐮
+IY	𐐨
+OW	𐐬
+OY	𐑎
+UH	𐐳
+UW	𐐭
+ER	𐐲𐑉
+EL  𐑊
+EM	𐑋
+EN	𐑌
+OR  𐐬𐑉
+
+//EnglishConsonants
+B	𐐺
+CH	𐐽
+D	𐐼
+DH	𐑄
+F	𐑁
+G	𐑀
+HH	𐐸
+JH	𐐾
+K	𐐿
+L	𐑊
+M	𐑋
+N	𐑌
+NG	𐑍
+NGG 𐑍𐑀
+NY	𐑌
+P	𐐹
+R	𐑉
+S	𐑅
+SH	𐑇
+T	𐐻
+TH	𐑃
+V	𐑂
+W	𐐶
+WH	ʍ
+Y	𐐷
+Y,UW  𐑏
+Z	𐑆
+ZH	𐑈
+
+//EnglishExtra
+&   𐐰
+EA	𐐰
+UY  𐐴
+X	?
+
+//French
+O	𐐬
+A~  ?
+O~  ?
+E~	?
+WY	?
+ë	?
+ü   ?
+ö	?
+ë~	?
+RH	?
+
+GH	?
+HHH	?
+FH	?
+BB	?
+RR	?
+TS  𐐻𐑅
+DZ  𐐼𐑆
+H+	?
+SH+	?
+R'	𐑉
+D'	𐐼
+:	?
+-	ʔ

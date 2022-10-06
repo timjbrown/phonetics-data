@@ -1,0 +1,82 @@
+//EnglishVowels
+AA	A
+AE	{
+AH	@
+AH2	@
+AO	O
+OU	Q
+AW	AU
+AY	AI
+EH	E
+EY	EI
+IH	I
+IY	i
+OW	oU
+OY	oI
+UH	U
+UW	u
+ER	3`
+EL  @l
+EM	@m
+EN	@n
+OR  or
+
+//EnglishConsonants
+B	b
+CH	tS
+D	d
+DH	D
+F	f
+G	g
+HH	h
+JH	dZ
+K	k
+L	l
+M	m
+N	n
+NG	N
+NGG	Ng
+P	p
+R	r
+S	s
+SH	S
+T	t
+TH	T
+V	v
+W	w
+WH	W
+Y	j
+Z	z
+ZH	Z
+
+//EnglishExtra
+&   {
+EA	{
+UY  AI
+X	x
+
+//French
+O	o
+A~  ~a
+O~  ~O
+E~	~E
+WY	H
+ë	9
+ü   y
+ö	2
+ë~	~œ
+RH	R
+
+GH	G
+HHH	X
+FH	p\
+BB	B\
+RR	r
+TS  ts
+DZ  dz
+H+	C
+SH+	K
+R'	4
+D'	4
+:	:
+-	?

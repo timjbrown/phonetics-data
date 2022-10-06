@@ -1,0 +1,41 @@
+// https://en.wikipedia.org/wiki/Help:IPA/Esperanto
+
+a  AA
+b  B
+c  TS
+ĉ  CH
+d  D
+e  EH
+f  F
+g  G
+ĝ  JH
+h  HH
+ĥ  KH
+i  IY
+j  Y
+ĵ  ZH
+k  K
+l  L
+m  M
+n  N
+o  O
+p  P
+r  R'
+s  S
+ŝ  SH
+t  T
+u  UW
+ŭ  UW
+v  V
+z  Z
+
+// dipthongs not needed because phonetically consistent
+aj  AY
+ej  EY
+oj  OY
+uj  UW IY
+aŭ  AA UW
+eŭ  EH UW
+oŭ  OW UW
+
+

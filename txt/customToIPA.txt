@@ -3,7 +3,7 @@ AA	ɑ
 AE	æ
 AH	ʌ
 AH2	ə
-AO	ɒ
+AO	ɔ
 OU	ɔ
 AW	aʊ
 AY	aɪ

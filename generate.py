@@ -17,7 +17,7 @@ def dict_to_file(dict, filename):
     else:
         print('Failed to write', filename)
 
-def get_dict(filename):
+def file_to_dict(filename):
     dct = {}
     with open(filename, 'r', encoding='utf8') as file:
         for line in file:
@@ -66,7 +66,7 @@ def translate(text, dct):
 def generate(*filenames):
     inFilenames = filenames[0:-1]
     outFilename = filenames[-1]
-    dcts = [get_dict(inFilename) for inFilename in inFilenames]
+    dcts = [file_to_dict(inFilename) for inFilename in inFilenames]
     dct = dcts[0].copy()
     for k in dct:
         for d in dcts[1:]:

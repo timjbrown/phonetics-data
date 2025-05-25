@@ -15,7 +15,7 @@ AY	ai
 EY	ėi
 OY	oi
 UY  u̇i
-UH	ü
+UH	ʊ
 UW	u
 UW2	u
 ER	er
@@ -24,13 +24,13 @@ EM	em
 EN	en
 OR  or
 &   á
-EA	ae
+EA	á
 
 //EnglishConsonants
 B	b
-CH	č
+CH	c
 D	d
-DH	ð
+DH	đ
 F	f
 G	g
 HH	h
@@ -39,13 +39,13 @@ K	k
 L	l
 M	m
 N	n
-NG	ng
-NGG ng
+NG	ŋ
+NGG ŋ
 NY	ny
 P	p
 R	r
 S	s
-SH	š
+SH	ṡ
 T	t
 TH	ŧ
 V	v
@@ -53,8 +53,8 @@ W	w
 WH	hw
 Y	y
 Z	z
-ZH	ž
-X	ǩ
+ZH	ż
+X	k̇
 
 //French
 O	o
@@ -66,11 +66,11 @@ WY	wy
 ü   ü
 ö	ö
 ë~	ê
-RH	ř
+RH	ṛ
 
-GH	ǧ
-HHH	ḣ
-FH	ḟ
+GH	gh
+HHH	hh
+FH	fh
 BB	bb
 RR	rr
 TS  ts

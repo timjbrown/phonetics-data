@@ -56,7 +56,7 @@ abandons  AH2 B & N D IH N Z
 abanto  AH2 B & N T OW
 abarca  AH2 B AA R K AH2
 abare  AA B AA R IY
-abascal  AE B AH S K EL
+abascal  AE B AH2 S K EL
 abash  AH2 B AE SH
 abashed  AH2 B AE SH T
 abasia  AH2 B EY ZH Y AH2
@@ -73,7 +73,7 @@ abbasi  AA B AA S IY
 abbate  AA B EY T
 abbatiello  AA B AA T IY EH L OW
 abbe  AE B IY
-abbenhaus  AE B AH N HH AW S
+abbenhaus  AE B AH2 N HH AW S
 abbett  AH2 B EH T
 abbeville  AE B V IH L
 abbey  AE B IY
@@ -92,7 +92,7 @@ abbreviates  AH2 B R IY V IY EY T S
 abbreviating  AH2 B R IY V IY EY T IH NG
 abbreviation  AH2 B R IY V IY EY SH IH N
 abbreviations  AH2 B R IY V IY EY SH IH N Z
-abbruZese  AA B R UW T S EY Z IY
+abbruzzese  AA B R UW T S EY Z IY
 abbs  AE B Z
 abby  AE B IY
 abco  AE B K OW
@@ -216,7 +216,7 @@ abo  AA B OW
 abo's  AA B OW Z
 aboard  AH2 B OR D
 abode  AH2 B OW D
-abohalima  AE B AH HH AH L IY M AH2
+abohalima  AE B AH2 HH AH L IY M AH2
 abolish  AH2 B AA L IH SH
 abolished  AH2 B AA L IH SH T
 abolishes  AH2 B AA L IH SH IH Z
@@ -262,11 +262,11 @@ above's  AH2 B AH V Z
 aboveboard  AH2 B AH V B OR D
 abplanalp  AE B P L AH N AE L P
 abra  AA B R AH2
-abracadabra  AE B R AH K AH D AE B R AH2
+abracadabra  AE B R AH2 K AH D AE B R AH2
 abraham  EY B R AH2 HH & M
-abrahamian  AE B R AH HH EY M IY AH2 N
+abrahamian  AE B R AH2 HH EY M IY AH2 N
 abrahams  EY B R AH2 HH & M Z
-abrahamsen  AE B R AH HH & M S IH N
+abrahamsen  AE B R AH2 HH & M S IH N
 abrahamson  AH2 B R AE HH AH M S AH2 N
 abram  AH2 B R & M
 abram's  EY B R AH2 M Z
@@ -305,8 +305,8 @@ abrupt  AH2 B R AH P T
 abruptly  AH2 B R AH P T L IY
 abruptness  AH2 B R AH P T N IH S
 abrutyn  EY B R UW T IH N
-abruZese  AA B R UW T S EY Z IY
-abruZo  AA B R UW Z OW
+abruzzese  AA B R UW T S EY Z IY
+abruzzo  AA B R UW Z OW
 abs  AE B Z
 absalom  AE B S EL AH M
 absaraka  AE B S AA R AH K AH2
@@ -392,7 +392,7 @@ abut  AH2 B AH T
 abuts  AH2 B AH T S
 abutted  AH2 B AH2 T AH2 D
 abutting  AH2 B AH T IH NG
-abuZ  AH2 B AH Z
+abuzz  AH2 B AH Z
 abysmal  AH2 B IH Z M EL
 abysmally  AH2 B IH Z M EL IY
 abyss  AH2 B IH S
@@ -930,6 +930,8 @@ additives  AE D IH T IH V Z
 addle  AE D EL
 addled  AE D EL D
 addleman  AE D EL M AH2 N
+addon  AE D AO N
+addons  AE D AO N Z
 address  AE D R EH S
 addressable  AE D R EH S AH2 B EL
 addressed  AH2 D R EH S T
@@ -953,7 +955,7 @@ adelbert  AH2 D EH L B ER T
 adele  AH2 D EH L
 adele's  AH2 D EH L Z
 adeline  AE D EL AY N
-adeliZi  AE D EL IY Z IY
+adelizzi  AE D EL IY Z IY
 adell  AH2 D EH L
 adell's  AH2 D EH L Z
 adelle  AH2 D EH L
@@ -1031,6 +1033,7 @@ adjudication  AH2 JH UW D AH2 K EY SH IH N
 adjunct  AE JH AH NG K T
 adjuncts  AE JH AH NG K T S
 adjust  AH2 JH AH S T
+adjustability  AH2 JH AH S T AH2 B IH L IH T IY
 adjustable  AH2 JH AH S T AH2 B EL
 adjustables  AH2 JH AH S T AH2 B EL Z
 adjusted  AH2 JH AH S T AH2 D
@@ -1477,8 +1480,8 @@ afrikaner  AE F R AH2 K AA N ER
 afrikanerdom  AE F R AH2 K AA N ER D EM
 afrikaners  AE F R IH K AA N ER Z
 afro  AE F R OW
-afroamerican  AE F R OW AH2 M EH R IH K IH N
-afroamericans  AE F R OW AH2 M EH R IH K IH N Z
+afroamerican  AE F R OW AH2 M EY R IH K IH N
+afroamericans  AE F R OW AH2 M EY R IH K IH N Z
 afrocentric  AE F R OW S EH N T R IH K
 afsane  AA F S AA N EY
 afsane's  AA F S AA N EY Z
@@ -2750,7 +2753,7 @@ almer  AO L M ER
 almeria  AA L M ER IY AH2
 almgren  AE L M G R EH N
 almighty  AO L M UY T IY
-almira  AA L M IH R AH2
+almira  AA L M IY R AH2
 almo  AA L M OW
 almodovar  AA L M OW D OW V AA R
 almon  AA L M AH2 N
@@ -2871,7 +2874,7 @@ altai  AE L T AY
 altaic  AE L T EY IH K
 altair  AA L T EH R
 altamira  AA L T AA M IY R AH2
-altamirano  AA L T AA M IH R AA N OW
+altamirano  AA L T AA M IY R AA N OW
 altamont  AA L T AH2 M AO N T
 altamuro  AO L T AH2 M UH R OW
 altar  AO L T ER
@@ -2891,7 +2894,7 @@ alterations  AO L T ER EY SH IH N Z
 altercation  AA L T ER K EY SH IH N
 altercations  AA L T ER K EY SH IH N Z
 altered  AO L T ER D
-altergott  AE L T ER G AH T
+altergott  AE L T ER G AH2 T
 altering  AO L T ER IH NG
 alterman  AO L T ER M AH2 N
 alternacare  AO L T ER N AH2 K EY R
@@ -3230,44 +3233,44 @@ amerada  & M EH R AA D AH2
 amerco  AH2 M EH R K OW
 amerford  EY M ER F ER D
 ameri  AH2 M EH R IY
-ameribanc  AH2 M EH R IH B EY NG K
-america  AH2 M EH R IH K AH2
-america's  AH2 M EH R IH K AH2 Z
-american  AH2 M EH R IH K IH N
-american's  AH2 M EH R IH K IH N Z
+ameribanc  AH2 M EY R IH B EY NG K
+america  AH2 M EY R IH K AH2
+america's  AH2 M EY R IH K AH2 Z
+american  AH2 M EY R IH K IH N
+american's  AH2 M EY R IH K IH N Z
 americana  AH2 M EH R AH2 K AA N AH2
 americana's  AH2 M EH R AH2 K AA N AH2 Z
 americanas  AH2 M EH R AH2 K AA N AH2 Z
-americanism  AH2 M EH R IH K AH2 N IH Z EM
-americanization  AH2 M EH R IH K AH2 N AH2 Z EY SH IH N
-americanize  AH2 M EH R IH K IH N AY Z
-americanized  AH2 M EH R IH K IH N AY Z D
-americano  AH2 M EH R IH K AA N OW
-americanos  AH2 M EH R IH K AA N OW Z
-americans  AH2 M EH R IH K IH N Z
-americans'  AH2 M EH R IH K IH N Z
-americar  AH2 M EH R IH K AA R
-americare  AH2 M EH R IH K EY R
-americares  AH2 M EH R IH K EY R Z
-americas  AH2 M EH R IH K AH2 Z
-americas'  AH2 M EH R IH K AH2 Z
+americanism  AH2 M EY R IH K AH2 N IH Z EM
+americanization  AH2 M EY R IH K AH2 N AH2 Z EY SH IH N
+americanize  AH2 M EY R IH K IH N AY Z
+americanized  AH2 M EY R IH K IH N AY Z D
+americano  AH2 M EY R IH K AA N OW
+americanos  AH2 M EY R IH K AA N OW Z
+americans  AH2 M EY R IH K IH N Z
+americans'  AH2 M EY R IH K IH N Z
+americar  AH2 M EY R IH K AA R
+americare  AH2 M EY R IH K EY R
+americares  AH2 M EY R IH K EY R Z
+americas  AH2 M EY R IH K AH2 Z
+americas'  AH2 M EY R IH K AH2 Z
 americo  AH2 M ER IH K OW
-americold  AH2 M EH R IH K OW L D
-americorp  AH2 M EH R IH K OR
-americorps  AH2 M EH R IH K OR
-americus  AH2 M EH R IH K AH2 S
-ameridata  AH2 M EH R IH D EY T AH2
+americold  AH2 M EY R IH K OW L D
+americorp  AH2 M EY R IH K OR
+americorps  AH2 M EY R IH K OR
+americus  AH2 M EY R IH K AH2 S
+ameridata  AH2 M EY R IH D EY T AH2
 amerifirst  AH2 M EH R AH2 F ER S T
 amerifirst's  AH2 M EH R AH2 F ER S T S
-amerigas  AH2 M EH R IH G AE S
+amerigas  AH2 M EY R IH G AE S
 amerigo  AA M ER IY G OW
-amerihost  AH2 M EH R IH HH OW S T
-amerika  AH2 M EH R IH K AH2
+amerihost  AH2 M EY R IH HH OW S T
+amerika  AH2 M EY R IH K AH2
 amerindian  & M ER IH N D IY AH2 N
 amerine  AA M ER IY N IY
-ameritech  AH2 M EH R IH T EH K
-ameritech's  AH2 M EH R IH T EH K S
-ameritrust  AH2 M EH R IH T R AH S T
+ameritech  AH2 M EY R IH T EH K
+ameritech's  AH2 M EY R IH T EH K S
+ameritrust  AH2 M EY R IH T R AH S T
 amerman  & M ER M AH2 N
 amero  AA M EH R OW
 ameron  & M ER AA N
@@ -3323,13 +3326,13 @@ amino  AH2 M IY N OW
 aminta  AH2 M IH N T AH2
 amiot  EY M IY AH2 T
 amiprilose  AH2 M IH P R EL OW S
-amir  AA M IH R
-amir's  AA M IH R Z
+amir  AA M IY R
+amir's  AA M IY R Z
 amiram  & M ER & M
-amiran  & M IH R IH N
+amiran  & M IY R IH N
 amirault  & M IY R AW L T
-amirav  & M IH R AE V
-amiri  AA M IH R IY
+amirav  & M IY R AE V
+amiri  AA M IY R IY
 amis  & M IH S
 amish  AA M IH SH
 amison  & M IH S AH2 N
@@ -3345,7 +3348,7 @@ ammeen  AH2 M IY N
 ammerman  & M ER M AH2 N
 ammeter  & M IY T ER
 ammeters  & M IY T ER Z
-ammirati  AA M IH R AA T IY
+ammirati  AA M IY R AA T IY
 ammo  & M OW
 ammon  & M AH2 N
 ammonia  AH2 M OW N Y AH2
@@ -3670,7 +3673,7 @@ andraki  & N D AE K IY
 andras  AA N D R AH S
 andre  AA N D R EY
 andrea  AA N D R EY AH2
-andrea's  AA N D R EY AH Z
+andrea's  AA N D R EY AH2 Z
 andreae  AA N D R EY AA
 andreana  & N D R IH AA N AA
 andreani  & N D R IH AA N IY
@@ -3688,7 +3691,7 @@ andren  & N D ER IH N
 andreoli  AA N D R EY OW L IY
 andreoni  AA N D R EY OW N IY
 andreotti  AA N D R IY AA T IY
-andreoZi  AA N D R IY AA T S IY
+andreozzi  AA N D R IY AA T S IY
 andrepont  AA N D R EY P OW N T
 andres  AA N D R EY Z
 andresen  & N D R IY S IH N
@@ -4108,7 +4111,7 @@ antecedents  & N T IH S IY D IH N T S
 anted  & N T IY D
 antell  & N T EH L
 antelope  & N T EL OW P
-antemeridian  & N T AH2 M EH R IH D IY AH2 N
+antemeridian  & N T AH2 M EY R IH D IY AH2 N
 antemortem  & N T AH2 M OR T AH2 M
 antenna  & N T EH N AH2
 antenna's  & N T EH N AH2 Z
@@ -4635,7 +4638,7 @@ aptitude  AE P T AH2 T UW D
 aptitudes  AE P T AH2 T UW D Z
 aptiva  AE P T IY V AH2
 aptly  AE P T L IY
-apuZo  AA P UW Z OW
+apuzzo  AA P UW Z OW
 aqaba  AH2 K AA B AH2
 aqazadeh  AE K AH2 Z AA D EH
 aqua  AA K W AH2
@@ -4678,7 +4681,7 @@ arabic  EY R AH2 B IH K
 arabica  AH2 R AE B IH K AH2
 arabichon  AH2 R AE B IH SH AO N
 arabichon's  AH2 R AE B IH SH AO N Z
-arabicon  AH2 R AE B AH K AO N
+arabicon  AH2 R AE B AH2 K AO N
 arabie  EY R AH2 B IY
 arable  EY R AH2 B EL
 arabs  EY R AH2 B Z
@@ -4732,27 +4735,27 @@ arbel  AA R B EL
 arbella  AA R B EH L AH2
 arbenz  AA R B EH N Z
 arbiter  AA R B IH T ER
-arbiters  AA R B AH T ER Z
+arbiters  AA R B AH2 T ER Z
 arbitrage  AA R B IH T R AA ZH
 arbitrager  AA R B IH T R AA ZH ER
 arbitragers  AA R B IH T R AA ZH ER Z
 arbitragers'  AA R B IH T R AA ZH ER Z
 arbitrageur  AA R B IH T R AA ZH ER
-arbitrageurs  AA R B AH T R AA ZH ER Z
-arbitraging  AA R B AH T R AA JH IH NG
+arbitrageurs  AA R B AH2 T R AA ZH ER Z
+arbitraging  AA R B AH2 T R AA JH IH NG
 arbitrarily  AA R B AH2 T R EY R EL IY
-arbitrariness  AA R B AH T R EY R IY N IH S
+arbitrariness  AA R B AH2 T R EY R IY N IH S
 arbitrary  AA R B IH T R EH R IY
-arbitrate  AA R B AH T R EY T
-arbitrated  AA R B AH T R EY T AH2 D
+arbitrate  AA R B AH2 T R EY T
+arbitrated  AA R B AH2 T R EY T AH2 D
 arbitrates  AA R B AH2 T R EY T S
-arbitrating  AA R B AH T R EY T IH NG
+arbitrating  AA R B AH2 T R EY T IH NG
 arbitration  AA R B AH2 T R EY SH IH N
 arbitrations  AA R B AH2 T R EY SH IH N Z
 arbitrator  AA R B AH2 T R EY T ER
-arbitrator's  AA R B AH T R EY T ER Z
+arbitrator's  AA R B AH2 T R EY T ER Z
 arbitrators  AA R B AH2 T R EY T ER Z
-arbitrators'  AA R B AH T R EY T ER Z
+arbitrators'  AA R B AH2 T R EY T ER Z
 arbitron  AA R B IH T R AA N
 arbo  AA R B OW
 arbogast  AA R B OW G AA S T
@@ -4764,9 +4767,9 @@ arborville  AA R B ER V IH L
 arbothnott  AA R B AO TH N AO T
 arbour  AA R B ER
 arbs  AA R B Z
-arbuckle  AA R B AH K EL
-arbuckles  AA R B AH K EL Z
-arbuthnot  AA R B AH TH N AH T
+arbuckle  AA R B AH2 K EL
+arbuckles  AA R B AH2 K EL Z
+arbuthnot  AA R B AH2 TH N AH T
 arby  AA R B IY
 arby's  AA R B IY Z
 arc  AA R K
@@ -6696,7 +6699,7 @@ azides  AE Z AY D Z
 azidothymidine  AH2 Z IH D AH TH AY M AH2 D IY N
 azinger  EY Z IH NG ER
 aziz  AH2 Z IY Z
-azmeer  AE Z M IH R
+azmeer  AE Z M IY R
 azoff  AE Z AO F
 azores  AH2 Z OR Z
 azpurua  AE Z P Y UH R UW AH2
@@ -6707,11 +6710,11 @@ aztecs  AE Z T EH K S
 azuka  AH2 Z UW K AH2
 azura  AH2 Z UH R AH2
 azure  AE ZH ER
-aZara  AA T S AA R AH2
-aZarello  AA T S AA R EH L OW
-aZaro  AA T S AA R OW
-aZato  AH2 Z AA T OW
-aZopardi  AA T S OW P AA R D IY
+azzara  AA T S AA R AH2
+azzarello  AA T S AA R EH L OW
+azzaro  AA T S AA R OW
+azzato  AH2 Z AA T OW
+azzopardi  AA T S OW P AA R D IY
 ba'ath  B AA TH
 ba'athism  B AA TH IH Z M
 ba'athist  B AA TH IH S T
@@ -7237,7 +7240,7 @@ baldauf  B AE L D AW F
 baldelli  B AA L D EH L IY
 baldemar  B AA L D EY M AA R
 balder  B AO L D ER
-balderas  B AE L D ER AH Z
+balderas  B AE L D ER AH2 Z
 balderdash  B AO L D ER D AE SH
 balderrama  B AA L D EY R AA M AH2
 balderson  B AE L D ER S AH2 N
@@ -7713,8 +7716,8 @@ barb's  B AA R B Z
 barba  B AA R B AH2
 barbados  B AA R B EY D OW S
 barbagallo  B AA R B AH2 G AE L OW
-barbakow  B AA R B AH K AW
-barbanel  B AA R B AH N EL
+barbakow  B AA R B AH2 K AW
+barbanel  B AA R B AH2 N EL
 barbano  B AA R B AA N OW
 barbara  B AA R B ER AH2
 barbara's  B AA R B ER AH Z
@@ -8446,7 +8449,7 @@ baubles  B AO B EL Z
 baublitz  B AW B L IH T S
 bauch  B AO CH
 baucom  B OW K AA M
-baucum  B OW K AH M
+baucum  B OW K AH2 M
 baucus  B AA K AH2 S
 baud  B AO D
 baudendistel  B AW D IH N D IH S T EL
@@ -8503,10 +8506,10 @@ bauwens  B AW W IH N Z
 bauxite  B AA K S UY T
 bauza  B AW Z AH2
 bava  B AA V AH2
-bavadra  B AH V AE D R AH2
-bavaria  B AH V EY R IY AH2
-bavaria's  B AH V EY R IY AH2 Z
-bavarian  B AH V EH R IY AH2 N
+bavadra  B AH2 V AE D R AH2
+bavaria  B AH2 V EY R IY AH2
+bavaria's  B AH2 V EY R IY AH2 Z
+bavarian  B AH2 V EY R IY AH2 N
 bavaro  B AA V AA R OW
 baver  B EY V ER
 bavis  B EY V IH S
@@ -8561,8 +8564,8 @@ bayne  B EY N
 baynes  B EY N Z
 baynham  B EY N HH AH M
 bayog  B EY AA G
-bayonet  B EY AH N EH T
-bayonets  B EY AH N EH T S
+bayonet  B EY AH2 N EH T
+bayonets  B EY AH2 N EH T S
 bayonne  B EY Y OW N
 bayou  B AY UW
 bayous  B AY UW Z
@@ -8575,7 +8578,7 @@ baysinger  B EY S IH N JH ER
 baytown  B EY T AW N
 baytree  B EY T R IY
 baytree's  B EY T R IY Z
-bayuk  B EY AH K
+bayuk  B EY AH2 K
 bayul  B EY AH2 L
 bayus  B EY AH2 S
 baywatch  B EY W AA CH
@@ -8591,9 +8594,9 @@ bazile  B AA Z IY L
 bazinet  B AE Z IH N EH T
 bazooka  B AH Z UW K AH2
 bazookas  B AH Z UW K AH Z
-baZano  B AA T S AA N OW
-baZell  B AE Z AH2 L
-baZle  B AE Z AH2 L
+bazzano  B AA T S AA N OW
+bazzell  B AE Z AH2 L
+bazzle  B AE Z AH2 L
 be  B IY
 be's  B IY Z
 bea  B IY
@@ -9332,7 +9335,7 @@ bellino  B EH L IY N OW
 bellis  B EH L AH2 S
 bellissimo  B EH L IY S IY M OW
 belliveau  B EH L IH V OW
-belliZi  B EH L IY T S IY
+bellizzi  B EH L IY T S IY
 bellm  B EH L M
 bellman  B EH L M AH2 N
 bellmon  B EH L M AH2 N
@@ -9680,7 +9683,7 @@ benzing  B EH N Z IH NG
 benzinger  B EH N Z IH NG ER
 benzodiazepine  B EH N Z OW D IY AE Z AH P IY N
 beougher  B AW F ER
-beowulf  B EY AH W UH L F
+beowulf  B EY AH2 W UH L F
 bequeath  B IH K W IY TH
 bequeathed  B AH K W IY TH T
 bequest  B IH K W EH S T
@@ -9748,7 +9751,7 @@ bergeman  B ER G M AH2 N
 bergemann  B ER G M AH2 N
 bergen  B ER G IH N
 bergendahl  B ER G EH N D AA L
-bergenfield  B ER G AH N F IY L D
+bergenfield  B ER G AH2 N F IY L D
 bergenthal  B ER G IH N TH AA L
 berger  B ER G ER
 berger's  B ER G ER Z
@@ -9787,7 +9790,7 @@ bergstrausser's  B ER G S T R AW S ER Z
 bergstresser  B ER G S T R EH S ER
 bergstrom  B ER G S T R AA M
 bergthold  B ER G TH OW L D
-bergum  B ER G AH M
+bergum  B ER G AH2 M
 berhow  B ER HH OW
 beria  B EH R IY AH2
 bering  B EH R IH NG
@@ -10316,7 +10319,7 @@ bibliography  B IH B L IY AA G R AH2 F IY
 bibs  B IH B Z
 biby  B AY B IY
 bic  B IH K
-bicarbonate  B AY K AA R B AH N AH T
+bicarbonate  B AY K AA R B AH2 N AH T
 bice  B UY S
 bicentenary  B AY S EH N T IH N EH R IY
 bicentennial  B AY S EH N T EH N IY EL
@@ -10820,6 +10823,7 @@ birdhouses  B ER D HH AW S IH Z
 birdie  B ER D IY
 birdied  B ER D IY D
 birdies  B ER D IY Z
+birding  B ER D IH NG
 birdlife  B ER D L UY F
 birdlike  B ER D L UY K
 birdman  B ER D M & N
@@ -11015,9 +11019,9 @@ bizarre  B IH Z AA R
 bizet  B IH Z EH T
 bizmart  B IH Z M AA R T
 bizub  B IH Z AH2 B
-biZaro  B IH Z AA R OW
-biZell  B IH Z AH2 L
-biZy  B IH Z IY
+bizzaro  B IH Z AA R OW
+bizzell  B IH Z AH2 L
+bizzy  B IH Z IY
 bjelasnica  B Y EH L AE S N IH K AH2
 bjelland  B Y EH L AH2 N D
 bjerke  B Y ER K
@@ -11383,8 +11387,8 @@ blip  B L IH P
 blips  B L IH P S
 bliscoll  B L IH S K AO L
 blish  B L IH SH
-bliss  B L AH2 S
-bliss'  B L AH2 S
+bliss  B L IH S
+bliss'  B L IH S
 blissett  B L IH S IH T
 blissful  B L IH S F EL
 blissfully  B L IH S F EL IY
@@ -11406,8 +11410,8 @@ blitzkrieg  B L IH T S K R IY G
 bliven  B L AY V IH N
 blixt  B L IH K S T
 blizard  B L IH Z ER D
-bliZard  B L IH Z ER D
-bliZards  B L IH Z ER D Z
+blizzard  B L IH Z ER D
+blizzards  B L IH Z ER D Z
 bloat  B L OW T
 bloated  B L OW T AH2 D
 bloatedness  B L OW T IH D N IH S
@@ -11808,12 +11812,12 @@ bobsled  B AA B S L EH D
 bobst  B AA B S T
 bobzien  B AA B Z IY N
 boca  B OW K AH2
-bocanegra  B OW K AH N EH G R AH2
+bocanegra  B OW K AH2 N EH G R AH2
 bocce  B OW CH IY
 bocchino  B OW K IY N OW
 boccia  B OW CH AH2
 boccio  B OW CH IY OW
-boccuZi  B OW K UW T S IY
+boccuzzi  B OW K UW T S IY
 bocek  B OW CH EH K
 boch  B AA K
 bocharov  B AA CH ER AA V
@@ -12163,13 +12167,13 @@ bollore  B AA L OR
 bolls  B OW L Z
 bollywood  B AA L IY W UH D
 bollywood's  B AA L IY W UH D Z
-bologna  B EL OW N IY
-bolognese  B OW L OW NG EH Z IY
-bolognesi  B AA L AA NG EH S IY
+bologna  B AH2 L OW N IY
+bolognese  B OW L AH2 N EY Z
+bolognesi  B OW L AH2 N EY S IY
 bolon  B OW L IH N
 bolotin  B AA L AH2 T IH N
 bolsa  B OW L S AH2
-bolsa's  B OW L S AH Z
+bolsa's  B OW L S AH2 Z
 bolser  B OW L S ER
 bolshevik  B OW L SH AH2 V IH K
 bolsheviks  B OW L SH AH2 V IH K S
@@ -12877,8 +12881,8 @@ bouillabaise  B UW L Y AH2 B EY S
 bouillon  B UW W IH L IH N
 bouknight  B AW K N UY T
 boulais  B UW L EY
-boulalas  B UW L AH L AH S
-boulanger  B AW L AH NG ER
+boulalas  B UW L AH2 L AH2 S
+boulanger  B AW L AH2 NG ER
 boulangerie  B UW L EH NGG ER IY
 boulay  B UW L EY
 boulden  B UH D IH N
@@ -13144,9 +13148,9 @@ bozman  B AA Z M AH2 N
 bozo  B OW Z OW
 bozos  B OW Z OW Z
 boztepe  B AA Z T EH P
-boZa  B AA Z AH2
-boZi  B AA Z IY
-boZo  B AA Z OW
+bozza  B AA Z AH2
+bozzi  B AA Z IY
+bozzo  B AA Z OW
 bra  B R AA
 braaksma  B R AA K S M AH2
 braasch  B R AA SH
@@ -13574,10 +13578,10 @@ brazilian  B R AH2 Z IH L Y IH N
 brazilians  B R AH2 Z IH L Y IH N Z
 brazill  B R AE Z AH2 L
 brazos  B R AA Z OW S
-braZaville  B R AE Z AH2 V IH L
-braZaville's  B R AE Z AH2 V IH L Z
-braZel  B R AE Z AH2 L
-braZell  B R AE Z AH2 L
+brazzaville  B R AE Z AH2 V IH L
+brazzaville's  B R AE Z AH2 V IH L Z
+brazzel  B R AE Z AH2 L
+brazzell  B R AE Z AH2 L
 brca  B R IH K AH2
 brcko  B ER CH K OW
 brcko's  B ER CH K OW Z
@@ -14122,8 +14126,8 @@ brixius  B R UY K S IY AH2 S
 brizendine  B R IY Z EH N D IY N IY
 brizill  B R IH Z IH L
 brizola  B R IH Z OW L AH2
-briZi  B R IH Z IY
-briZolara  B R IY T S OW L AA R AH2
+brizzi  B R IH Z IY
+brizzolara  B R IY T S OW L AA R AH2
 bro  B R OW
 bro's  B R OW Z
 broach  B R OW CH
@@ -14663,7 +14667,7 @@ bruun  B R UW N
 bruxelles  B R AH K S EH L AH2 S
 bruyette  B R UW EH T
 bruynes  B R UW IH N Z
-bruZese  B R UW T S EY Z IY
+bruzzese  B R UW T S EY Z IY
 bryan  B R AY AH2 N
 bryan's  B R AY AH2 N Z
 bryans  B R AY AH2 N Z
@@ -15012,7 +15016,7 @@ buitoni  B Y UW T OW N IY
 buitrago  B IH T R AA G OW
 buitron  B IH T R IH N
 bujak  B UW Y AH K
-bujumbura  B UW JH AH M B UH R AH2
+bujumbura  B UW JH AH M B ER AH2
 bukar  B Y UW K AA R
 bukavu  B UW K AA V UW
 bukavu's  B UW K AA V UW Z
@@ -15022,9 +15026,9 @@ bukovina  B UW K AO V IH N AA
 bukovsky  B UW K AA V S K IY
 bukowski  B Y UW K AO F S K IY
 bula  B Y UW L AH2
-bulat  B UW L AH T
+bulat  B UW L AH2 T
 bulb  B AH L B
-bulbous  B AH L B AH S
+bulbous  B AH L B AH2 S
 bulbs  B AH L B Z
 bulemia  B EL IY M IY AH2
 bulemic  B EL IY M IH K
@@ -15316,7 +15320,7 @@ burfeind  B ER F AY N D
 burfield  B ER F IY L D
 burford  B ER F ER D
 burg  B ER G
-burgamy  B ER G AH M IY
+burgamy  B ER G AH2 M IY
 burgan  B ER G & N
 burgard  B ER G ER D
 burgdorf  B ER G D OR F
@@ -15353,20 +15357,20 @@ burgman  B ER G M AH2 N
 burgmaster  B ER G M AE S T ER
 burgner  B ER G N ER
 burgo  B ER G OW
-burgomaster  B ER G AH M AE S T ER
-burgomaster's  B ER G AH M AE S T ER Z
-burgomasters  B ER G AH M AE S T ER Z
+burgomaster  B ER G AH2 M AE S T ER
+burgomaster's  B ER G AH2 M AE S T ER Z
+burgomasters  B ER G AH2 M AE S T ER Z
 burgoon  B ER G UW N
 burgos  B ER G OW Z
 burgoyne  B ER G OY N
 burgoyne's  B ER G OY N Z
-burgundian  B ER G AH N D IY AH2 N
-burgundians  B ER G AH N D IY AH2 N Z
-burgundies  B ER G AH N D IY Z
-burgundy  B ER G AH N D IY
-burgundy's  B ER G AH N D IY Z
+burgundian  B ER G AH2 N D IY AH2 N
+burgundians  B ER G AH2 N D IY AH2 N Z
+burgundies  B ER G AH2 N D IY Z
+burgundy  B ER G AH2 N D IY
+burgundy's  B ER G AH2 N D IY Z
 burgy  B ER JH IY
-burham  B ER HH AH M
+burham  B ER HH AH2 M
 burhans  B ER HH IH N Z
 buri  B UH R IY
 burial  B EH R IY EL
@@ -15580,7 +15584,7 @@ bushel  B UH SH EL
 bushell  B UH SH EL
 bushels  B UH SH EL Z
 busher  B UH SH ER
-bushes  B UH SH AH Z
+bushes  B UH SH AH2 Z
 bushey  B UH SH IY
 bushings  B UH SH IH NG Z
 bushkin  B UH SH K IH N
@@ -15792,22 +15796,22 @@ buzard  B Y UW Z AA R D
 buzbee  B AH Z B IY
 buzby  B AH Z B IY
 buzek  B UW Z EH K
-buZ  B AH Z
-buZard  B AH Z ER D
-buZard's  B AH Z ER D Z
-buZards  B AH Z ER D Z
-buZe  B AH Z
-buZed  B AH Z D
-buZell  B AH Z EH L
-buZelli  B UW T S EH L IY
-buZer  B AH Z ER
-buZes  B AH Z IH Z
-buZetta  B Y UW Z EH T AH2
-buZing  B AH Z IH NG
-buZword  B AH Z W ER D
-buZwords  B AH Z W ER D Z
-buZy  B AH Z IY
-buZy's  B AH Z IY Z
+buzz  B AH Z
+buzzard  B AH Z ER D
+buzzard's  B AH Z ER D Z
+buzzards  B AH Z ER D Z
+buzze  B AH Z
+buzzed  B AH Z D
+buzzell  B AH Z EH L
+buzzelli  B UW T S EH L IY
+buzzer  B AH Z ER
+buzzes  B AH Z IH Z
+buzzetta  B Y UW Z EH T AH2
+buzzing  B AH Z IH NG
+buzzword  B AH Z W ER D
+buzzwords  B AH Z W ER D Z
+buzzy  B AH Z IY
+buzzy's  B AH Z IY Z
 by  B AY
 byam  B AY AH2 M
 byard  B Y AA R D
@@ -15890,7 +15894,7 @@ caballero  K AA B AA Y EH R OW
 caban  K EY B IH N
 cabana  K AH B & N AH2
 cabanas  K AH B & N AH2 Z
-cabaniss  K AE B AH N IH S
+cabaniss  K AE B AH2 N IH S
 cabaret  K AE B ER EY
 cabarets  K AE B ER EY Z
 cabbage  K AE B IH JH
@@ -16075,7 +16079,7 @@ cahoots  K AH HH UW T S
 cahora  K AH HH OR AH2
 cahouet  K AH HH UW T
 cai  K AY
-caiaZo  K AA Y AA Z OW
+caiazzo  K AA Y AA Z OW
 caicedo  K AH CH EY D OW
 cail  K EY L
 caillebotte  K AY B AO T
@@ -16330,7 +16334,7 @@ calumet  K AE L Y AH M EH T
 calumny  K AE L AH2 M N IY
 calutzi  K EL UW T Z IY
 caluzu  K EL UW Z UW
-caluZi  K EL UW Z IY
+caluzzi  K EL UW Z IY
 calvani  K AO L V AA N IY
 calvano  K AA L V AA N OW
 calvaries  K AE L V ER IY Z
@@ -16406,7 +16410,7 @@ cameo  K & M IY OW
 cameos  K & M IY OW Z
 camera  K & M R AH2
 camera's  K & M R AH2 Z
-cameraman  K & M R AH2 M AH2 N
+cameraman  K & M R AH2 M & N
 cameramen  K & M R AH2 M EH N
 cameras  K & M R AH2 Z
 camerer  K & M ER ER
@@ -16424,7 +16428,7 @@ camilli  K AH2 M IH L IY
 camillo  K AH M IH L OW
 caminiti  K AA M IY N IY T IY
 camino  K AH2 M IY N OW
-camire  K AA M IH R IY
+camire  K AA M IY R IY
 camm  K & M
 cammack  K & M AH2 K
 cammarano  K AA M AA R AA N OW
@@ -16658,8 +16662,8 @@ canning  K & N IH NG
 cannister  K & N IH S T ER
 cannisters  K & N IH S T ER Z
 cannistraro  K & N IH S T R AA R OW
-canniZaro  K AA N IY T S AA R OW
-canniZo  K AA N IY Z OW
+cannizzaro  K AA N IY T S AA R OW
+cannizzo  K AA N IY Z OW
 cannon  K & N IH N
 cannon's  K & N IH N Z
 cannonball  K & N AH2 N B AO L
@@ -16824,7 +16828,7 @@ capitols  K AE P IH T EL Z
 capitulate  K AH P IH CH EL EY T
 capitulated  K AH P IH CH EL EY T AH2 D
 capitulation  K AH P IH CH EL EY SH IH N
-capiZi  K AA P IY T S IY
+capizzi  K AA P IY T S IY
 caplan  K AE P L IH N
 caple  K EY P EL
 caples  K EY P EL Z
@@ -16842,8 +16846,8 @@ caporaso  K AA P OR AA S OW
 capote  K AH P OW T
 capote's  K AH P OW T S
 capoten  K AH P OW T IH N
-capoZi  K AH P AA Z IY
-capoZoli  K AA P OW T S OW L IY
+capozzi  K AH P AA Z IY
+capozzoli  K AA P OW T S OW L IY
 capp  K AE P
 cappa  K AE P AH2
 cappadona  K AA P AA D OW N AH2
@@ -16923,7 +16927,7 @@ car's  K AA R Z
 cara  K EY R AH2
 cara's  K EY R AH2 Z
 cara'veras  K AA R AH2 V EH R AH2 Z
-carabajal  K ER AE B AH JH AH2 L
+carabajal  K ER AE B AH2 JH AH2 L
 caraballo  K EY R AH2 B AE L OW
 carabello  K EY R AH2 B EH L OW
 caracara  K AA R AH2 K AA R AH2
@@ -16971,19 +16975,19 @@ carbohydrates  K AA R B OW HH AY D R EY T S
 carbon  K AA R B IH N
 carbonara  K AA R B OW N AA R AH2
 carbonaro  K AA R B OW N AA R OW
-carbonate  K AA R B AH N EY T
-carbonated  K AA R B AH N EY T AH2 D
-carbonates  K AA R B AH N EY T S
-carbondale  K AA R B AH N D EY L
+carbonate  K AA R B AH2 N EY T
+carbonated  K AA R B AH2 N EY T AH2 D
+carbonates  K AA R B AH2 N EY T S
+carbondale  K AA R B AH2 N D EY L
 carbone  K AA R B OW N
-carbonell  K AA R B AH N EH L
+carbonell  K AA R B AH2 N EH L
 carbonetto  K AA R B OW N EH T OW
 carboni  K AA R B OW N IY
 carbonic  K AA R B AO N IH K
-carboniferous  K AA R B AH N IH F ER IH S
-carbonize  K AA R B AH N AY Z
-carbonized  K AA R B AH N AY Z D
-carbonneau  K AA R B AH N OW
+carboniferous  K AA R B AH2 N IH F ER IH S
+carbonize  K AA R B AH2 N AY Z
+carbonized  K AA R B AH2 N AY Z D
+carbonneau  K AA R B AH2 N OW
 carbons  K AA R B IH N Z
 carborundum  K AA R B ER AH N D EM
 carboxylic  K AA R B AA K S IH L IH K
@@ -17321,7 +17325,7 @@ carouse  K ER AW Z
 carousel  K EY R AH2 S EH L
 carousing  K ER AW Z IH NG
 carow  K AE R OW
-caroZa  K ER AA Z AH2
+carozza  K ER AA Z AH2
 carp  K AA R P
 carpal  K AA R P EL
 carpe  K AA R P EH
@@ -17422,7 +17426,7 @@ carrothers  K AE R AH DH ER Z
 carrots  K EY R IH T S
 carrousel  K EY R AH2 S EH L
 carrow  K AE R OW
-carroZa  K AA R OW Z AH2
+carrozza  K AA R OW Z AH2
 carrubba  K AA R UW B AH2
 carruth  K AE R UW TH
 carruthers  K ER AH2 DH ER Z
@@ -17539,7 +17543,7 @@ casas  K AA S AA S
 casassa  K AA S AA S AH2
 casaus  K AE S AO Z
 casavant  K AE S AH2 V IH N T
-casaZa  K AA S AA T S AH2
+casazza  K AA S AA T S AH2
 casbah  K AE S B AH2
 cascade  K AE S K EY D
 cascade's  K AE S K EY D Z
@@ -17595,8 +17599,8 @@ cashing  K AE SH IH NG
 cashion  K AA SH IY N
 cashless  K AE SH L AH2 S
 cashman  K AE SH M AH2 N
-cashmere  K AE ZH M IH R
-cashmeres  K AE ZH M IH R Z
+cashmere  K AE ZH M IY R
+cashmeres  K AE ZH M IY R Z
 cashmore  K AE SH M OR
 cashon  K AE SH IH N
 cashway  K AE SH W EY
@@ -17607,7 +17611,7 @@ casias  K AA S IY AH2 Z
 casillas  K AA S IH L AH2 Z
 casillo  K AH S IH L OW
 casimir  K AE S IH M IY R
-casimiro  K AA S IY M IH R OW
+casimiro  K AA S IY M IY R OW
 casing  K EY S IH NG
 casings  K EY S IH NG Z
 casino  K AH2 S IY N OW
@@ -17766,7 +17770,7 @@ castrucci  K AH S T R UW CH IY
 castruita  K AA S T R UW T AH2
 casts  K AE S T S
 casual  K AE ZH UW EL
-casually  K AE ZH UH L IY
+casually  K AE ZH AH2 L IY
 casualness  K AE ZH UW EL N IH S
 casuals  K AE ZH UW EL Z
 casualties  K AE ZH EL T IY Z
@@ -18582,7 +18586,7 @@ chambers's  CH EY M B ER Z IH Z
 chamblee  CH & M B L IY
 chambless  SH AH M B L AH2 S
 chamblin  CH & M B L IH N
-chambliss  CH & M B L AH2 S
+chambliss  CH & M B L IH S
 chambon  CH & M B IH N
 chameleon  K AH M IY L IY AH2 N
 chamlee  CH & M L IY
@@ -18726,9 +18730,9 @@ charade  SH ER EY D
 charades  SH ER EY D Z
 charalambos  CH AA R EL AA M B OW S
 charasse  CH EH R AE S
-charboneau  SH AA R B AH N OW
-charbonneau  SH AA R B AH N OW
-charbonnet  SH AA R B AH N IH T
+charboneau  SH AA R B AH2 N OW
+charbonneau  SH AA R B AH2 N OW
+charbonnet  SH AA R B AH2 N IH T
 charcoal  CH AA R K OW L
 charcoals  CH AA R K OW L Z
 chard  CH AA R D
@@ -18944,7 +18948,7 @@ chaz  CH AE Z
 chazanoff  CH AE Z AH N AO F
 chazen  CH EY Z IH N
 chazov  CH AE Z AA V
-chaZ  CH AE Z
+chazz  CH AE Z
 che  CH EY
 che's  CH EY Z
 chea  CH IY
@@ -19098,7 +19102,7 @@ chemlawn  K EH M L AO N
 chemlawn's  K EH M L AO N Z
 chemo  K IY M OW
 chemotherapy  K IY M OW TH EH R AH2 P IY
-chemyr  K EH M IH R
+chemyr  K EH M IY R
 chen  CH EH N
 chen's  CH EH N Z
 chenard  CH EH N ER D
@@ -19139,8 +19143,8 @@ chernin  CH ER N IH N
 chernobyl  CH ER N OW B EL
 chernobyl's  CH ER N OW B EL Z
 chernoff  K ER N AO F
-chernomyrdin  CH EH R N OW M IH R D IH N
-chernomyrdin's  CH EH R N OW M IH R D IH N Z
+chernomyrdin  CH EH R N OW M IY R D IH N
+chernomyrdin's  CH EH R N OW M IY R D IH N Z
 chernow  CH ER N OW
 cherny  CH ER N IY
 cherokee  CH EH R AH2 K IY
@@ -19162,8 +19166,8 @@ cherub  CH EH R AH2 B
 cherubic  CH ER UW B IH K
 cherubini  K ER UW B IY N IY
 cherubs  CH EH R AH2 B Z
-cherumirdan  CH EH R AH2 M IH R D IH N
-cherumirdan's  CH EH R AH2 M IH R D IH N Z
+cherumirdan  CH EH R AH2 M IY R D IH N
+cherumirdan's  CH EH R AH2 M IY R D IH N Z
 chervenak  CH ER V IH N AE K
 chery  CH EH R IY
 cheryl  SH EY R EL
@@ -19842,7 +19846,7 @@ churning  CH ER N IH NG
 churns  CH ER N Z
 churry  CH ER IY
 chuse  CH UW Z
-chusmir  CH UH S M IH R
+chusmir  CH UH S M IY R
 chustz  CH AH S T S
 chute  SH UW T
 chutes  SH UW T S
@@ -19959,9 +19963,9 @@ cindy  S IH N D IY
 cindy's  S IH N D IY Z
 cinelli  S IH N EH L IY
 cinema  S IH N AH2 M AH2
-cinema's  S IH N AH2 M AH Z
+cinema's  S IH N AH2 M AH2 Z
 cinemark  S IH N AH2 M AA K
-cinemas  S IH N AH2 M AH Z
+cinemas  S IH N AH2 M AH2 Z
 cinematic  S IH N AH2 M AE T IH K
 cinematographer  S IH N IH M AH2 T AA G R AH2 F ER
 cinematography  S IH N IH M AH2 T AA G R AH2 F IY
@@ -20866,8 +20870,8 @@ coast  K OW S T
 coast's  K OW S T S
 coastal  K OW S T EL
 coastal's  K OW S T EL Z
-coastamerica  K OW S T AH2 M EH R IH K AH2
-coastamerica's  K OW S T AH2 M EH R IH K AH2 Z
+coastamerica  K OW S T AH2 M EY R IH K AH2
+coastamerica's  K OW S T AH2 M EY R IH K AH2 Z
 coasted  K OW S T AH2 D
 coaster  K OW S T ER
 coasters  K OW S T ER Z
@@ -21011,8 +21015,8 @@ cocoon  K AH2 K UW N
 cocooning  K AH2 K UW N IH NG
 cocoons  K AH2 K UW N Z
 cocos  K OW K OW Z
-cocoZa  K OW K OW T S AH2
-cocuZa  K OW K UW T S AH2
+cocozza  K OW K OW T S AH2
+cocuzza  K OW K UW T S AH2
 cod  K AA D
 coda  K OW D AH2
 codag  K OW D AE G
@@ -21211,7 +21215,7 @@ cola's  K OW L AH2 Z
 colab  K OW L AE B
 colabella  K OW L AH B EH L AH2
 colaianni  K OW L AA Y AA N IY
-colaiZi  K OW L EY Z IY
+colaizzi  K OW L EY Z IY
 colaluca  K OW L AH L UW K AH2
 colan  K OW L IH N
 colander  K AA L IH N D ER
@@ -21310,7 +21314,7 @@ collaborating  K AH2 L AE B ER EY T IH NG
 collaboration  K AH2 L AE B ER EY SH IH N
 collaborationist  K AH2 L AE B ER EY SH IH N IH S T
 collaborations  K AH2 L AE B ER EY SH IH N Z
-collaborative  K AH2 L AE B R AH T IH V
+collaborative  K AH2 L AE B R AH2 T IH V
 collaborator  K AH2 L AE B ER EY T ER
 collaborators  K AH2 L AE B ER EY T ER Z
 collado  K OW L AA D OW
@@ -21597,24 +21601,24 @@ combee  K AA M B IY
 comber  K OW M ER
 combes  K OW M Z
 combest  K OW M IH S T
-combinability  K AH M B AY N AH2 B IH L IH T IY
-combinable  K AH M B AY N AH2 B EL
+combinability  K AH2 M B AY N AH2 B IH L IH T IY
+combinable  K AH2 M B AY N AH2 B EL
 combination  K AA M B IH N EY SH IH N
 combinations  K AA M B IH N EY SH IH N Z
 combinatorial  K AA M B IH N AH2 T OR IY EL
 combinatorics  K AA M B IH N AH2 T OR IH K S
-combine  K AH M B AY N
-combined  K AH M B AY N D
-combines  K AH M B AY N Z
+combine  K AH2 M B AY N
+combined  K AH2 M B AY N D
+combines  K AH2 M B AY N Z
 combing  K OW M IH NG
-combining  K AH M B AY N IH NG
+combining  K AH2 M B AY N IH NG
 combo  K AA M B OW
 comboing  K AA M B OW IH NG
 combos  K AA M B OW Z
 combs  K OW M Z
-combust  K AH M B AH S T
-combustable  K AH M B AH S T AH2 B EL
-combustion  K AH M B AH S CH IH N
+combust  K AH2 M B AH S T
+combustable  K AH2 M B AH S T AH2 B EL
+combustion  K AH2 M B AH S CH IH N
 comby  K AA M B IY
 comcast  K AA M K AE S T
 comcast's  K AA M K AE S T S
@@ -21851,7 +21855,7 @@ commuters  K AH2 M Y UW T ER Z
 commutes  K AH2 M Y UW T S
 commuting  K AH2 M Y UW T IH NG
 como  K OW M OW
-comoros  K AO M OR OW S
+comoros  K AA M AH2 R OW Z
 comp  K AA M P
 compact  K AA M P AE K T
 compacted  K AH2 M P AE K T AH2 D
@@ -22836,6 +22840,7 @@ consulted  K AH2 N S AH L T AH2 D
 consulting  K AH2 N S AH L T IH NG
 consults  K AH2 N S AH L T S
 consumable  K AH2 N S UW M AH2 B EL
+consumables  K AH2 N S UW M AH2 B EL Z
 consume  K AH2 N S UW M
 consumed  K AH2 N S UW M D
 consumer  K AH2 N S UW M ER
@@ -24285,10 +24290,10 @@ coziness  K OW Z IY N IH S
 cozman  K OW Z M AH2 N
 cozy  K OW Z IY
 cozying  K OW Z IY IH NG
-coZa  K OW T S AH2
-coZens  K AA Z IH N Z
-coZi  K OW T S IY
-coZolino  K OW T S OW L IY N OW
+cozza  K OW T S AH2
+cozzens  K AA Z IH N Z
+cozzi  K OW T S IY
+cozzolino  K OW T S OW L IY N OW
 crab  K R AE B
 crabb  K R AE B
 crabbe  K R AE B
@@ -24343,6 +24348,7 @@ craftsmanship  K R AE F T S M IH N SH IH P
 craftsmen  K R AE F T S M EH N
 craftspeople  K R AE F T S P IY P EL
 crafty  K R AE F T IY
+crag  K R AE G
 crager  K R EY JH ER
 cragg  K R AE G
 craggs  K R AE G Z
@@ -24871,7 +24877,7 @@ crockford  K R AA K F ER D
 crocodile  K R AA K AH2 D AY EL
 crocodiles  K R AA K AH2 D AY EL Z
 crocodilian  K R AA K AH2 D IH L Y IH N
-crocus  K R OW K AH S
+crocus  K R OW K AH2 S
 crocuses  K R OW K Y UW S IH Z
 croff  K R AO F
 crofford  K R AA F ER D
@@ -25432,7 +25438,7 @@ cuoco  K W OW K OW
 cuomo  K W OW M OW
 cuomo's  K W OW M OW Z
 cuong  K W AO NG
-cuoZo  K W OW Z OW
+cuozzo  K W OW Z OW
 cup  K AH P
 cupboard  K AH B ER D
 cupboards  K AH B ER D Z
@@ -25552,6 +25558,7 @@ curse  K ER S
 cursed  K ER S T
 curses  K ER S AH2 Z
 cursing  K ER S IH NG
+cursive  K ER S IH V
 cursor  K ER S ER
 cursory  K ER S ER IY
 curt  K ER T
@@ -25675,10 +25682,12 @@ cutright  K AH T R UY T
 cutrona  K UW T R OW N AH2
 cutrone  K UW T R OW N IY
 cuts  K AH T S
+cutscene  K AH T S IY N
+cutscenes  K AH T S IY N Z
 cutsforth  K AH T S F OR TH
-cutshall  K AH CH AH L
+cutshall  K AH CH AH2 L
 cutshaw  K AH CH AO
-cutsinger  K AH T S IH N JH ER
+cutsinger  K AH T S IH NG ER
 cutter  K AH T ER
 cutters  K AH T ER Z
 cutthroat  K AH T TH R OW T
@@ -25694,7 +25703,7 @@ cutworms  K AH T W ER M Z
 cuvelier  K Y UW V L IY R
 cuyahoga  K AY AH2 HH OW G AH2
 cuyler  K AY L ER
-cuZort  K AH Z ER T
+cuzzort  K AH Z ER T
 cwiertnia  K W IY R T N IY AH2
 cwik  K W IH K
 cwikla  K W IH K L AH2
@@ -26355,10 +26364,10 @@ daphnis  D AE F N IH S
 dapice  D AA P IH S
 dapolito  D AA P OW L IY T OW
 daponte  D AA P OW N T EY
-dapoZo  D AH P AA Z OW
+dapozzo  D AH P AA Z OW
 dapp  D AE P
 dapper  D AE P ER
-dapuZo  D AH2 P AH Z OW
+dapuzzo  D AH2 P AH Z OW
 daquila  D AA K W IY L AH2
 dar  D AA R
 dara  D AE R AH2
@@ -26711,10 +26720,10 @@ daze  D EY Z
 dazed  D EY Z D
 dazey  D EY Z IY
 dazs  D AA S
-daZle  D AE Z EL
-daZled  D AE Z EL D
-daZling  D AE Z EL IH NG
-daZo  D AE Z OW
+dazzle  D AE Z EL
+dazzled  D AE Z EL D
+dazzling  D AE Z EL IH NG
+dazzo  D AE Z OW
 dbase  D IY B EY S
 de  D EH
 deacon  D IY K IH N
@@ -27458,7 +27467,7 @@ degenhart  D EH G AH2 N HH AA R T
 degennaro  D AH2 JH EH N AA R OW
 degeorge  D EH G IY R G
 deger  D IY G ER
-degiacomo  D IY JH AH K OW M OW
+degiacomo  D IY JH AH2 K OW M OW
 degidio  D AH2 JH IY D IY OW
 degirolamo  D AH2 JH IH R OW L AA M OW
 degler  D EH G L ER
@@ -27854,7 +27863,7 @@ delphic  D EH L F IH K
 delphina  D EH L F IY N AH2
 delphine  D EH L F IY N IY
 delpino  D EH L P IY N OW
-delpiZo  D EH L P IY Z OW
+delpizzo  D EH L P IY Z OW
 delponte  D EH L P OW N T IY
 delpozo  D EH L P OW Z OW
 delprete  D EH L P R IY T
@@ -28012,8 +28021,8 @@ demille  D AH2 M IY L IY
 demilo  D AH2 M IH L OW
 deming  D EH M IH NG
 demint  D EY M IY N T
-demirag  D EY M IH R AA JH
-demirel  D AH M IH R EL
+demirag  D EY M IY R AA JH
+demirel  D AH M IY R EL
 demirjian  D AH2 M ER JH IY AH2 N
 demisch  D AH M IH SH
 demise  D AH2 M AY Z
@@ -28506,7 +28515,7 @@ deregulating  D IY R EH G Y AH2 L EY T IH NG
 deregulation  D IY R EH G Y AH2 L EY SH IH N
 deregulator  D IY R EH G Y AH2 L EY T ER
 deregulators  D IY R EH G Y AH2 L EY T ER Z
-deregulatory  D IY R EH G Y AH2 L AH T OR IY
+deregulatory  D IY R EH G Y AH2 L AH2 T OR IY
 derek  D EY R IH K
 derek's  D EY R IH K S
 derelict  D EH R EL IH K T
@@ -28516,11 +28525,11 @@ deremer  D EY R IY M ER
 deren  D AH2 R IH N
 derenzo  D AH2 R EH N Z OW
 derflinger  D ER F EL IH NG ER
-derham  D ER HH AH M
-derhammer  D ER HH AH M ER
+derham  D ER HH & M
+derhammer  D ER HH & M ER
 derick  D EY R IH K
 derickson  D EY R IH K S AH2 N
-derida  D AH R IY D AH2
+derida  D AH2 R IY D AH2
 deridder  D EY R IH D ER
 deride  D AH2 R AY D
 derided  D AH2 R AY D AH2 D
@@ -28658,6 +28667,7 @@ descriptive  D AH2 S K R IH P T IH V
 desecrate  D EH S AH K R EY T
 desecrated  D EH S AH K R EY T AH2 D
 desecrates  D EH S AH K R EY T S
+desecrating  D EH S AH K R EY T IH N G
 desecration  D EH S AH K R EY SH IH N
 desecrations  D EH S AH K R EY SH IH N Z
 desegregate  D IY S EH G R AH2 G EY T
@@ -29580,7 +29590,7 @@ digging  D IH G IH NG
 diggins  D IH G IH N Z
 diggle  D IH G EL
 diggs  D IH G Z
-digiacomo  D IY JH AH K OW M OW
+digiacomo  D IY JH AH2 K OW M OW
 digicon  D IH JH IH K AA N
 digidyne  D IH JH IH D AY N
 digilio  D IH JH IY L IY OW
@@ -29866,7 +29876,7 @@ diodato  D IY OW D AA T OW
 diode  D AY OW D
 diodes  D AY OW D Z
 dioguardi  D IY OW G AA R D IY
-dion  D IY AO N
+dion  D IY AA N
 diona  D IY OW N AH2
 dione  D IY AA N
 dionisio  D AY AH2 N IH S IY OW
@@ -29893,7 +29903,7 @@ dipasquale  D IH P AA S K W AA L IY
 diperna  D IH P EY R N AH2
 diphtheria  D IH F TH IH R IY AA
 diphthong  D IH F TH AO NG
-dipiaZa  D IH P IY AA T S AA
+dipiazza  D IH P IY AA T S AA
 dipiero  D IH P IH R OW
 dipierro  D IH P IH R OW
 dipietro  D IH P IY T R OW
@@ -30779,9 +30789,9 @@ dixson  D IH K S AH2 N
 dixville  D IH K S V IH L
 dixy  D IH K S IY
 dizon  D IH Z IH N
-diZiness  D IH Z IY N IH S
-diZy  D IH Z IY
-diZying  D IH Z IY IH NG
+dizziness  D IH Z IY N IH S
+dizzy  D IH Z IY
+dizzying  D IH Z IY IH NG
 djakarta  JH AH K AA R T AH2
 djakarta's  JH AH K AA R T AH2 Z
 djibouti  JH IH B UW T IY
@@ -30829,7 +30839,7 @@ dobos  D OW B OW Z
 dobosz  D AA B AH2 SH
 dobransky  D AH2 B R & N S K IY
 dobratz  D AA B R AH T S
-dobrimir  D AH2 B R IY M IH R
+dobrimir  D AH2 B R IY M IY R
 dobrin  D AA B R IH N
 dobrinja  D AH2 B R IY N JH AH2
 dobrins  D AA B R IH N Z
@@ -32029,9 +32039,9 @@ drives  D R AY V Z
 driveway  D R AY V W EY
 driveways  D R AY V W EY Z
 driving  D R AY V IH NG
-driZle  D R IH Z AH2 L
-driZling  D R IH Z EL IH NG
-driZly  D R IH Z L IY
+drizzle  D R IH Z AH2 L
+drizzling  D R IH Z EL IH NG
+drizzly  D R IH Z L IY
 drobkov  D R AO B K AO V
 drobny  D R AA B N IY
 droddy  D R AA D IY
@@ -32106,7 +32116,7 @@ drowsy  D R AW Z IY
 droz  D R AA Z
 drozd  D R AA Z D
 drozda  D R AA Z D AH2
-drozdowski  D R AH Z D AO F S K IY
+drozdowski  D R AH2 Z D AO F S K IY
 dru  D R UW
 drub  D R AH B
 drubbed  D R AH B D
@@ -32483,7 +32493,7 @@ dumbstruck  D AH M S T R AH K
 dumenil  D UW M AH2 N IH L
 dumez  D UW M EH Z
 dumford  D AH M F ER D
-dumire  D UW M IH R EY
+dumire  D UW M IY R EY
 dumke  D AH M K IY
 dumlao  D UW M L AW
 dumler  D AH M L ER
@@ -32572,7 +32582,7 @@ dunlevy  D UW N L IH V IY
 dunley  D AH N L IY
 dunlop  D AH N L AA P
 dunman  D AH N M AH2 N
-dunmire  D UW N M IH R EY
+dunmire  D UW N M IY R EY
 dunn  D AH N
 dunnagan  D AH N AH2 G IH N
 dunnam  D AH N AH M
@@ -33636,8 +33646,8 @@ egos  IY G OW Z
 egotism  IY G AH T IH Z EM
 egotist  IY G AH T IH S T
 egotistical  IY G AH T IH S T IH K EL
-egregious  IH G R IY JH AH S
-egregiously  IH G R IY JH AH S L IY
+egregious  IH G R IY JH AH2 S
+egregiously  IH G R IY JH AH2 S L IY
 egress  IH G R EH S
 egret  EH G R AH T
 egypt  IY JH IH P T
@@ -33645,7 +33655,7 @@ egypt's  IY JH IH P T S
 egyptair  IY JH IH P T EH R
 egyptian  IH JH IH P SH IH N
 egyptians  IH JH IH P SH IH N Z
-egyptology  IY JH AH P T AA L AH2 JH IY
+egyptology  IY JH IH P T AA L AH2 JH IY
 eh  EH
 ehinger  EH HH IH N JH ER
 ehle  EH L
@@ -34180,7 +34190,7 @@ ellers  EH L ER Z
 ellert  EH L ER T
 ellertson  EH L ER T S AH2 N
 ellery  EH L ER IY
-ellesmere  EH L Z M IH R
+ellesmere  EH L Z M IY R
 ellesse  EH L EH S
 ellestad  EH L IH S T AH2 D
 ellett  EH L IH T
@@ -34418,13 +34428,13 @@ ember  EH M B ER
 embers  EH M B ER Z
 emberson  EH M B ER S AH2 N
 emberton  EH M B ER T IH N
-embeZle  IH M B EH Z EL
-embeZled  IH M B EH Z EL D
-embeZlement  EH M B EH Z EL M AH2 N T
-embeZler  EH M B EH Z L ER
-embeZlers  EH M B EH Z L ER Z
-embeZles  IH M B EH Z EL Z
-embeZling  EH M B EH Z EL IH NG
+embezzle  IH M B EH Z EL
+embezzled  IH M B EH Z EL D
+embezzlement  EH M B EH Z EL M AH2 N T
+embezzler  EH M B EH Z L ER
+embezzlers  EH M B EH Z L ER Z
+embezzles  IH M B EH Z EL Z
+embezzling  EH M B EH Z EL IH NG
 embitter  EH M B IH T ER
 embittered  EH M B IH T ER D
 emblazon  EH M B L EY Z IH N
@@ -34539,7 +34549,7 @@ eminence  EH M AH2 N IH N S
 eminences  EH M AH2 N IH N S IH Z
 eminent  EH M AH2 N IH N T
 eminently  EH M AH2 N IH N T L IY
-emir  EH M IH R
+emir  EH M IY R
 emirate  EH M ER IH T
 emirates  EH M ER IH T S
 emirates'  EH M ER IH T S
@@ -34879,7 +34889,7 @@ endproduct  EH N D P R AO D AH K T
 endproducts  EH N D P R AO D AH K T S
 endres  EH N D ER Z
 endress  EH N D R IH S
-endriZi  IH N D R IY T S IY
+endrizzi  IH N D R IY T S IY
 ends  EH N D Z
 endsley  EH N D S L IY
 endtimer  EH N D T AY M ER
@@ -35594,15 +35604,15 @@ erector  AH2 R EH K T ER
 erects  AH2 R EH K T S
 erena  AH2 R EH N AH2
 erensel  EH R AH2 N S EH L
-ergle  ER G AH L
+ergle  ER G AH2 L
 ergo  ER G OW
-ergonomic  ER G AH N AA M IH K
-ergonomically  ER G AH N AA M IH K L IY
-ergonomics  ER G AH N AA M IH K S
+ergonomic  ER G AH2 N AA M IH K
+ergonomically  ER G AH2 N AA M IH K L IY
+ergonomics  ER G AH2 N AA M IH K S
 ergot  ER G AH2 T
 ergot's  ER G AH2 T S
 ergotism  ER G AH2 T IH Z EM
-ergots  ER G AH T S
+ergots  ER G AH2 T S
 erhard  EH R HH AA R D
 erhardt  ER HH AA R T
 erhart  ER HH AA R T
@@ -36188,7 +36198,7 @@ euromobiliare's  Y UW ER OW M OW B IH L EY R Z
 euromoney  Y UW ER OW M AH2 N IY
 euronote  Y UW ER AH N OW T
 euronotes  Y UW ER AH N OW T S
-europa  Y UH R OW P AH2
+europa  Y ER OW P AH2
 europe  Y ER AH2 P
 europe's  Y ER AH2 P S
 european  Y ER AH2 P IY AH2 N
@@ -36551,8 +36561,8 @@ exclaim  EH K S K L EY M
 exclaimed  EH K S K L EY M D
 exclaiming  EH K S K L EY M IH NG
 exclaims  EH K S K L EY M Z
-exclamation  EH K S K L AH M EY SH IH N
-exclamations  EH K S K L AH M EY SH IH N Z
+exclamation  EH K S K L AH2 M EY SH IH N
+exclamations  EH K S K L AH2 M EY SH IH N Z
 excludable  EH K S K L UW D AH2 B EL
 exclude  EH K S K L UW D
 excluded  EH K S K L UW D AH2 D
@@ -37094,8 +37104,8 @@ ezoe  EH Z OW
 ezola  EY Z OW L AH2
 ezra  EH Z R AH2
 ezrachi  EH Z R AA CH IY
-eZell  EH Z AH L
-eZo  EH Z OW
+ezzell  EH Z AH L
+ezzo  EH Z OW
 faal  F AA L
 faal's  F AA L Z
 faas  F AA Z
@@ -37119,7 +37129,7 @@ fabre  F EY B ER
 fabri  F AE B R IY
 fabric  F AE B R IH K
 fabricant  F AE B R IH K IH N T
-fabricate  F AE B R AH K EY T
+fabricate  F AE B R AH2 K EY T
 fabricated  F AE B R IH K EY T AH2 D
 fabricates  F AE B R IH K EY T S
 fabricating  F AE B R IH K EY T IH NG
@@ -37147,7 +37157,7 @@ faced  F EY S T
 facedown  F EY S D AW N
 faceless  F EY S L AH2 S
 facelift  F EY S L IH F T
-facemire  F AA CH EH M IH R IY
+facemire  F AA CH EH M IY R IY
 facer  F EY S ER
 faces  F EY S IH Z
 facet  F AE S IH T
@@ -37521,7 +37531,7 @@ fantasyland  F & N T AH2 S IY L & N D
 fantini  F AA N T IY N IY
 fantle  F & N T EL
 fanton  F & N T IH N
-fantoZi  F AA N T OW T S IY
+fantozzi  F AA N T OW T S IY
 fantroy  F & N T R OY
 fanuc  F & N AH2 K
 fanucchi  F AA N UW K IY
@@ -37852,7 +37862,7 @@ favale  F AA V AA L IY
 favaloro  F AA V AA L OR OW
 favaro  F AA V AA R OW
 favata  F AA V AA T AH2
-favaZa  F AA V AA T S AH2
+favazza  F AA V AA T S AH2
 fave  F EY V
 favela  F AA V EH L AH2
 faver  F EY V ER
@@ -37911,8 +37921,8 @@ fazed  F EY Z D
 fazekas  F AE Z IH K AH2 Z
 fazenbaker  F EY Z AH N B EY K ER
 fazio  F AA Z IY OW
-faZino  F AA T S IY N OW
-faZio  F AE Z IY OW
+fazzino  F AA T S IY N OW
+fazzio  F AE Z IY OW
 fe  F EY
 fe's  F EY Z
 feagan  F EY G IH N
@@ -38241,10 +38251,11 @@ femrite  F EH M R UY T
 femsa  F EH M S AH2
 femur  F IY M ER
 fen  F EH N
-fenagle  F AH N EY G EL
+fenagle  F AH2 N EY G EL
 fence  F EH N S
 fenced  F EH N S T
 fenceless  F EH N S L AH2 S
+fencer  F EH N S ER
 fences  F EH N S IH Z
 fencing  F EH N S IH NG
 fencl  F EH NG K EL
@@ -38326,15 +38337,15 @@ ference  F IH R IH N S
 ferencz  F EY R IH N CH
 feretlow  F EY R IH T L OW
 ferg  F ER G
-fergason  F ER G AH S AH2 N
+fergason  F ER G AH2 S AH2 N
 ferger  F ER G ER
 fergerson  F ER G ER S AH2 N
-fergeson  F ER G AH S AH2 N
+fergeson  F ER G AH2 S AH2 N
 fergie  F ER G IY
-fergus  F ER G AH S
-ferguson  F ER G AH S AH2 N
-ferguson's  F ER G AH S AH2 N Z
-fergusson  F ER G AH S AH2 N
+fergus  F ER G AH2 S
+ferguson  F ER G AH2 S AH2 N
+ferguson's  F ER G AH2 S AH2 N Z
+fergusson  F ER G AH2 S AH2 N
 feria  F EY R IY AH2
 ferko  F ER K OW
 ferland  F ER L AH2 N D
@@ -38447,8 +38458,8 @@ ferronickel  F EY R AH2 N IH K EL
 ferrotype  F EY R AH2 T UY P
 ferrous  F EY R AH2 S
 ferrucci  F ER UW CH IY
-ferruZi  F EY R UW Z IY
-ferruZi's  F ER UW Z IY Z
+ferruzzi  F EY R UW Z IY
+ferruzzi's  F ER UW Z IY Z
 ferry  F EY R IY
 ferry's  F EY R IY Z
 ferryboat  F EY R IY B OW T
@@ -38758,12 +38769,12 @@ figment  F IH G M AH2 N T
 figments  F IH G M AH2 N T S
 figone  F IH G IH N
 figs  F IH G Z
-figueira  F IY G EY R AH2
-figueiredo  F IY G ER EY D OW
-figueras  F IY G EY R AA Z
-figueredo  F IY G EY R EY D OW
-figueroa  F IY G EY R OW AH2
-figura  F IY G UH R AH2
+figueira  F IH G ER AH2
+figueiredo  F IH G ER EY D OW
+figueras  F IH G ER AA Z
+figueredo  F IH G ER EY D OW
+figueroa  F IH G ER OW AH2
+figura  F IH G ER AH2
 figuration  F IH G Y ER EY SH IH N
 figurative  F IH G Y ER AH2 T IH V
 figuratively  F IH G Y ER AH2 T IH V L IY
@@ -38931,7 +38942,7 @@ finanza  F IH N & N Z AH2
 finanziaria  F IH N & N Z IY EH R IY AH2
 finanziario  F IH N & N Z IY EH R IY OW
 finarte  F IH N AA R T
-finaZo  F IY N AA Z OW
+finazzo  F IY N AA Z OW
 finbar  F IH N B AA R
 finbar's  F IH N B AA R Z
 finberg  F IH N B ER G
@@ -39321,11 +39332,11 @@ fixmer  F IH K S M ER
 fixture  F IH K S CH ER
 fixtures  F IH K S CH ER Z
 fizer  F AY Z ER
-fiZ  F IH Z
-fiZle  F IH Z EL
-fiZled  F IH Z EL D
-fiZles  F IH Z EL Z
-fiZling  F IH Z EL IH NG
+fizz  F IH Z
+fizzle  F IH Z EL
+fizzled  F IH Z EL D
+fizzles  F IH Z EL Z
+fizzling  F IH Z EL IH NG
 fjeld  F Y EH L D
 fjelstad  F Y EH L S T AH2 D
 fjord  F Y OR D
@@ -39691,6 +39702,7 @@ flirtatious  F L ER T EY SH IH S
 flirted  F L ER T AH2 D
 flirting  F L ER T IH NG
 flirts  F L ER T S
+flirty  F L ER T IY
 flis  F L AH2 S
 fliss  F L AH2 S
 flit  F L IH T
@@ -39919,16 +39931,16 @@ flux  F L AH K S
 fluxional  F L AH K SH AH2 N EL
 fly  F L AY
 flyby  F L AY B AY
-flycatcher  F L UY K AE CH ER
+flycatcher  F L AY K AE CH ER
 flye  F L AY
 flyer  F L AY ER
 flyers  F L AY ER Z
 flying  F L AY IH NG
 flynn  F L IH N
 flynt  F L IH N T
-flypaper  F L UY P EY P ER
+flypaper  F L AY P EY P ER
 flythe  F L AY DH
-flytrap  F L UY T R AE P
+flytrap  F L AY T R AE P
 flyway  F L AY W EY
 flywheel  F L AY W IY L
 fm  EH F EH M
@@ -40961,10 +40973,10 @@ fraze  F R EY Z
 frazee  F R AH Z IY
 frazer  F R EY Z ER
 frazier  F R EY ZH ER
-fraZano  F R AH Z AA N OW
-fraZini  F R AA T S IY N IY
-fraZle  F R AE Z AH2 L
-fraZled  F R AE Z EL D
+frazzano  F R AH Z AA N OW
+frazzini  F R AA T S IY N IY
+frazzle  F R AE Z AH2 L
+frazzled  F R AE Z EL D
 fread  F R EH D
 freak  F R IY K
 freaked  F R IY K T
@@ -41236,7 +41248,7 @@ freymiller  F R EY M IH L ER
 freyne  F R EY N
 freyre  F R EY R
 freytag  F R EY T AH2 G
-freZa  F R EH Z AH2
+frezza  F R EH Z AH2
 friar  F R AY ER
 friars  F R AY ER Z
 friary  F R AY ER IY
@@ -41259,7 +41271,7 @@ friday's  F R AY D EY Z
 fridays  F R AY D EY Z
 friddle  F R IH D EL
 fridge  F R IH JH
-fridges  F R IH JH AH Z
+fridges  F R IH JH AH2 Z
 fridley  F R IH D L IY
 fridman  F R IH D M AH2 N
 fridolf  F R IH D OW L F
@@ -41397,7 +41409,7 @@ frivolous  F R IH V AH2 L AH2 S
 frivolously  F R IH V AH2 L AH2 S L IY
 frix  F R IH K S
 frizell  F R IH Z AH2 L
-friZell  F R IH Z AH2 L
+frizzell  F R IH Z AH2 L
 fro  F R OW
 froberg  F R OW B ER G
 frock  F R AA K
@@ -41795,7 +41807,7 @@ furches  F ER SH IY Z
 furer  F Y UH R ER
 furey  F Y UH R IY
 furfaro  F UH R F AA R OW
-furgason  F ER G AH S AH2 N
+furgason  F ER G AH2 S AH2 N
 furgerson  F ER G ER S AH2 N
 furgeson  F ER G IH S AH2 N
 furia  F Y UH R IY AH2
@@ -41909,9 +41921,9 @@ futurist  F Y UW CH ER IH S T
 futuristic  F Y UW CH ER IH S T IH K
 futurists  F Y UW CH ER IH S T S
 fuzes  F Y UW Z IH Z
-fuZ  F AH Z
-fuZier  F AH Z IY ER
-fuZy  F AH Z IY
+fuzz  F AH Z
+fuzzier  F AH Z IY ER
+fuzzy  F AH Z IY
 fye  F AY
 fyfe  F UY F
 fyffe  F UY F
@@ -42243,7 +42255,7 @@ gallucci  G AA L UW CH IY
 galluccio  G AA L UW CH IY OW
 gallup  G AE L AH2 P
 gallus  G AE L AH2 S
-galluZo  G AA L UW Z OW
+galluzzo  G AA L UW Z OW
 gallway  G AO L W EY
 galoob  G AH L UW B
 galoob's  G AH L UW B Z
@@ -42260,7 +42272,7 @@ galton  G AE L T IH N
 galudet  G AE L AH2 D EH T
 galus  G AE L AH2 S
 galusha  G AE L AH2 SH AH2
-galuska  G AH L AH S K AH2
+galuska  G AH2 L AH S K AH2
 galvan  G AA L V AA N
 galvanic  G AE L V & N IH K
 galvanize  G AE L V AH2 N AY Z
@@ -42455,7 +42467,7 @@ garard  G ER AA R D
 garavaglia  G AA R AA V AA G L IY AH2
 garay  G AE R EY
 garb  G AA R B
-garbacz  G AA R B AH CH
+garbacz  G AA R B AH2 CH
 garbage  G AA R B IH JH
 garbarini  G AA R B AA R IY N IY
 garbarino  G AA R B AA R IY N OW
@@ -42486,7 +42498,7 @@ gardella  G AA R D EH L AH2
 garden  G AA R D IH N
 garden's  G AA R D IH N Z
 gardena  G AA R D IY N AH2
-gardenamerica  G AA R D IH N AH2 M EH R IH K AH2
+gardenamerica  G AA R D IH N AH2 M EY R IH K AH2
 gardened  G AA R D AH2 N D
 gardener  G AA R D IH N ER
 gardener's  G AA R D IH N ER Z
@@ -42964,7 +42976,7 @@ gazing  G EY Z IH NG
 gazonsky  G AH Z AA N S K IY
 gazonsky's  G AH Z AA N S K IY Z
 gazprom  G AE Z P R AA M
-gaZola  G AA T S OW L AH2
+gazzola  G AA T S OW L AH2
 gdansk  G D & N S K
 geac  G IY K
 geagea  JH IY AH2 JH IY AH2
@@ -43448,7 +43460,7 @@ geremia  JH ER IY M IY AH2
 geren  G IH R IH N
 gerena  JH ER EH N AH2
 gerety  G EY R IH T IY
-gergel  G ER G AH L
+gergel  G ER G AH2 L
 gergely  JH ER JH L IY
 gergen  G ER G IH N
 gergen's  G ER G IH N Z
@@ -43664,7 +43676,7 @@ ghetto  G EH T OW
 ghettoize  G EH T OW AY Z
 ghettos  G EH T OW Z
 ghez  G EH Z
-gheZi  G EH Z IY
+ghezzi  G EH Z IY
 ghidella  G IH D EH L AH2
 ghio  G AY OW
 ghitis  G IY T IH Z
@@ -43701,7 +43713,7 @@ giacomo  JH AA K AH2 M OW
 giaconda  JH IY AH2 K AO N D AA
 giaconda's  JH IY AH2 K AA N D AH2 Z
 giacone  JH IY AH2 K OW N IY
-giaimo  JH EY AH M OW
+giaimo  JH EY AH2 M OW
 gialanella  JH AH2 L AA N EH L AH2
 giamatti  JH IY EM AA T IY
 giambalvo  JH AA M B AA L V OW
@@ -44079,7 +44091,7 @@ giovanniello  JH OW V AA N IY EH L OW
 giovannini  JH OW V AA N IY N IY
 giovannoni  JH OW V AA N OW N IY
 giovenco  JH OW V EH N K OW
-giovinaZo  JH OW V IY N AA Z OW
+giovinazzo  JH OW V IY N AA Z OW
 gipe  JH UY P
 gipp  JH IH P
 gipper  G IH P ER
@@ -44209,8 +44221,8 @@ gizbert  G IH Z B ER T
 gizbert's  G IH Z B ER T S
 gizmo  G IH Z M OW
 gizmos  G IH Z M OW Z
-giZard  G IH Z ER D
-giZi  JH IY T S IY
+gizzard  G IH Z ER D
+gizzi  JH IY T S IY
 gjelten  JH EH L T AH2 N
 gjelten's  JH EH L T IH N Z
 gjerde  JH ER D
@@ -44242,6 +44254,7 @@ gladieux  G L AE D IY OW
 gladiolus  G L AE D IY OW L AH S
 gladis  G L AE D IH S
 gladish  G L AE D IH SH
+gladius  G L AE D IY AH2 S
 gladje  G L AE D JH IY
 gladly  G L AE D L IY
 gladman  G L AE D M AH2 N
@@ -44723,8 +44736,8 @@ godly  G AA D L IY
 godman  G AA D M AH2 N
 godmother  G AA D M AH DH ER
 godmothers  G AA D M AH DH ER Z
-godot  G AH D OW
-godot's  G AH D OW Z
+godot  G AH2 D OW
+godot's  G AH2 D OW Z
 godown  G OW D AW N
 godoy  G AA D OY
 godrej  G AA D R EY
@@ -44733,7 +44746,7 @@ godsell  G AA D S AH2 L
 godsend  G AA D S EH N D
 godsends  G AA D S EH N D Z
 godsey  G AA D Z IY
-godshalk  G AA D SH AH K
+godshalk  G AA D SH UH K
 godshall  G AA D SH EL
 godspeed  G AA D S P IY D
 godspell  G AA D S P EH L
@@ -44835,7 +44848,7 @@ golab  G OW L AE B
 golan  G OW L IH N
 goland  G OW L AH2 N D
 golas  G OW L AH2 Z
-golaszewski  G AH L AH SH EH F S K IY
+golaszewski  G AH L AH2 SH EH F S K IY
 golay  G AA L EY
 golba  G OW L B AH2
 golberg  G OW L B ER G
@@ -45264,6 +45277,7 @@ goshorn  G AA SH ER N
 goslee  G AA S L IY
 goslin  G AA S L IH N
 gosline  G AA S L AY N
+goslin  G AA S L IH NG
 gosman  G AA S M AH2 N
 gosnell  G AA S N EL
 gosney  G AA S N IY
@@ -45440,7 +45454,7 @@ grabe  G R EY B
 grabel  G R AE B EL
 graben  G R AE B IH N
 grabens  G R AA B IH N Z
-grabenstein  G R AE B AH N S T AY N
+grabenstein  G R AE B AH2 N S T AY N
 graber  G R EY B ER
 grabert  G R AE B ER T
 grabill  G R AH B IH L
@@ -46307,12 +46321,12 @@ gritzmacher  G R IH T S M AA K ER
 grivas  G R IY V AA Z
 griz  G R IH Z
 grizelda  G R IY Z EH L D AH2
-griZard  G R IH Z ER D
-griZell  G R IH Z AH2 L
-griZle  G R IH Z AH2 L
-griZled  G R IH Z EL D
-griZlies  G R IH Z L IY Z
-griZly  G R IH Z L IY
+grizzard  G R IH Z ER D
+grizzell  G R IH Z AH2 L
+grizzle  G R IH Z AH2 L
+grizzled  G R IH Z EL D
+grizzlies  G R IH Z L IY Z
+grizzly  G R IH Z L IY
 gro  G R OW
 groan  G R OW N
 groaned  G R OW N D
@@ -46802,7 +46816,7 @@ guglielmi  G UW G L IY EH L M IY
 guglielmo  G UW G L IY EH L M OW
 gugliotta  G UW G L IY OW T AH2
 gugliotti  G UW G L IY OW T IY
-gugliuZa  G UW G L IY UW T S AH2
+gugliuzza  G UW G L IY UW T S AH2
 guhl  G AH L
 guiana  G IY AA N AH2
 guice  G UY S
@@ -47062,7 +47076,7 @@ gural  G Y UH R EL
 gurevich  G Y UW ER IH V IH CH
 gurganious  G ER G AH2 N IY AH2 S
 gurganus  G ER G AH2 N IH S
-gurgle  G ER G AH L
+gurgle  G ER G AH2 L
 gurgling  G ER G EL IH NG
 gurian  G Y UH R IY AH2 N
 gurion  G Y UH R IY AH2 N
@@ -47196,17 +47210,17 @@ guzik  G Y UW Z IH K
 guzman  G AH Z M AH2 N
 guzowski  G AH Z AO F S K IY
 guzy  G Y UW Z IY
-guZardo  G UW T S AA R D OW
-guZetta  G UW T S EH T AH2
-guZetti  G Y UW Z EH T IY
-guZi  G UW T S IY
-guZle  G AH Z AH L
-guZler  G AH Z L ER
-guZler's  G AH Z L ER Z
-guZlers  G AH Z L ER Z
-guZles  G AH Z EL Z
-guZling  G AH Z EL IH NG
-guZo  G UW Z OW
+guzzardo  G UW T S AA R D OW
+guzzetta  G UW T S EH T AH2
+guzzetti  G Y UW Z EH T IY
+guzzi  G UW T S IY
+guzzle  G AH Z AH L
+guzzler  G AH Z L ER
+guzzler's  G AH Z L ER Z
+guzzlers  G AH Z L ER Z
+guzzles  G AH Z EL Z
+guzzling  G AH Z EL IH NG
+guzzo  G UW Z OW
 gvaryahu  G AH V EH R Y AA HH UW
 gwaltney  G W AO L T N IY
 gwartney  G W OR T N IY
@@ -47267,7 +47281,7 @@ gyrating  JH AY R EY T IH NG
 gyration  JH AY R EY SH IH N
 gyrations  JH AY R EY SH IH N Z
 gyro  JH AY R OW
-gyrocompass  JH AY R OW K AH M P IH S
+gyrocompass  JH AY R OW K AH2 M P IH S
 gyrodyne  JH IH R AH2 D AY N
 gyrodynes  JH IH R AH2 D AY N Z
 gyropilot  JH AY R OW P AY L IH T
@@ -47788,7 +47802,7 @@ haltiwanger  HH AE L T IH W AH NG ER
 haltom  HH AE L T AH2 M
 halton  HH AE L T IH N
 halts  HH AO L T S
-haluska  HH AH L AH S K AH2
+haluska  HH AH2 L AH S K AH2
 halve  HH AE V
 halved  HH AE V D
 halverson  HH AE L V ER S AH2 N
@@ -48293,7 +48307,7 @@ harbored  HH AA R B ER D
 harboring  HH AA R B ER IH NG
 harbors  HH AA R B ER Z
 harborside  HH AA R B ER S AY D
-harbory  HH AA R B AH R IY
+harbory  HH AA R B AH2 R IY
 harbour  HH AA R B ER
 harbuck  HH AA R B AH K
 harbury  HH AA R B ER IY
@@ -49113,7 +49127,7 @@ hazleton  HH EY Z AH2 L T IH N
 hazlett  HH AE Z L IH T
 hazlewood  HH EY Z AH2 L W UH D
 hazy  HH EY Z IY
-haZard  HH AE Z ER D
+hazzard  HH AE Z ER D
 he  HH IY
 he'd  HH IY D
 he'll  HH IY L
@@ -50160,7 +50174,7 @@ herford  HH ER F ER D
 herfurth  HH ER F ER TH
 hergert  HH ER G ER T
 herget  HH ER G IH T
-hergott  HH ER G AH T
+hergott  HH ER G AH2 T
 herin  HH EY R IH N
 hering  HH ER IH NG
 heringer  HH EY R IH N JH ER
@@ -50476,10 +50490,10 @@ heyse  HH EY S
 heyser  HH EY Z ER
 heyward  HH EY W ER D
 heywood  HH EY W UH D
-hezbollah  HH EH Z B AA L AH2
-hezbollah's  HH EH Z B AA L AH2 Z
-hezbullah  HH EH Z B AA L AH2
-hezbullah's  HH EH Z B AA L AH2 Z
+hezbollah  HH EH Z B AH2 L AH2
+hezbollah's  HH EH Z B AH2 L AH2 Z
+hezbullah  HH EH Z B AH2 L AH2
+hezbullah's  HH EH Z B AH2 L AH2 Z
 hfdf  EY CH EH F D IY EH F
 hgh  EY CH JH IY EY CH
 hi  HH AY
@@ -51182,7 +51196,7 @@ hockman  HH AA K M AH2 N
 hockney  HH AA K N IY
 hockney's  HH AA K N IY Z
 hoctor  HH AA K T ER
-hocus  HH OW K AH S
+hocus  HH OW K AH2 S
 hocutt  HH AA K IH T
 hodak  HH OW D AH2 K
 hodapp  HH AA D AH2 P
@@ -51372,7 +51386,7 @@ hoke  HH OW K
 hokenson  HH AA K IH N S AH2 N
 hokey  HH OW K IY
 hokkaido  HH OW K AY D OW
-hokum  HH OW K AH M
+hokum  HH OW K AH2 M
 hokuriku  HH AA K ER IY K UW
 hola  HH OW L AH2
 holaday  HH OW L AH2 D EY
@@ -51734,14 +51748,16 @@ hommes  HH AA M Z
 homo  HH OW M OW
 homogeneity  HH AA M AH2 JH AH2 N IY AH2 T IY
 homogeneous  HH OW M AH2 JH IY N IY AH2 S
-homogenization  HH OW M AA JH AH N IH Z EY SH IH N
+homogenization  HH OW M AA JH AH2 N IH Z EY SH IH N
 homogenize  HH OW M AA JH AH N AY Z
 homogenized  HH OW M AA JH AH N AY Z D
-homogenous  HH AH M AA JH AH N IH S
-homogeny  HH OW M AA JH AH N IY
-homola  HH AH M AA L AH2
-homolka  HH AH M AA L K AH2
+homogenous  HH AH2 M AA JH AH2 N IH S
+homogeny  HH OW M AA JH AH2 N IY
+homola  HH AH2 M AA L AH2
+homolka  HH AH2 M AA L K AH2
 homologous  HH AH2 M AA L AH2 G IH S
+homunculus HH AH2 M AH NG K Y AH2 L AH2 S
+homunculi  HH AH2 M AH NG K Y AH2 L AY
 homonym  HH AO M AH2 N IH M
 homonyms  HH AO M AH2 N IH M Z
 homophobia  HH OW M AH2 F OW B IY AH2
@@ -53345,7 +53361,7 @@ ianniello  IY AA N IY EH L OW
 iannone  IY AH2 N OW N IY
 iannotti  IY AH2 N OW T IY
 iannucci  IY AH2 N UW CH IY
-iannuZi  IY AH2 N UW T S IY
+iannuzzi  IY AH2 N UW T S IY
 ianovski  Y AH N AA V S K IY
 iantha  IY AA N TH AH2
 ianthe  IY AA N TH EY
@@ -53506,7 +53522,7 @@ idyll  AY D EL
 idyllic  AY D IH L IH K
 ierardi  IY R AA R D IY
 ierne  IH R N
-ieZi  IY EH T S IY
+iezzi  IY EH T S IY
 if  IH F
 if's  IH F S
 ifas  UY F AH S
@@ -55354,7 +55370,7 @@ interchanges  IH N T ER CH EY N JH IH Z
 intercity  IH N T ER S IH T IY
 interco  IH N T ER K OW
 interco's  IH N T ER K OW Z
-intercollegiate  IH N T ER K EL IY JH AH T
+intercollegiate  IH N T ER K EL IY JH AH2 T
 intercom  IH N T ER K AA M
 intercompany  IH N T ER K AH2 M P AH2 N IY
 interconnect  IH N T ER K AH2 N EH K T
@@ -55402,7 +55418,7 @@ interfirst  IH N T ER F ER S T
 interflug  IH N T ER F L AH2 G
 interfunding  IH N T ER F AH N D IH NG
 intergenerational  IH N T ER JH EH N ER EY SH AH2 N EL
-intergovernmental  IH N T ER G AH V ER N M EH N T EL
+intergovernmental  IH N T ER G AH2 V ER N M EH N T EL
 intergraph  IH N T ER G R AE F
 intergraph's  IH N T ER G R AE F S
 intergroup  IH N T ER G R UW P
@@ -56166,16 +56182,16 @@ isotopes  UY S AH2 T OW P S
 isotopic  UY S AH2 T AA P IH K
 isoxicam  IH S AA K S IH K AH2 M
 ispra  IH S P R AH2
-israel  IH Z R IY L
-israel's  IH Z R IY L Z
+israel  IH Z R IY EL
+israel's  IH Z R IY EL Z
 israeli  IH Z R EY L IY
 israeli's  IH Z R EY L IY Z
 israelis  IH Z R EY L IY Z
 israelis'  IH Z R EY L IY Z
-israelite  IH Z R EL UY T
-israelites  IH Z R EL UY T S
-israeloff  IH S R EY L AO F
-israelson  IH S R EH L S AH2 N
+israelite  IH Z R IY EL UY T
+israelites  IH Z R IY EL UY T S
+israeloff  IH S R IY EL AO F
+israelson  IH S R IY EL S AH2 N
 israhi  IH Z R AA HH IY
 isringhouser  IH S R IH NG HH AW Z ER
 issa  IH S AH2
@@ -56222,8 +56238,8 @@ italiana  IH T AE L IY & N AH2
 italianate  IH T AE L Y AH N EY T
 italiano  IH T AA L IY AA N OW
 italians  IH T AE L Y IH N Z
-italic  UY T AE L IH K
-italics  UY T AE L IH K S
+italic  AY T AE L IH K
+italics  AY T AE L IH K S
 italish  IH T AE L IH SH
 italtel  IH T AE L T EH L
 italy  IH T EL IY
@@ -56336,11 +56352,11 @@ izod  AY Z AA D
 izquierdo  IH Z K W IH R D OW
 izumi  IH Z UW M IY
 izvestia  IH Z V EH S T IY AH2
-iZard  IH Z ER D
-iZi  IH Z IY
-iZo  IH Z OW
-iZy  IH Z IY
-iZy's  IH Z IY Z
+izzard  IH Z ER D
+izzi  IH Z IY
+izzo  IH Z OW
+izzy  IH Z IY
+izzy's  IH Z IY Z
 jaan  Y AA N
 jab  JH AE B
 jabah  JH AE B AH2
@@ -56450,7 +56466,7 @@ jacquez  Y AA K W EH Z
 jacquie  JH AE K W IY
 jacquin  JH AE K W IH N
 jacquot  ZH AH K W OW
-jacuZi  JH AH K UW Z IY
+jacuzzi  JH AH K UW Z IY
 jade  JH EY D
 jaded  JH EY D AH2 D
 jadeite  JH EY D UY T
@@ -56724,7 +56740,7 @@ jarmin's  JH AA R M AH2 N Z
 jarmon  Y AA R M AO N
 jarnagin  JH AA R N AH2 JH IH N
 jarnigan  JH AA R N IH G & N
-jaromir  JH AE R AH M IH R
+jaromir  JH AE R AH M IY R
 jaros  Y AA R OW Z
 jarosz  Y AA R AH SH
 jaroszewski  Y ER IH SH EH F S K IY
@@ -56828,11 +56844,11 @@ jaywalk  JH EY W AO K
 jaywalking  JH EY W AO K IH NG
 jazeera  JH AH Z IY R AH2
 jazmin  JH AE Z M AH2 N
-jaZ  JH AE Z
-jaZed  JH AE Z D
-jaZman  JH AE Z M & N
-jaZmen  JH AE Z M AH2 N
-jaZy  JH AE Z IY
+jazz  JH AE Z
+jazzed  JH AE Z D
+jazzman  JH AE Z M & N
+jazzmen  JH AE Z M AH2 N
+jazzy  JH AE Z IY
 je  JH IY
 jealous  JH EH L AH2 S
 jealousies  JH EH L AH2 S IY Z
@@ -57144,7 +57160,6 @@ jezewski  Y IH Z EH F S K IY
 jezierski  Y IH Z IH R S K IY
 jeziorski  Y IH Z IY OR S K IY
 jfet  JH F EH T
-jfk  JH EY EH F K EY
 jha  JH AA
 jheel  JH IY L
 jheryl  JH EH R EL
@@ -57229,9 +57244,9 @@ jittery  JH IH T ER IY
 jive  JH AY V
 jividen  Y IY V AY D IH N
 jiving  JH AY V IH NG
-jiZ  JH IH Z
-jiZed  JH IH Z D
-jiZing  JH IH Z IH NG
+jizz  JH IH Z
+jizzed  JH IH Z D
+jizzing  JH IH Z IH NG
 jna  JH EY EH N EY
 jo  JH OW
 joachim  W AA K IY M
@@ -57807,7 +57822,7 @@ jurewicz  JH UH R AH V IH CH
 jurgen  JH ER G IH N
 jurgens  JH ER G IH N Z
 jurgensen  JH ER G IH N S IH N
-jurgensmeyer  JH ER G AH N Z M AY ER
+jurgensmeyer  JH ER G AH2 N Z M AY ER
 jurgenson  JH ER G IH N S AH2 N
 jurica  JH UH R IH K AH2
 jurich  JH UH R IH K
@@ -58087,13 +58102,15 @@ kam  K & M
 kama  K AA M AH2
 kamakau  K AA M AH2 K AA UW
 kamakau's  K AA M AH2 K AA UW Z
-kamal  K EY M AH L
-kamali  K AH M AA L IY
+kamal  K AH2 M AA L
+kamala  K AH2 M AA L AH2
+kamala's  K AH2 M AA L AH2 Z
+kamali  K AH2 M AA L IY
 kaman  K EY M AH2 N
 kamber  K & M B ER
 kamchatka  K AA M CH AA T K AH2
-kamehameha  K AH M EY AH M EY AH2
-kamehameha's  K AH M EY AH M EY AH Z
+kamehameha  K AH M EY AH2 M EY AH2
+kamehameha's  K AH M EY AH2 M EY AH2 Z
 kamei  K & M IY
 kamel  K AA M AH2 L
 kamen  K AA M EH N
@@ -58109,7 +58126,7 @@ kaminer  K & M IH N ER
 kamins  K & M AH2 N Z
 kaminski  K AH M IH N S K IY
 kaminsky  K AH M IH N S K IY
-kamir  K AH M IH R
+kamir  K AH M IY R
 kamke  K & M K IY
 kamler  K & M L ER
 kamm  K & M
@@ -58122,7 +58139,7 @@ kamneva  K & M N EY V AH2
 kamp  K & M P
 kamp's  K & M P S
 kampa  K & M P AH2
-kampala  K AH M P AA L AH2
+kampala  K AH2 M P AA L AH2
 kampe  K & M P
 kampelman  K & M P EL M AH2 N
 kampen  K & M P IH N
@@ -58628,8 +58645,8 @@ kazin  K EY Z IH N
 kazis  K AE Z IH S
 kazlauskas  K AE Z L AW S K AH Z
 kazmer  K AE Z M ER
-kazmierczak  K AA Z M IH R CH AE K
-kazmierski  K AH Z M IH R S K IY
+kazmierczak  K AA Z M IY R CH AE K
+kazmierski  K AH Z M IY R S K IY
 kazoo  K AH Z UW
 kazuhiko  K AA Z UW HH IY K OW
 kazunori  K AE Z AH N OW R IY
@@ -59023,7 +59040,7 @@ kenzo  K EH N Z OW
 keo  K IY OW
 keogh  K IY OW
 keohane  K IY AH2 HH EY N
-keokuk  K IY OW K AH K
+keokuk  K IY OW K AH2 K
 keough  K IY OW
 keown  K IY OW N
 kepco  K EH P K OW
@@ -59274,11 +59291,11 @@ kharg  K AA R G
 khartoum  K AA R T UW M
 khasbulatov  K AA S B EL AA T AA F
 khasbulatov's  K AA S B EL AA T AA F S
-khashoggi  K AH SH AA JH IY
+khashoggi  K AH2 SH OW G JH IY
 khat  K AA T
-khatami  K AH T AA M IY
+khatami  K AH2 T AA M IY
 khatami's  K IH T AA M IY Z
-khazakhstan  K AH Z AE K S T AA N
+khazakhstan  K AE Z AH2 K S T & N
 khe  K EY
 kheel  K IY L
 khem  K EH M
@@ -59949,7 +59966,7 @@ kiyohida  K IY OW HH IY D AH2
 kiyoshi  K IY OW SH IY
 kiyotaka  K IY OW T AA K AH2
 kizer  K AY Z ER
-kiZiah  K IH Z IY AH2
+kizziah  K IH Z IY AH2
 kjar  K Y AA R
 kjell  K Y EH L
 kjellberg  K Y EH L B ER G
@@ -59957,7 +59974,7 @@ kjenstad  K Y EH N S T AE D
 kjos  K Y AO S
 klaas  K L AA S
 klaassen  K L AA S IH N
-klabunde  K L AE B AH N D
+klabunde  K L AE B AH2 N D
 kladstrup  K L AE D S T R AH P
 kladstrup's  K L AE D S T R AH P S
 klages  K L EY JH IH Z
@@ -60820,15 +60837,15 @@ korby  K OR B IY
 korczak  K OR CH AE K
 korda  K OR D AH2
 kordell  K OR D EH L
-korea  K OR IY AH2
-korea's  K OR IY AH2 Z
-koreagate  K OR IY AH2 G EY T
-korean  K OR IY AH2 N
-korean's  K OR IY AH2 N Z
-koreans  K OR IY AH2 N Z
-koreans'  K OR IY AH2 N Z
-koreas  K OR IY AH2 Z
-koreatown  K OR IY AH2 T AW N
+korea  K AH2 R IY AH2
+korea's  K AH2 R IY AH2 Z
+koreagate  K AH2 R IY AH2 G EY T
+korean  K AH2 R IY AH2 N
+korean's  K AH2 R IY AH2 N Z
+koreans  K AH2 R IY AH2 N Z
+koreans'  K AH2 R IY AH2 N Z
+koreas  K AH2 R IY AH2 Z
+koreatown  K AH2 R IY AH2 T AW N
 korell  K OR EH L
 koren  K OR IH N
 korenek  K OR IH N IH K
@@ -60915,21 +60932,21 @@ koskinen  K AA S K IH N IH N
 kosko  K OW S K OW
 koskotas  K AO S K OW T AH2 S
 kosky  K AA S K IY
-kosloski  K AH S L AW S K IY
-koslosky  K AH S L OW S K IY
+kosloski  K AH2 S L AW S K IY
+koslosky  K AH2 S L OW S K IY
 koslow  K AA S L OW
 koslow's  K AA Z L OW Z
-koslowski  K AH S L AO F S K IY
+koslowski  K AH2 S L AO F S K IY
 kosman  K AA S M AH2 N
 kosmatka  K AH S M AA T K AH2
 kosmetsky  K AA Z M EH T S K IY
 kosmetsky's  K AA Z M EH T S K IY Z
-kosmicki  K AH S M IH T S K IY
+kosmicki  K AH2 S M IH T S K IY
 kosnovsky  K AA Z N AA F S K IY
 kosnovsky's  K AA Z N AA F S K IY Z
-kosovo  K OW S OW V OW
-kosowski  K AH S AO F S K IY
-kosowsky  K AH S AW S K IY
+kosovo  K OW S AH2 V OW
+kosowski  K AH2 S AO F S K IY
+kosowsky  K AH2 S AW S K IY
 koss  K AO S
 kossman  K AO S M AH2 N
 kossow  K AA S OW
@@ -61455,7 +61472,7 @@ kryger  K R AY G ER
 krygier  K R AY G IY R
 krypton  K R IH P T AO N
 kryptonian  K R IH P T OW N IY AH2 N
-kryptonite  K R IH P T OW N UY T
+kryptonite  K R IH P T AH2 N UY T
 kryptos  K R IH P T OW S
 krysiak  K R IH S IY AE K
 krystal  K R IH S T EL
@@ -61626,7 +61643,7 @@ kun  K IH N
 kuna  K Y UW N AH2
 kunaev  K Y UW N EY V
 kunath  K AH N AH TH
-kunayev  K Y UW N EY AH V
+kunayev  K Y UW N EY AH2 V
 kunce  K IH N S
 kunda  K AH N D AH2
 kunde  K AH N D
@@ -61868,7 +61885,7 @@ laatsch  L AA CH
 lab  L AE B
 lab's  L AE B Z
 laba  L AA B AH2
-labadie  L AE B AH D IY
+labadie  L AE B AH2 D IY
 laban  L EY B IH N
 laband  L AA B & N D
 labant  L AH B & N T
@@ -61905,15 +61922,15 @@ labine  L AA B IY N IY
 lablanc  L AH B L EY NG K
 labo  L AA B OW
 laboda  L AA B OW D AH2
-labombard  L AE B AH M B ER D
+labombard  L AE B AH2 M B ER D
 labonte  L AH B AA N T
 labor  L EY B ER
 labor's  L EY B ER Z
 laboratoires  L AH B OR AH2 T W AA Z
-laboratories  L AE B R AH T OR IY Z
-laboratories'  L AE B R AH T OR IY Z
-laboratory  L AE B R AH T OR IY
-laboratory's  L AE B R AH T OR IY Z
+laboratories  L AE B R AH2 T OR IY Z
+laboratories'  L AE B R AH2 T OR IY Z
+laboratory  L AE B R AH2 T OR IY
+laboratory's  L AE B R AH2 T OR IY Z
 laborde  L AH B OR D
 labore  L AH B OR
 labored  L EY B ER D
@@ -61923,7 +61940,7 @@ laboring  L EY B ER IH NG
 laborious  L AH B OR IY AH2 S
 laboriously  L AH B OR IY AH2 S L IY
 labors  L EY B ER Z
-labossiere  L AE B AH S IY EH R
+labossiere  L AE B AH2 S IY EH R
 labouisse  L AA B UW S
 labounty  L AH2 B AW N T IY
 labour  L EY B ER
@@ -61931,8 +61948,8 @@ labov  L AH B AH V
 labove  L AH B AH V
 labow  L AE B OW
 laboy  L AH B OY
-labrador  L AE B R AH D OR
-labrake  L AE B R AH K
+labrador  L AE B R AH2 D OR
+labrake  L AE B R AH2 K
 labranche  L AA B R AA N K IY
 labreck  L AE B R IH K
 labrecque  L AH B R EH K
@@ -62200,7 +62217,7 @@ lais  L EY Z
 laissez  L EH Z EY
 lait  L EY
 laitinen  L UY T IH N IH N
-laity  L EY AH T IY
+laity  L EY AH2 T IY
 lajeune  L AA JH IH N
 lajeunesse  L AA JH AH N EH S
 lajoie  L AA JH W AA
@@ -62341,13 +62358,15 @@ lamine  L AH M IY N
 lamine's  L AH M IY N Z
 laminer  L & M AH2 N ER
 laminne  L AH M AH2 N
-lamirande  L AA M IH R AA N D IY
+lamirande  L AA M IY R AA N D IY
 lamison  L & M IH S AH2 N
 lamke  L & M K IY
 lamkin  L & M K IH N
 lamle  L & M L IY
 lamm  L & M
 lamm's  L & M Z
+lamma  L AA M AH2
+lammas  L AA M AH2 S
 lamme  L & M
 lammers  L & M ER Z
 lammert  L & M ER T
@@ -62530,7 +62549,7 @@ lands'  L & N D Z
 landsat  L & N D S AE T
 landsberg  L & N D Z B ER G
 landsberger  L & N D Z B ER G ER
-landsbergis  L & N D Z B ER G AH S
+landsbergis  L & N D Z B ER G AH2 S
 landscape  L & N D S K EY P
 landscaped  L & N D S K EY P T
 landscaper  L & N D S K EY P ER
@@ -62815,7 +62834,7 @@ larison  L AE R IH S AH2 N
 larissa  L AA R IY S AH2
 larivee  L AE R IH V IY
 lariviere  L AE R IH V IY EH R
-lariZa  L ER IH Z AH2
+larizza  L ER IH Z AH2
 lark  L AA R K
 larke  L AA R K
 larkey  L AA R K IY
@@ -63323,7 +63342,7 @@ laxton  L AE K S T IH N
 lay  L EY
 lay's  L EY Z
 layah  L EY AH2
-layaway  L EY AH W EY
+layaway  L EY AH2 W EY
 layborne  L EY B OR N
 layborne's  L EY B OR N Z
 laycock  L EY K AA K
@@ -63378,11 +63397,11 @@ lazuli  L AH Z UW L IY
 lazulite  L AE Z AH2 L UY T
 lazur  L AE Z ER
 lazy  L EY Z IY
-laZara  L AA T S AA R AH2
-laZari  L AA T S AA R IY
-laZarini  L AA T S AA R IY N IY
-laZaro  L AA T S AA R OW
-laZell  L AE Z AH2 L
+lazzara  L AA T S AA R AH2
+lazzari  L AA T S AA R IY
+lazzarini  L AA T S AA R IY N IY
+lazzaro  L AA T S AA R OW
+lazzell  L AE Z AH2 L
 le  L AH2
 lea  L IY
 leabo  L IY B OW
@@ -63593,7 +63612,7 @@ lecher  L EH CH ER
 lecherous  L EH CH ER IH S
 lechler  L EH K L ER
 lechman  L EH K M AH2 N
-lechmere  L EH K M IH R
+lechmere  L EH K M IY R
 lechner  L EH K N ER
 lechtenberg  L EH K T AH2 N B ER G
 lechters  L EH K T ER Z
@@ -63693,6 +63712,7 @@ leeson  L IY S AH2 N
 leeson's  L IY S AH2 N Z
 leet  L IY T
 leetch  L IY CH
+leetcode  L IY T K OW D
 leete  L IY T
 leeth  L IY TH
 leeuwen  L UW IH N
@@ -63793,10 +63813,10 @@ leghorns  L EH G HH OR N Z
 legibility  L EH JH AH2 B IH L AH2 T IY
 legible  L EH JH AH2 B EL
 legion  L IY JH IH N
-legionaries  L IY JH AH N EY R IY Z
-legionnaire  L IY JH AH N EY R
-legionnaire's  L IY JH AH N EY R Z
-legionnaires  L IY JH AH N EY R Z
+legionaries  L IY JH AH2 N EY R IY Z
+legionnaire  L IY JH AH2 N EY R
+legionnaire's  L IY JH AH2 N EY R Z
+legionnaires  L IY JH AH2 N EY R Z
 legions  L IY JH IH N Z
 legislate  L EH JH IH S L EY T
 legislated  L EH JH AH2 S L EY T AH2 D
@@ -63840,7 +63860,7 @@ lehan  L IY HH & N
 lehane  L AH HH EY N
 lehder  L EH D ER
 lehder's  L EH D ER Z
-lehenbauer  L EY AH N B AW ER
+lehenbauer  L EY AH2 N B AW ER
 lehew  L EY HH Y UW
 lehigh  L IY HH AY
 lehl  L EH L
@@ -64005,7 +64025,7 @@ lemere  L EH M ER
 lemery  L EH M ER IY
 lemieux  L AH M Y UW
 leming  L EH M IH NG
-lemire  L EY M IH R EY
+lemire  L EY M IY R EY
 lemke  L EH M K IY
 lemler  L EH M L ER
 lemley  L EH M L IY
@@ -64360,7 +64380,7 @@ leupold  L OY P OW L D
 leuschner  L OY SH N ER
 leuthold  L OY TH OW L D
 leutwiler  L UW T W AY L ER
-leuZi  L UW Z IY
+leuzzi  L UW Z IY
 lev  L EH V
 leva  L EH V AH2
 leval  L AH V AA L
@@ -64618,7 +64638,7 @@ libration  L AY B R EY SH IH N
 librettist  L AH B R EH T IH S T
 libretto  L IH B R EH T OW
 librivox  L IY B R IY V AA K S
-libriZi  L IY B R IY T S IY
+librizzi  L IY B R IY T S IY
 libs  L IH B Z
 liby  L AY B IY
 libya  L IH B IY AH2
@@ -64794,10 +64814,12 @@ ligachev  L IH G AH CH EH V
 ligachev's  L IH G AH CH EH V Z
 ligament  L IH G AH M AH2 N T
 ligaments  L IH G AH M AH2 N T S
-ligand  L IH G AH N D
+ligand  L IH G AH2 N D
 ligands  L IH G AH N D Z
 ligas  L AY G AH Z
 ligation  L AY G EY SH IH N
+ligature  L IH G AH2 CH ER
+ligatures  L IH G AH2 CH ER Z
 ligget  L IH G IH T
 liggett  L IH G IH T
 liggett's  L IH G EH T S
@@ -65448,8 +65470,8 @@ litzenberg  L IH T Z AH N B ER G
 litzenberger  L IH T Z AH N B ER G ER
 litzinger  L IH T Z IH NG ER
 liu  L Y UW
-liuZa  L IY UW T S AH2
-liuZi  L IY UW T S IY
+liuzza  L IY UW T S AH2
+liuzzi  L IY UW T S IY
 liv  L IH V
 livable  L IH V AH2 B EL
 livan  L IY V AA N
@@ -65520,10 +65542,10 @@ lizards  L IH Z ER D Z
 lizarraga  L IY Z AA R AA G AH2
 lizhi  L IH Z IY
 lizotte  L IH Z AO T
-liZie  L IH Z IY
-liZy  L IH Z IY
+lizzie  L IH Z IY
+lizzy  L IH Z IY
 ljubljana  L Y UW B L Y AA N AH2
-ljubomir  L Y UW B OW M IH R
+ljubomir  L Y UW B OW M IY R
 llama  L AA M AH2
 llamas  L AA M AH2 Z
 llana  L & N AH2
@@ -65701,17 +65723,17 @@ lockwood's  L AA K W UH D Z
 lockyer  L AA K Y ER
 loco  L OW K OW
 lococo  L OW K OW K OW
-locomotion  L OW K AH M OW SH IH N
-locomotive  L OW K AH M OW T IH V
-locomotives  L OW K AH M OW T IH V Z
-locomotor  L OW K AH M OW T ER
+locomotion  L OW K AH2 M OW SH IH N
+locomotive  L OW K AH2 M OW T IH V
+locomotives  L OW K AH2 M OW T IH V Z
+locomotor  L OW K AH2 M OW T ER
 loconte  L OW K OW N T IY
 locsin  L AA K S IH N
 loctite  L AA K T UY T
 locurto  L OW K UH R T OW
-locus  L OW K AH S
+locus  L OW K AH2 S
 locust  L OW K AH2 S T
-locusts  L OW K AH S T S
+locusts  L OW K AH2 S T S
 locy  L OW S IY
 lodato  L OW D AA T OW
 lode  L OW D
@@ -66650,6 +66672,7 @@ lugi  L UW G IY
 luginbill  L AH G IH N B EL
 luginbuhl  L AH G IH N B EL
 lugkov  L UW G K AO V
+lughnasadh  L UW N AA S AH2
 lugo  L UW G OW
 lugosi  L UW G OW S IY
 lugs  L AH G Z
@@ -66854,10 +66877,10 @@ lurches  L ER CH IH Z
 lurching  L ER CH IH NG
 lure  L ER
 lured  L ER D
-lures  L ER Z
+lures  L UW R Z
 lurette  L ER EH T
 lurgi  L ER JH IY
-luria  L UH R IY AH2
+luria  L ER IY AH2
 lurid  L ER IH D
 lurie  L ER IY
 luring  L ER IH NG
@@ -66953,7 +66976,7 @@ luzar  L UW Z ER
 luzhkov  L UW ZH K AO V
 luzier  L UW Z IY ER
 luzon  L UW Z AA N
-luZi  L UW T S IY
+luzzi  L UW T S IY
 lwin  L W IH N
 lxi  L K S IY
 ly  L AY
@@ -67103,40 +67126,40 @@ mabin  M AE B IH N
 mabis  M AE B IH S
 mable  M EY B EL
 mabley  M AE B L IY
-mabon  M AE B AA N
+mabon  M AE B AH2 N
 mabrey  M AE B R IY
 mabry  M AE B ER IY
 mabus  M AE B IH S
 mac  M AE K
 mac's  M AE K S
-macabre  M AH K AA B R AH2
-macadam  M AH K AE D EM
+macabre  M AH2 K AA B R AH2
+macadam  M AH2 K AE D EM
 macadamia  M AE K AH2 D EY M IY AH2
 macallister  M AH K AE L IH S T ER
 macalpine  M AH K AE L P AY N
 macaluso  M AE K EL UW S OW
 macandrews  M AH2 K & N D R UW Z
 macao  M AH2 K AW
-macaques  M AH K AA K S
+macaques  M AH2 K AA K S
 macarena  M AE K AH2 R IY N AH2
 macari  M AA K AA R IY
 macaroni  M AE K ER OW N IY
-macarthur  M AH K AA R TH ER
-macartney  M AH K AA R T N IY
+macarthur  M AH2 K AA R TH ER
+macartney  M AH2 K AA R T N IY
 macau  M AH2 K AW
-macaulay  M AH K AO L IY
-macauley  M AH K AO L IY
-macaw  M AH K AO
-macaws  M AH K AO Z
-macbeth  M AH K B EH TH
-macbride  M AH K B R AY D
+macaulay  M AH2 K AO L IY
+macauley  M AH2 K AO L IY
+macaw  M AH2 K AO
+macaws  M AH2 K AO Z
+macbeth  M AH2 K B EH TH
+macbride  M AH2 K B R AY D
 maccabean  M AE K AH2 B IY AH2 N
 maccabee  M AE K AH2 B IY
 maccabees  M AE K AH2 B IY Z
 maccallum  M AH K AE L AH2 M
 maccaquano  M AE K AH2 K W AA N OW
 maccarone  M AE K ER OW N
-maccarthy  M AH K AA R TH IY
+maccarthy  M AH2 K AA R TH IY
 macchi  M AE K IY
 macchia  M AE K IY AH2
 macchio  M AE K IY OW
@@ -67156,22 +67179,22 @@ macdougall  M AH2 K D UW G AH2 L
 macdowell  M AH2 K D AW AH2 L
 macduff  M AH2 K D AH F
 mace  M EY S
-maceachern  M AH K IY CH ER N
-maceda  M AH S EY D AH2
-macedo  M AH S EY D OW
+maceachern  M AH2 K IY CH ER N
+maceda  M AH2 S EY D AH2
+macedo  M AH2 S EY D OW
 macedonia  M AE S AH2 D OW N IY AH2
 macedonia's  M AE S AH2 D OW N IY AH2 Z
 macedonian  M AE S AH2 D OW N Y IH N
 macedonians  M AE S AH2 D OW N IY AH2 N Z
 macek  M IH K EH K
-macera  M AH S EH R AH2
+macera  M AH2 S EH R AH2
 macewan  M AH2 K Y UW AA N
 macewen  M AH2 K Y UW AA N
 macey  M EY S IY
-macfadden  M AH K F AE D IH N
-macfadyen  M AH K F AE D IY AH2 N
-macfarland  M AH K F AA R L AH2 N D
-macfarlane  M AH K F AA R L IH N
+macfadden  M AH2 K F AE D IH N
+macfadyen  M AH2 K F AE D IY AH2 N
+macfarland  M AH2 K F AA R L AH2 N D
+macfarlane  M AH2 K F AA R L IH N
 macgowan  M AH2 G AW IH N
 macgraw  M AH2 G R AA
 macgregor  M AH2 G R EH G ER
@@ -67180,22 +67203,22 @@ macgyver's  M AH2 G AY V ER Z
 mach  M AA K
 macha  M AE CH AH2
 machacek  M AE K AH2 S IH K
-machado  M AH CH AA D OW
-machain  M AH CH EY N
-machala  M AH CH AA L AH2
+machado  M AH2 CH AA D OW
+machain  M AH2 CH EY N
+machala  M AH2 CH AA L AH2
 machamer  M AE K AH2 M ER
 mache  M AE CH
 machel  M AE CH AH L
 machen  M AE K IH N
 macher  M AE K ER
-macheski  M AH CH EH S K IY
-machete  M AH SH EH T IY
-machetes  M AH SH EH T IY Z
+macheski  M AH2 CH EH S K IY
+machete  M AH2 SH EH T IY
+machetes  M AH2 SH EH T IY Z
 machi  M AA K IY
 machiavelli  M AA K IY AH2 V EH L IY
 machiavelli's  M AA K IY AH2 V EH L IY Z
 machiavellian  M AA K IY AH2 V EH L IY AH2 N
-machida  M AH CH IY D AH2
+machida  M AH2 CH IY D AH2
 machin  M AE CH IH N
 machination  M AE K AH2 N EY SH IH N
 machinations  M AE K AH2 N EY SH IH N Z
@@ -67214,24 +67237,24 @@ machining  M AH2 SH IY N IH NG
 machinist  M AH2 SH IY N AH2 S T
 machinists  M AH2 SH IY N IH S T S
 machinists'  M AH2 SH IY N IH S T S
-machismo  M AH CH IH Z M OW
-machivelli  M AE K AH2 V EH L IY
-machivellian  M AE K AH2 V EH L IY AH2 N
+machismo  M AH2 CH IY Z M OW
+machivelli  M AA K AH2 V EH L IY
+machivellian  M AA K AH2 V EH L IY EN
 machnik  M AE K N IH K
 macho  M AA CH OW
-machold  M AH HH OW L D
-machowski  M AH CH AO F S K IY
+machold  M AH2 HH OW L D
+machowski  M AH2 CH AO F S K IY
 macht  M AE CH T
 machtley  M AE CH T L IY
-machuca  M AH CH UW K AH2
-machuga  M AH CH UW G AH2
-maciag  M AH K EY G
+machuca  M AH2 CH UW K AH2
+machuga  M AH2 CH UW G AH2
+maciag  M AH2 K EY G
 macias  M AA S IY AH2 S
-maciejewski  M AH CH EH F S K IY
+maciejewski  M AH2 CH EH F S K IY
 maciel  M IH K IY L
 macik  M AA CH IH K
-macinnes  M AH K IH N IH S
-macinnis  M AH K IH N IH S
+macinnes  M AH2 K IH N IH S
+macinnis  M AH2 K IH N IH S
 macintax  M AE K IH N T AE K S
 macintosh  M AE K IH N T AO SH
 macintosh's  M AE K IH N T AA SH IH Z
@@ -67244,12 +67267,12 @@ maciver  M IY K IH V ER
 mack  M AE K
 mack's  M AE K S
 mackall  M AE K EL
-mackay  M AH K EY
+mackay  M AH2 K EY
 macke  M AE K
 mackel  M AE K EL
-mackellar  M AH K EH L ER
+mackellar  M AH2 K EH L ER
 macken  M AE K IH N
-mackenzie  M AH K EH N Z IY
+mackenzie  M AH2 K EH N Z IY
 mackerel  M AE K ER EL
 mackert  M AE K ER T
 mackey  M AE K IY
@@ -67258,9 +67281,9 @@ mackie's  M AE K IY Z
 mackiewicz  M AE K IY AH2 W IH T S
 mackin  M AE K IH N
 mackinaw  M AE K AH2 N AO
-mackinley  M AH K IH N L IY
-mackinney  M AH K IH N IY
-mackinnon  M AH K IH N IH N
+mackinley  M AH2 K IH N L IY
+mackinney  M AH2 K IH N IY
+mackinnon  M AH2 K IH N IH N
 mackintosh  M AE K IH N T AA SH
 macklem  M AE K L AH M
 mackler  M AE K L ER
@@ -67268,22 +67291,22 @@ mackley  M AE K L IY
 macklin  M AE K L IH N
 macklin's  M AE K L IH N Z
 macknay  M AE K N EY
-macknight  M AH K N UY T
+macknight  M AH2 K N UY T
 macko  M AE K OW
-mackowiak  M AH S K AW IY AE K
-mackowski  M AH S K AO F S K IY
+mackowiak  M AH2 S K AW IY AE K
+mackowski  M AH2 S K AO F S K IY
 macks  M AE K S
 macktal  M AE K T EL
-maclachlan  M AH K L AE K L IH N
-maclaine  M AH K L EY N
-maclaren  M AH K L EY R IH N
-maclaughlin  M AH K L AO K L IH N
-maclay  M AH K L EY
-maclean  M AH K L EY N
-macleish  M AH K L IY SH
-maclellan  M AH K L EH L IH N
-maclennan  M AH K L EH N IH N
-macleod  M AH K L AW D
+maclachlan  M AH2 K L AE K L IH N
+maclaine  M AH2 K L EY N
+maclaren  M AH2 K L EY R IH N
+maclaughlin  M AH2 K L AO K L IH N
+maclay  M AH2 K L EY
+maclean  M AH2 K L EY N
+macleish  M AH2 K L IY SH
+maclellan  M AH2 K L EH L IH N
+maclennan  M AH2 K L EH N IH N
+macleod  M AH2 K L AW D
 maclin  M AE K L IH N
 macmahon  M AH2 K M & N
 macmaster  M AH2 K M AE S T ER
@@ -67762,14 +67785,14 @@ maione  M AY OW N IY
 maiorana  M AY OR & N AH2
 maiorano  M AY OR AA N OW
 maiorino  M AY OR IY N OW
-mair  M EH R
-maire  M EH R
+mair  M EY R
+maire  M EY R
 mairead  M EY R EH
-mairs  M EH R Z
+mairs  M EY R Z
 mais  M EY S
-maisano  M AH S AA N OW
-maisch  M UY SH
-maisel  M UY S AH2 L
+maisano  M AY S AA N OW
+maisch  M AY SH
+maisel  M AY S AH2 L
 maish  M AA IH SH
 maisie  M EY Z IY
 maison  M EY Z IH N
@@ -67792,22 +67815,22 @@ majestic  M AH2 JH EH S T IH K
 majestically  M AH2 JH EH S T IH K L IY
 majesty  M AE JH IH S T IY
 majesty's  M AE JH IH S T IY Z
-majette  M AH ZH EH T
-majeure  M AH JH UW ER
+majette  M AH2 ZH EH T
+majeure  M AH2 JH UW ER
 majewski  M AY EH F S K IY
 majid  M AH JH IH D
 majik  M AE JH IH K
 majka  M UY K AH2
 majkowski  M UY K AO F S K IY
 majnoon  M AE JH N UW N
-majolica  M AH JH AO L AH K AH2
+majolica  M AH2 JH AO L AH2 K AH2
 major  M EY JH ER
 major's  M EY JH ER Z
 majorca  M AY OR K AH2
 majordomo  M EY JH ER D OW M OW
 majored  M EY JH ER D
 majoring  M EY JH ER IH NG
-majoritarian  M AE JH ER IH T EH R IY AH2 N
+majoritarian  M AH2 JH OR IH T EY R IY AH2 N
 majorities  M AH2 JH OR IH T IY Z
 majority  M AH2 JH OR IH T IY
 majority's  M AH2 JH OR IH T IY Z
@@ -67819,7 +67842,7 @@ majure  M AA Y AH2 R EY
 mak  M AE K
 makar  M AE K ER
 makara  M AA K AA R AH2
-makarewicz  M AH K AA R IH V IH CH
+makarewicz  M AH2 K AA R IH V IH CH
 make  M EY K
 makefield  M EY K F IY L D
 makegood  M EY K G UH D
@@ -67835,7 +67858,7 @@ makers'  M EY K ER Z
 makes  M EY K S
 makeshift  M EY K SH IH F T
 makeup  M EY K AH P
-makhoul  M AH K UW L
+makhoul  M AH2 K UW L
 maki  M AA K IY
 makin  M AE K IH N
 makin'  M EY K AH2 N
@@ -67843,11 +67866,11 @@ makinen  M AE K IH N IH N
 making  M EY K IH NG
 makings  M EY K IH NG Z
 makinson  M AE K IH N S AH2 N
-makita  M AH K IY T AH2
+makita  M AH2 K IY T AH2
 mako  M AA K OW
 makos  M EY K OW Z
 makoto  M AH K OW T OW
-makowski  M AH K AO F S K IY
+makowski  M AH2 K AO F S K IY
 makowsky  M AH2 K AW S K IY
 makris  M AE K R IH S
 makro  M AE K R OW
@@ -67860,7 +67883,7 @@ mal  M AE L
 mal's  M AE L Z
 mala  M AA L AH2
 malabre  M AE L AH2 B R AH2
-malacanang  M AH L AE K AH2 N EY NG
+malacanang  M AH2 L AE K AH2 N EY NG
 malacca  M AH L AE K AH2
 malachite  M AE L UH K UY T
 malachowski  M AH L AH HH AO F S K IY
@@ -67881,7 +67904,7 @@ malan  M EY L IH N
 maland  M AE L AH2 N D
 malaney  M AH2 L EY N IY
 malanga  M AA L AA NGG AH2
-malanowski  M AH L AH N AO F S K IY
+malanowski  M AH2 L AH N AO F S K IY
 malaprop  M AE L AH2 P R AA P
 malara  M AA L AA R AH2
 malaria  M AH2 L EY R IY AH2
@@ -67890,7 +67913,7 @@ malarkey  M AH2 L AA R K IY
 malary  M AE L ER IY
 malaspina  M AA L AA S P IY N AH2
 malatesta  M AA L AA T EH S T AH2
-malathion  M AH L AE TH IY AO N
+malathion  M AH2 L AE TH IY AO N
 malave  M AH2 L AA V IY
 malawi  M AH2 L AA W IY
 malawi's  M AH2 L AA W IY Z
@@ -67913,7 +67936,7 @@ malcomb  M AE L K AH2 M
 malcomson  M AE L K AH2 M S AH2 N
 malcontent  M AE L K IH N T EH N T
 malcontents  M AE L K IH N T EH N T S
-malczewski  M AH L CH EH F S K IY
+malczewski  M AH2 L CH EH F S K IY
 malden  M AO L D IH N
 maldives  M AO L D IY V Z
 maldonado  M AE L D AH N AA D OW
@@ -67921,19 +67944,19 @@ maldutis  M AA L D UW T IH S
 male  M EY L
 male's  M EY L Z
 malec  M AA L IH K
-malecha  M AH L EH CH AH2
-malecki  M AH L EH K IY
+malecha  M AH2 L EH CH AH2
+malecki  M AH2 L EH K IY
 malefactor  M AE L AH2 F AE K T ER
 malefactors  M AE L AH2 F AE K T ER Z
 malek  M AA L EH K
-malena  M AE L IH N AH2
-malenfant  M AA L EY N F IH N T
+malena  M AH2 L EY N AH2
+malenfant  M AE L AO N F AO N T
 maler  M EY L ER
 malerba  M AA L EY R B AH2
 males  M EY L Z
-maleski  M AH L EH S K IY
-malesky  M AH L EH S K IY
-malevolent  M AH L EH V AH2 L IH N T
+maleski  M AH2 L EH S K IY
+malesky  M AH2 L EH S K IY
+malevolent  M AH2 L EH V AH2 L IH N T
 maley  M EY L IY
 malfeasance  M AE L F IY Z IH N S
 malfitano  M AE L F IH T AA N OW
@@ -68015,7 +68038,7 @@ malloseismic  M AA L OW S AY Z M IH K
 mallow  M AE L OW
 mallows  M AE L OW Z
 malloy  M AH L OY
-malloZi  M AE L AA Z IY
+mallozzi  M AE L AA Z IY
 mallrat  M AO L R AE T
 mallrats  M AO L R AE T S
 malls  M AO L Z
@@ -68031,11 +68054,11 @@ malnourished  M AE L N ER IH SH T
 malnutrition  M AE L N UW T R IH SH IH N
 malo  M AA L OW
 malon  M AE L IH N
-malone  M AH L OW N
-malone's  M AH L OW N Z
-maloney  M AH L OW N IY
-maloof  M AH L UW F
-malosovich  M AH L AO S AH V IH CH
+malone  M AH2 L OW N
+malone's  M AH2 L OW N Z
+maloney  M AH2 L OW N IY
+maloof  M AH2 L UW F
+malosovich  M AH2 L OW S AH2 V IH CH
 malott  M AH2 L AA T
 malouf  M AE L OW F
 maloy  M AE L OY
@@ -68079,7 +68102,7 @@ malzahn  M AE L Z IH N
 mam  M AA M
 mama  M AA M AH2
 mama's  M AA M AH2 Z
-mamaroneck  M AH M EH R AH2 N EH K
+mamaroneck  M AH2 M EH R AH2 N EH K
 mamas  M AA M AH2 Z
 mamba  M AA M B AH2
 mambas  M AA M B AH Z
@@ -68549,9 +68572,9 @@ marasek  M ER AA S EH K
 marash  M AA R AH SH
 marash'  M AA R AH2 SH
 marash's  M AA R AH2 SH IH S
-marathi  M AH R AA T IY
-marathon  M EH R AH2 TH AA N
-marathons  M EH R AH2 TH AA N Z
+marathi  M AH2 R AA T IY
+marathon  M EY R AH2 TH AA N
+marathons  M EY R AH2 TH AA N Z
 maraud  M ER AO D
 marauder  M ER AO D ER
 marauders  M ER AO D ER Z
@@ -68637,7 +68660,7 @@ marciano  M AA R CH IY AA N OW
 marciante  M AA R CH IH N T IY
 marcie  M AA R K IY
 marcil  M AA R S IH L
-marcile  M AA R CH AH L
+marcile  M AA R CH AH2 L
 marcilio  M AA R S IY L IY OW
 marcille  M AA R S IH L
 marcin  M AA R S IY N
@@ -68877,7 +68900,7 @@ market  M AA R K AH2 T
 market's  M AA R K AH2 T S
 marketability  M AA R K AH2 T AH2 B IH L IH T IY
 marketable  M AA R K AH2 T AH2 B EL
-marketamerica  M AA R K AH2 T AH2 M EH R IH K AH2
+marketamerica  M AA R K AH2 T AH2 M EY R IH K AH2
 marketed  M AA R K AH2 T AH2 D
 marketeer  M AA R K AH2 T IY R
 marketeers  M AA R K AH2 T IY R Z
@@ -69032,7 +69055,7 @@ marquita  M AA R K W IY T AH2
 marr  M AA R
 marra  M AA R AH2
 marrakech  M EY R AH2 K EH SH
-marraZo  M AA R AA Z OW
+marrazzo  M AA R AA Z OW
 marred  M AA R D
 marren  M AA R IH N
 marrero  M AA R EY R OW
@@ -69227,9 +69250,9 @@ marvell  M AA R V EH L
 marvella  M AA R V EH L AH2
 marvelle  M AA R V EH L
 marvelled  M AA R V EH L D
-marvellous  M AA R V AH L AH S
-marvelous  M AA R V EL AH S
-marvelously  M AA R V EL AH S L IY
+marvellous  M AA R V AH2 L AH2 S
+marvelous  M AA R V EL AH2 S
+marvelously  M AA R V EL AH2 S L IY
 marvels  M AA R V EL Z
 marver  M AA R V ER
 marvin  M AA R V IH N
@@ -69499,7 +69522,7 @@ matala's  M AH T AA L AH2 Z
 matalin  M AE T EL IH N
 matalon  M AA T AA L AO N
 matamoros  M AA T AA M OR OW S
-mataraZo  M AA T AA R AA Z OW
+matarazzo  M AA T AA R AA Z OW
 matarese  M AA T AA R EY Z IY
 matas  M AA T AH2 Z
 matassa  M AA T AA S AH2
@@ -69810,7 +69833,7 @@ maurin  M OR IH N
 maurine  M OR IY N IY
 maurita  M OR IY T AH2
 mauritania  M OR IH T EY N IY AH2
-mauritius  M AW ER IY SH IH S
+mauritius  M AH2 R IH SH IH S
 mauritz  M OR IH T S
 maurizio  M OR IH Z IY OW
 mauro  M OR OW
@@ -69950,7 +69973,7 @@ maynes  M EY N Z
 maynor  M EY N ER
 mayo  M EY OW
 mayon  M EY AO N
-mayonnaise  M EY AH N EY Z
+mayonnaise  M EY AH2 N EY Z
 mayor  M EY ER
 mayor's  M EY ER Z
 mayoral  M EY ER EL
@@ -69994,31 +70017,30 @@ mazurkas  M AH Z ER K AH2 Z
 mazurkiewicz  M AH Z ER K AH2 V IH CH
 mazurowski  M AH Z ER AO F S K IY
 mazyck  M AE Z IH K
-maZa  M AE Z AH2
-maZaferro  M AE Z AH F EY R OW
-maZanti  M AA T S AA N T IY
-maZara  M AA T S AA R AH2
-maZarella  M AA T S AA R EH L AH2
-maZei  M AA T S EY IY
-maZella  M AA T S EH L AH2
-maZeo  M AE Z IY OW
-maZetti  M AA T S EH T IY
-maZie  M AE Z IY
-maZiotti  M AA T S IY OW T IY
-maZo  M AE Z OW
-maZocchi  M AA T S OW K IY
-maZocco  M AA T S OW K OW
-maZola  M AA T S OW L AH2
-maZola's  M AA T S OW L AH2 Z
-maZoli  M AH Z OW L IY
-maZolla  M AH Z OW L AH2
-maZone  M AA T S OW N IY
-maZoni  M AA T S OW N IY
-maZorana  M AE Z ER AA N AH2
-maZotta  M AA T S OW T AH2
-maZuca  M AA T S UW K AH2
-maZucco  M AA T S UW K OW
-mba  EH M B IY EY
+mazza  M AE Z AH2
+mazzaferro  M AE Z AH F EY R OW
+mazzanti  M AA T S AA N T IY
+mazzara  M AA T S AA R AH2
+mazzarella  M AA T S AA R EH L AH2
+mazzei  M AA T S EY IY
+mazzella  M AA T S EH L AH2
+mazzeo  M AE Z IY OW
+mazzetti  M AA T S EH T IY
+mazzie  M AE Z IY
+mazziotti  M AA T S IY OW T IY
+mazzo  M AE Z OW
+mazzocchi  M AA T S OW K IY
+mazzocco  M AA T S OW K OW
+mazzola  M AA T S OW L AH2
+mazzola's  M AA T S OW L AH2 Z
+mazzoli  M AH Z OW L IY
+mazzolla  M AH Z OW L AH2
+mazzone  M AA T S OW N IY
+mazzoni  M AA T S OW N IY
+mazzorana  M AE Z ER AA N AH2
+mazzotta  M AA T S OW T AH2
+mazzuca  M AA T S UW K AH2
+mazzucco  M AA T S UW K OW
 mbank  EH M B EY NG K
 mbeki  EH M B EH K IY
 mbira  M AH B IH R AH2
@@ -71253,6 +71275,8 @@ meditating  M EH D AH2 T EY T IH NG
 meditation  M EH D AH2 T EY SH IH N
 meditations  M EH D IH T EY SH IH N Z
 meditative  M EH D AH2 T EY T IH V
+meditator  M EH D AH2 T EY T OR
+meditators  M EH D AH2 T EY T OR Z
 mediterranean  M EH D AH2 T ER EY N IY AH2 N
 meditrust  M EH D IH T R AH S T
 meditz  M EH D IH T S
@@ -71312,6 +71336,8 @@ meeting  M IY T IH NG
 meeting's  M IY T IH NG Z
 meetings  M IY T IH NG Z
 meets  M IY T S
+meetup  M IY T AH P
+meetups  M IY T AH P S
 meetze  M IY T Z
 meeuwsen  M IY UW S IH N
 mefferd  M EH F ER D
@@ -71501,7 +71527,9 @@ mele  M IY L
 melear  M EH L ER
 melee  M EY L EY
 meleis  M AH2 L EY AH2 S
-melendez  M AH L EH N D EH Z
+melena  M AH2 L EY N AH2
+melena's  M AH2 L EY N AH2 Z
+melendez  M AH2 L EH N D EH Z
 melendrez  M EY L EY N D R EH Z
 melendy  M IH L EH N D IY
 melero  M EY L EY R OW
@@ -71879,7 +71907,7 @@ mercury  M ER K Y ER IY
 mercury's  M ER K Y ER IY Z
 mercy  M ER S IY
 merdyce  M ER D UY S
-mere  M IH R
+mere  M IY R
 meredith  M EH R IH D IH TH
 merely  M IY R L IY
 merenda  M EH R EY N D AA
@@ -71897,7 +71925,7 @@ mergers  M ER JH ER Z
 merges  M ER JH IH Z
 merging  M ER JH IH NG
 merhige  M ER HH IY JH
-meriam  M IH R IY IH M
+meriam  M IY R IY IH M
 merica  M EH R IH K AH2
 mericantante  M EH R IY K IH N T AA N T EY
 mericle  M EH R IH K EL
@@ -71911,7 +71939,7 @@ meridien  M ER IH D IY AH2 N
 meridionale  M ER IH D IY AH2 N AA L IY
 meridith  M EH R IH D IH TH
 meridor  M EH R IH D OR
-meriel  M IH R IY L
+meriel  M IY R IY L
 merieux  M EH R IY Y UW
 merillat  M EH R IH L AE T
 merino  M ER IY N OW
@@ -72181,15 +72209,15 @@ metcalfe  M EH T K EL F
 metcom  M EH T K AA M
 mete  M IY T
 meted  M IY T AH2 D
-meteor  M IY T IY R
+meteor  M IY T IY ER
 meteoric  M IY T IY OR IH K
-meteorite  M IY T IY R UY T
-meteorological  M IY T IY R EL AA JH IH K EL
-meteorologist  M IY T IY R AA L AH2 JH IH S T
-meteorologist's  M IY T IY R AA L AH2 JH IH S T S
-meteorologists  M IY T IY R AA L AH2 JH IH S T S
-meteorology  M IY T IY R AA L AH2 JH IY
-meteors  M IY T IY R Z
+meteorite  M IY T IY ER UY T
+meteorological  M IY T IY ER EL AA JH IH K EL
+meteorologist  M IY T IY ER AA L AH2 JH IH S T
+meteorologist's  M IY T IY ER AA L AH2 JH IH S T S
+meteorologists  M IY T IY ER AA L AH2 JH IH S T S
+meteorology  M IY T IY ER AA L AH2 JH IY
+meteors  M IY T IY ER Z
 meter  M IY T ER
 metered  M IY T ER D
 metering  M IY T ER IH NG
@@ -72249,7 +72277,7 @@ metro's  M EH T R OW Z
 metrobanc  M EH T R OW B EY NG K
 metrobank  M EH T R OW B EY NG K
 metrocall  M EH T R OW K AO L
-metrocolor  M EH T R OW K AH L ER
+metrocolor  M EH T R OW K AH2 L ER
 metrocorp  M EH T R OW K OR P
 metrodade  M EH T R OW D EY D
 metrodome  M EH T R OW D OW M
@@ -72335,9 +72363,9 @@ mezro  M EH Z R OW
 mezuzah  M AH2 Z UH Z AH2
 mezvinsky  M EH Z V IH N S K IY
 mezvinsky's  M EH Z V IH N S K IY Z
-meZaluna  M EH Z AH2 L UW N AH2
-meZanine  M EH Z AH2 N IY N
-meZo  M EH Z OW
+mezzaluna  M EH Z AH2 L UW N AH2
+mezzanine  M EH Z AH2 N IY N
+mezzo  M EH Z OW
 mfume  M AH2 F UW M EY
 mhm  M HH M
 mhoon  M HH UW N
@@ -72458,7 +72486,7 @@ micro  M UY K R OW
 micro's  M UY K R OW Z
 microage  M UY K R OW EY JH
 microaire  M UY K R OW EH R
-microamerica  M UY K R OW AH2 M EH R IH K AH2
+microamerica  M UY K R OW AH2 M EY R IH K AH2
 microbe  M UY K R OW B
 microbes  M UY K R OW B Z
 microbial  M UY K R OW B IY EL
@@ -72478,8 +72506,8 @@ microclimates  M UY K R OW K L AY M AH2 T S
 microcode  M UY K R OW K OW D
 microcodes  M UY K R OW K OW D Z
 microcom  M UY K R OW K AA M
-microcomputer  M UY K R OW K AH M P Y UW T ER
-microcomputers  M UY K R OW K AH M P Y UW T ER Z
+microcomputer  M UY K R OW K AH2 M P Y UW T ER
+microcomputers  M UY K R OW K AH2 M P Y UW T ER Z
 microcosm  M UY K R AH2 K AA Z EM
 microcredit  M UY K R OW K R EH D IH T
 microdyne  M UY K R OW D AY N
@@ -72551,7 +72579,7 @@ micucci  M IY K UW CH IY
 mid  M IH D
 midafternoon  M IH D AE F T ER N UW N
 midair  M IH D EY R
-midamerica  M IH D AH2 M EH R IH K AH2
+midamerica  M IH D AH2 M EY R IH K AH2
 midas  M AY D AH2 S
 midcap  M IH D K AE P
 midcentury  M IH D S EH N CH ER IY
@@ -72653,10 +72681,10 @@ mien  M IY N
 mieno  M IY N OW
 mier  M AY ER
 miera  M IY R AH2
-mieras  M IH R AA Z
+mieras  M IY R AA Z
 miers  M AY ER Z
 miert  M AY ER T
-mierzejewski  M IH R Z EY EH F S K IY
+mierzejewski  M IY R Z EY EH F S K IY
 mierzwa  M IY R Z W AH2
 mies  M AY Z
 mieske  M UY S K IY
@@ -72773,7 +72801,7 @@ milano  M IY L AA N OW
 milanowski  M IH L AH2 N AO F S K IY
 milardo  M IY L AA R D OW
 milas  M AY L AH2 Z
-milaZo  M IY L AA Z OW
+milazzo  M IY L AA Z OW
 milbank  M IH L B EY NG K
 milbauer  M IH L B AW ER
 milberg  M IH L B ER G
@@ -73051,7 +73079,7 @@ minden  M AY N D IH N
 minder  M AY N D ER
 mindful  M AY N D F EL
 mindfully  M AY N D F EL IY
-mindfulness  M AY N D F EL N EH S
+mindfulness  M AY N D F EL N AH2 S
 minding  M AY N D IH NG
 mindless  M AY N D L AH2 S
 mindlessly  M AY N D L AH2 S L IY
@@ -73296,68 +73324,68 @@ mione  M AY OW N
 miot  M AY AH2 T
 miotke  M AY AA T K IY
 mips  M IH P S
-mir  M IH R
-mir's  M IH R Z
-mira  M IH R AH2
-mirabal  M IH R AH2 B EL
-mirabel  M IH R AA B EH L
-mirabella  M IH R AA B EH L AH2
-mirabelle  M IH R AH2 B EH L
-mirabelli  M IH R AA B EH L IY
-mirabile  M IH R AA B EL
-mirabito  M IH R AA B IY T OW
-miracid  M IH R AE S IH D
-miracid's  M IH R AE S AH2 D Z
+mir  M IY R
+mir's  M IY R Z
+mira  M IY R AH2
+mirabal  M IY R AH2 B EL
+mirabel  M IY R AA B EH L
+mirabella  M IY R AA B EH L AH2
+mirabelle  M IY R AH2 B EH L
+mirabelli  M IY R AA B EH L IY
+mirabile  M IY R AA B EL
+mirabito  M IY R AA B IY T OW
+miracid  M IY R AE S IH D
+miracid's  M IY R AE S AH2 D Z
 miracle  M IY R AH2 K EL
 miracles  M IY R AH2 K EL Z
 miraculous  M ER AE K Y AH2 L AH2 S
 miraculously  M ER AE K Y AH2 L AH2 S L IY
 mirad  M AH R AE D
-mirada  M IH R AA D AH2
+mirada  M IY R AA D AH2
 mirage  M ER AA ZH
 mirages  M ER AA ZH AH Z
-miraglia  M IH R AE G L IY AH2
-mirak  M IH R AE K
-miramar  M IH R AH2 M AA R
-miramax  M IH R AH2 M AE K S
-miramax's  M IH R AH2 M AE K S IH Z
-miramontes  M IH R AA M OW N T EH S
+miraglia  M IY R AE G L IY AH2
+mirak  M IY R AE K
+miramar  M IY R AH2 M AA R
+miramax  M IY R AH2 M AE K S
+miramax's  M IY R AH2 M AE K S IH Z
+miramontes  M IY R AA M OW N T EH S
 miranda  M ER & N D AH2
 miranda's  M ER & N D AH2 Z
-mirando  M IH R & N D OW
-miratec  M IH R AH2 T EH K
+mirando  M IY R & N D OW
+miratec  M IY R AH2 T EH K
 mire  M AY ER
 mired  M AY ER D
-mireles  M IH R EY L EH S
-mirelez  M IH R EY L EH Z
-mirell  M IH R EH L
-mirella  M IH R EH L AH2
+mireles  M IY R EY L EH S
+mirelez  M IY R EY L EH Z
+mirell  M IY R EH L
+mirella  M IY R EH L AH2
 mirelle  M ER EH L
-mirenda  M IH R EH N D AH2
+mirenda  M IY R EH N D AH2
 mires  M AY ER Z
-miriam  M IH R IY EM
-mirick  M IH R IH K
-mirilla  M IH R IH L AH2
+miriam  M IY R IY EM
+mirick  M IY R IH K
+mirilla  M IY R IH L AH2
 mirkin  M ER K IH N
 mirna  M ER N AH2
-miro  M IH R OW
-miro's  M IH R OW Z
-miron  M IH R AO N
-mironenko  M IH R OW N EH NG K OW
-miroslav  M IH R AH2 S L AA V
-mirra  M IH R AH2
-mirren  M IH R IH N
+miro  M IY R OW
+miro's  M IY R OW Z
+miron  M IY R AO N
+mironenko  M IY R OW N EH NG K OW
+miroslav  M IY R AH2 S L AA V
+mirra  M IY R AH2
+mirren  M IY R IH N
 mirror  M IY R ER
 mirror's  M IY R ER Z
 mirrored  M IY R ER D
 mirroring  M IY R ER IH NG
 mirrors  M IY R ER Z
-mirsad  M IH R S AE D
+mirsad  M IY R S AE D
 mirsky  M ER S K IY
 mirth  M ER TH
 mirti  M ER T IY
 mirtle  M ER T EL
-mirto  M IH R T OW
+mirto  M IY R T OW
 mirtz  M ER T S
 mirv  M ER V
 mirza  M ER Z AH2
@@ -73371,7 +73399,8 @@ misallocated  M IH S AE L AH2 K EY T AH2 D
 misallocates  M IH S AE L AH2 K EY T S
 misallocating  M IH S AE L AH2 K EY T IH NG
 misallocation  M IH S AE L AH2 K EY SH IH N
-misanthrope  M IH S IH N TH R OW P
+misanthrope  M IH S & N TH R OW P
+misanthropic  M IH S & N TH R OW P IH K
 misapplication  M IH S AE P L AH2 K EY SH IH N
 misapplied  M IH S AH2 P L AY D
 misapplies  M IH S AH2 P L AY Z
@@ -73409,12 +73438,12 @@ miscellaneous  M IH S AH2 L EY N IY AH2 S
 miscellany  M IH S AH2 L EY N IY
 misch  M IH SH
 mischa  M IH SH AH2
-mischaracterization  M IH S K AE R AH K T ER AH2 Z EY SH IH N
-mischaracterizations  M IH S K AE R AH K T ER AH2 Z EY SH IH N Z
-mischaracterize  M IH S K AE R AH K T ER AY Z
-mischaracterized  M IH S K AE R AH K T ER AY Z D
-mischaracterizes  M IH S K AE R AH K T ER AY Z IH Z
-mischaracterizing  M IH S K AE R AH K T ER AY Z IH NG
+mischaracterization  M IH S K EY R AH2 K T ER AH2 Z EY SH IH N
+mischaracterizations  M IH S K EY R AH2 K T ER AH2 Z EY SH IH N Z
+mischaracterize  M IH S K EY R AH2 K T ER AY Z
+mischaracterized  M IH S K EY R AH2 K T ER AY Z D
+mischaracterizes  M IH S K EY R AH2 K T ER AY Z IH Z
+mischaracterizing  M IH S K EY R AH2 K T ER AY Z IH NG
 mischarge  M IH S CH AA R JH
 mischarged  M IH S CH AA R JH D
 mischarges  M IH S CH AA R JH IH Z
@@ -73757,7 +73786,7 @@ mitt  M IH T
 mittag  M IH T AH2 G
 mittal  M IH T AA L
 mittan  M IH T IH N
-mitteleuropa  M IH T EH L UW ER OW P AH2
+mitteleuropa  M IH T EH L Y ER OW P AH2
 mittelman  M IH T EL M AH2 N
 mittelstadt  M IH T IH L SH T AE T
 mittelstaedt  M IH T IH L S T EH T
@@ -73820,7 +73849,7 @@ mizer  M AY Z ER
 mizner  M IH Z N ER
 mizrahi  M IY Z R AA HH IY
 mizuno  M IH Z UW N OW
-miZell  M IH Z AH2 L
+mizzell  M IH Z AH2 L
 mj's  EH M JH EY Z
 mkhatshwa  M AH K AE CH W AH2
 mladenic  M L AA D EH N IH CH
@@ -73891,7 +73920,7 @@ moccio  M OW CH IY OW
 moceri  M OW CH EH R IY
 moch  M AA K
 mocha  M OW K AH2
-mochas  M OW K AH Z
+mochas  M OW K AH2 Z
 mochel  M AA K EL
 mochida  M AH CH IY D AH2
 mochizuki  M OW CH IY Z UW K IY
@@ -75985,11 +76014,11 @@ muzak  M Y UW Z AE K
 muzik  M Y UW Z IH K
 muzio  M Y UW Z IY OW
 muzyka  M Y UW Z IH K AH2
-muZey  M AH Z IY
-muZle  M AH Z AH L
-muZled  M AH Z AH L D
-muZles  M AH Z EL Z
-muZy  M AH Z IY
+muzzey  M AH Z IY
+muzzle  M AH Z AH L
+muzzled  M AH Z AH L D
+muzzles  M AH Z EL Z
+muzzy  M AH Z IY
 mwanza  M W AA N Z AH2
 my  M AY
 myanmar  M Y & N M AA R
@@ -76005,8 +76034,8 @@ myers's  M AY ER Z IH Z
 myerson  M AY ER S AH2 N
 myette  M AY EH T
 myhand  M AY HH & N D
-myhre  M IH R
-myhren  M IH R IH N
+myhre  M IY R
+myhren  M IY R IH N
 myklebust  M IH K EL B AH S T
 myla  M AY L AH2
 myla's  M AY L AH2 Z
@@ -76035,9 +76064,9 @@ myriad  M IY R IY AE D
 myriads  M IY R IY AE D Z
 myriam  M IY R IY EM
 myrick  M AY R IH K
-myrilla  M IH R IH L AH2
-myrlene  M IH R L IY N
-myrlie  M IH R L IY
+myrilla  M IY R IH L AH2
+myrlene  M IY R L IY N
+myrlie  M IY R L IY
 myrmidon  M ER M IH D IH N
 myrmidons  M ER M IH D IH N Z
 myrna  M ER N AH2
@@ -76045,8 +76074,8 @@ myron  M AY R IH N
 myrrh  M ER
 myrta  M ER T AH2
 myrtia  M ER SH AH2
-myrtice  M IH R T IH S
-myrtis  M IH R T IH S
+myrtice  M IY R T IH S
+myrtis  M IY R T IH S
 myrtle  M ER T EL
 myrtles  M ER T EL Z
 myself  M AY S EH L F
@@ -76094,8 +76123,8 @@ nabisco's  N AH2 B IH S K OW Z
 nablus  N AE B L AH S
 nabob  N AE B AA B
 nabobs  N AE B AA B Z
-nabokov  N AE B AH K AA V
-nabokov's  N AE B AH K AA V Z
+nabokov  N AE B AH2 K AA V
+nabokov's  N AE B AH2 K AA V Z
 nabors  N EY B ER Z
 nabozny  N AH2 B AA Z N IY
 nabretta  N AH2 B R EH T AH2
@@ -76374,7 +76403,7 @@ nardiello  N AA R D IY EH L OW
 nardini  N AA R D IY N IY
 nardo  N AA R D OW
 nardone  N AA R D OW N IY
-nardoZi  N AA R D OW T S IY
+nardozzi  N AA R D OW T S IY
 narducci  N AA R D UW CH IY
 nares  N AE R Z
 narita  N EH R IY T AH2
@@ -76393,8 +76422,8 @@ narrated  N EY R EY T AH2 D
 narrates  N EY R EY T S
 narration  N EY R EY SH IH N
 narrations  N EY R EY SH IH N Z
-narrative  N EY R IH T IH V
-narratives  N EY R IH T IH V Z
+narrative  N EY R AH2 T IH V
+narratives  N EY R AH2 T IH V Z
 narrator  N EY R EY T ER
 narrators  N EY R EY T ER Z
 narron  N AE R IH N
@@ -76645,7 +76674,7 @@ nazionale  N AA T S IY OW N AA L IY
 nazis  N AA T S IY Z
 nazis'  N AA T S IY Z
 nazism  N AE Z IH Z EM
-naZaro  N AA T S AA R OW
+nazzaro  N AA T S AA R OW
 ndau  EH N D AW
 neace  N IY S
 nead  N IY D
@@ -76688,7 +76717,7 @@ neave  N IY V
 neaves  N IY V Z
 nebeker  N EH B IH K ER
 nebel  N EH B EL
-nebergall  N IY B ER G AH L
+nebergall  N IY B ER G AH2 L
 neblett  N EH B L IH T
 nebraska  N AH2 B R AE S K AH2
 nebraska's  N AH2 B R AE S K AH2 Z
@@ -76972,8 +77001,8 @@ neo  N IY OW
 neoax  N IY OW AE K S
 neoclassic  N IY OW K L AE S IH K
 neoclassical  N IY OW K L AE S IH K EL
-neoconservative  N IY OW K AH N S ER V AH2 T IH V
-neoconservatives  N IY OW K AH N S ER V AH2 T IH V Z
+neoconservative  N IY OW K AH2 N S ER V AH2 T IH V
+neoconservatives  N IY OW K AH2 N S ER V AH2 T IH V Z
 neola  N IY AA L AH2
 neoliberal  N IY OW L IH B ER EL
 neoliberals  N IY OW L IH B ER EL Z
@@ -77017,6 +77046,8 @@ neptunium  N EH P T UW N IY EM
 nerco  N ER K OW
 nerd  N ER D
 nerds  N ER D Z
+nerdier  N ER D IY ER
+nerdiest  N ER D IY AH2 S T
 nerdy  N ER D IY
 nerenberg  N AH2 R AH2 N B ER G
 nerf  N ER F
@@ -77192,7 +77223,7 @@ neuromorphic  N ER OW M OR F IH K
 neuron  N ER AA N
 neuronal  N ER OW N EL Z
 neurons  N ER AA N Z
-neuropathy  N ER OW P AE TH IY
+neuropathy  N ER AA P AH2 TH IY
 neuroscience  N ER OW S AY AH2 N S
 neuroscientist  N ER OW S AY AH2 N T IH S T
 neuroses  N ER OW S IY Z
@@ -78645,8 +78676,8 @@ noyce  N OY S
 noyd  N OY D
 noyes  N OY Z
 noyola  N OY OW L AH2
-noZle  N AA Z AH2 L
-noZles  N AA Z EL Z
+nozzle  N AA Z AH2 L
+nozzles  N AA Z EL Z
 nth  EH N TH
 nu  N UW
 nuala  N UW AA L AH2
@@ -78781,14 +78812,14 @@ nurock  N UW ER AA K
 nurr  N ER
 nurre  N ER
 nurse  N ER S
-nurse's  N ER S AH2 Z
+nurse's  N ER S IH Z
 nursed  N ER S T
 nurseries  N ER S ER IY Z
 nursery  N ER S ER IY
 nurseryman  N ER S ER IY M & N
 nurserymen  N ER S ER IY M AH2 N
-nurses  N ER S AH2 Z
-nurses'  N ER S AH2 Z
+nurses  N ER S IH Z
+nurses'  N ER S IH Z
 nursing  N ER S IH NG
 nurture  N ER CH ER
 nurtured  N ER CH ER D
@@ -78842,11 +78873,11 @@ nuveen  N UW V IY N
 nuxoll  N AH K S AH2 L
 nuys  N AY Z
 nuzum  N UW Z EM
-nuZi  N UW T S IY
-nuZle  N AH Z AH L
-nuZles  N AH Z EL Z
-nuZling  N AH Z AH L IH NG
-nuZo  N UW Z OW
+nuzzi  N UW T S IY
+nuzzle  N AH Z AH L
+nuzzles  N AH Z EL Z
+nuzzling  N AH Z AH L IH NG
+nuzzo  N UW Z OW
 nvhome  EH N V IY HH OW M
 nvhomes  EH N V IY HH OW M Z
 nvryan  EH N V R AY AH2 N
@@ -79315,7 +79346,7 @@ oceana  OW SH IY & N AH2
 oceaneering  OW SH IH N IY R IH NG
 oceanfront  OW SH IH N F R AH2 N T
 oceangoing  OW SH IH N G OW IH NG
-oceania  OW SH IY & N Y AH2
+oceania  OW SH IY & N IY AH2
 oceanic  OW SH IY & N IH K
 oceanographer  OW SH IH N AA G R AH2 F ER
 oceanographic  OW SH IH N AH2 G R AE F IH K
@@ -79681,11 +79712,11 @@ oka  OW K AH2
 okabe  OW K AA B EY
 okada  OW K AA D AH2
 okaloosa  OW K EL UW S AH2
-okamoto  OW K AH M OW T OW
-okamura  OW K AH M UH R AH2
+okamoto  OW K AH2 M OW T OW
+okamura  OW K AH2 M UH R AH2
 okane  OW K EY N
 okano  OW K AA N OW
-okasaki  OW K AH S AA K IY
+okasaki  OW K AH2 S AA K IY
 okasan  OW K EY Z IH N
 okay  OW K EY
 okayed  OW K EY D
@@ -81136,7 +81167,7 @@ outspending  AW T S P EH N D IH NG
 outspends  AW T S P EH N D Z
 outspent  AW T S P EH N T
 outspoken  AW T S P OW K IH N
-outspokenness  AW T S P OW K AH N IH S
+outspokenness  AW T S P OW K AH2 N IH S
 outstanding  AW T S T & N D IH NG
 outstandingly  AW T S T & N D IH NG L IY
 outstretch  AW T S T R EH CH
@@ -81174,10 +81205,10 @@ ovary  OW V ER IY
 ovate  OW V EY T
 ovation  OW V EY SH IH N
 ovations  OW V EY SH IH N Z
-oven  AH2 V IH N
-ovens  AH2 V IH N Z
+oven  AH V IH N
+ovens  AH V IH N Z
 over  OW V ER
-overabundance  OW V ER AH B AH N D IH N S
+overabundance  OW V ER AH2 B AH N D IH N S
 overacker  OW V ER AH K ER
 overact  OW V ER AE K T
 overacted  OW V ER AE K T AH2 D
@@ -81688,8 +81719,8 @@ ozols  OW Z OW L Z
 ozone  OW Z OW N
 ozora  AH2 Z OR AH2
 ozuna  OW Z UW N AH2
-oZie  AA Z IY
-oZy  AA Z IY
+ozzie  AA Z IY
+ozzy  AA Z IY
 pa  P AA
 paap  P AA P
 paape  P AA P
@@ -81956,10 +81987,10 @@ palau's  P EL AW UW Z
 palauans  P EL AW IH N Z
 palay  P EY L EY
 palazina  P AE L AH2 Z IY N AH2
-palaZi  P AA L AA T S IY
-palaZo  P EL AA Z OW
-palaZola  P AA L AA T S OW L AH2
-palaZolo  P AA L AA T S OW L OW
+palazzi  P AA L AA T S IY
+palazzo  P EL AA Z OW
+palazzola  P AA L AA T S OW L AH2
+palazzolo  P AA L AA T S OW L OW
 palca  P AE L K AH2
 palca's  P AE L K AH2 Z
 palco  P AE L K OW
@@ -82033,7 +82064,7 @@ palmetto  P AA L M EH T OW
 palmgren  P AE L M G R EH N
 palmieri  P AO L M IY EH R IY
 palminteri  P AO L M IH N T EH R IY
-palmira  P AA L M IH R AH2
+palmira  P AA L M IY R AH2
 palmisano  P AA L M IY S AA N OW
 palmist  P AA M IH S T
 palmistry  P AA M IH S T R IY
@@ -82075,7 +82106,7 @@ paltz  P AO L T S
 paluch  P AE L AH2 K
 paluck  P AE L AH2 K
 palumbo  P EL AH M B OW
-paluZi  P AA L UW T S IY
+paluzzi  P AA L UW T S IY
 pam  P & M
 pam's  P & M Z
 pamacho  P AH M AA CH OW
@@ -82222,7 +82253,7 @@ panorama  P & N ER & M AH2
 panoramic  P & N ER & M IH K
 panos  P AA N OW S
 panoz  P & N AA Z
-panoZo  P AH N AA Z OW
+panozzo  P AH N AA Z OW
 panphila  P & N F IH L AH2
 pans  P & N Z
 pansies  P & N Z IY Z
@@ -82292,9 +82323,9 @@ papalia  P AA P AA L IY AH2
 papandrea  P AA P AA N D R IY AH2
 papandreou  P AH P & N D R IY UW
 papania  P AA P AA N IY AH2
-paparaZi  P AA P AH2 R AA T S IY
-paparaZi's  P AA P AH2 R AA T S IY Z
-paparaZis  P AA P AH2 R AA T S IY Z
+paparazzi  P AA P AH2 R AA T S IY
+paparazzi's  P AA P AH2 R AA T S IY Z
+paparazzis  P AA P AH2 R AA T S IY Z
 paparella  P AA P AA R EH L AH2
 papas  P AA P AH2 Z
 papaw  P AO P AO
@@ -82306,7 +82337,7 @@ pape  P EY P
 papenfuss  P AE P AH2 N F AH S
 paper  P EY P ER
 paper's  P EY P ER Z
-paperaZi  P AA P AH2 R AA T S IY
+paperazzi  P AA P AH2 R AA T S IY
 paperback  P EY P ER B AE K
 paperbacks  P EY P ER B AE K S
 paperboard  P EY P ER B OR D
@@ -82775,7 +82806,7 @@ pascua  P AA S K UW AH2
 pascual  P AE S K UW EL
 pascucci  P AA S K UW CH IY
 pascutto  P AH S K Y UW T OW
-pascuZi  P AA S K UW T S IY
+pascuzzi  P AA S K UW T S IY
 pasek  P AA S EH K
 paseo  P AA S EY OW
 pash  P AE SH
@@ -83838,7 +83869,7 @@ peras  P EY R AH2 S
 peratis  P ER AA T IH S
 peratis'  P ER AA T IH S
 peraza  P ER AA Z AH2
-peraZo  P ER AA Z OW
+perazzo  P ER AA Z OW
 perc  P ER K
 perce  P ER S
 perceive  P ER S IY V
@@ -83944,11 +83975,11 @@ perfumed  P ER F Y UW M D
 perfumes  P ER F Y UW M Z
 perfuming  P ER F Y UW M IH NG
 perfunctory  P ER F AH NG K T ER IY
-pergamon  P ER G AH M AH2 N
+pergamon  P ER G AH2 M AH2 N
 pergande  P ER G AH2 N D
-pergola  P ER G AH L AH2
+pergola  P ER G AH2 L AH2
 pergolas  P ER G OW L AH2 Z
-perham  P ER HH AH M
+perham  P ER HH AH2 M
 perhaps  P ER HH AE P S
 peria  P EY R IY AH2
 peria's  P EY R IY AH2 Z
@@ -84268,7 +84299,7 @@ perusing  P ER UW Z IH NG
 perusse  P ER UW S IY
 peruvian  P ER UW V IY AH2 N
 peruvians  P ER UW V IY AH2 N Z
-peruZi  P ER UW T S IY
+peruzzi  P ER UW T S IY
 perv  P ER V
 pervade  P ER V EY D
 pervaded  P ER V EY D AH2 D
@@ -84423,7 +84454,7 @@ petrin  P EH T R IH N
 petrina  P EH T R IY N AH2
 petrini  P EH T R IY N IY
 petrino  P EH T R IY N OW
-petriZo  P EH T R IY Z OW
+petrizzo  P EH T R IY Z OW
 petro  P EH T R OW
 petrobras  P EH T R AA B R AH S
 petrocelli  P EH T R OW CH EH L IY
@@ -84475,8 +84506,8 @@ petrucci  P EH T R UW CH IY
 petrucelli  P EH T R UW CH EH L IY
 petrus  P EH T R AH2 S
 petruska  P AH2 T R AH S K AH2
-petruZelli  P EH T R UW T S EH L IY
-petruZi  P EH T R UW T S IY
+petruzzelli  P EH T R UW T S EH L IY
+petruzzi  P EH T R UW T S IY
 petry  P EH T R IY
 pets  P EH T S
 petsch  P EH CH
@@ -84551,9 +84582,9 @@ pez  P EH Z
 pezeshkan  P AH Z EH SH K IH N
 pezim  P EH Z IY M
 pezim's  P EH Z IY M Z
-peZa  P EH Z AH2
-peZella  P EH T S EH L AH2
-peZullo  P EH T S UW L OW
+pezza  P EH Z AH2
+pezzella  P EH T S EH L AH2
+pezzullo  P EH T S UW L OW
 pfaff  F AE F
 pfahl  F AA L
 pfahler  F AA L ER
@@ -84838,7 +84869,7 @@ photo  F OW T OW
 photo's  F OW T OW Z
 photocall  F OW T OW K AA L
 photochemical  F OW T OW K EH M IH K EL
-photoconductive  F OW T OW K AH N D AH2 K T IH V
+photoconductive  F OW T OW K AH2 N D AH2 K T IH V
 photocopied  F OW T OW K AA P IY D
 photocopier  F OW T OW K AA P IY ER
 photocopiers  F OW T OW K AA P IY ER Z
@@ -84937,8 +84968,8 @@ piasio  P IY AE S IY OW
 piatek  P IY AA T EH K
 piatkowski  P IY AH2 T K AO F S K IY
 piatt  P AY AH2 T
-piaZa  P IY AE Z AH2
-piaZolla  P IY AH2 Z AA L AH2
+piazza  P IY AE Z AH2
+piazzolla  P IY AH2 Z AA L AH2
 pic  P IH K
 pica  P UY K AH2
 picabo  P AH K AA B OW
@@ -85460,8 +85491,8 @@ piquant  P IY K IH N T
 pique  P IY K
 piqued  P IY K T
 piquette  P IH K EH T
-piracy  P AY ER AH S IY
-piraeus  P AH R EY AH2 S
+piracy  P AY R AH2 S IY
+piraeus  P AH2 R EY AH2 S
 piraino  P IH R EY N OW
 pirandello  P IY R AH2 N D EH L OW
 piranha  P IH R & N HH AH2
@@ -85484,7 +85515,7 @@ pirog  P ER AA G
 pirone  P IH R OW N
 pirouette  P IH R UW EH
 pirouettes  P IH R UW EH T S
-piroZi  P IH R AA Z IY
+pirozzi  P IH R AA Z IY
 pirrello  P IH R EH L OW
 pirro  P IH R OW
 pirrone  P IH R OW N IY
@@ -85509,6 +85540,7 @@ piss  P IH S
 pissed  P IH S T
 pisses  P IH S IH Z
 pissing  P IH S IH NG
+pissy  P IH S IY
 pistachio  P AH S T AE SH IY OW
 pistachios  P AH S T AE SH IY OW Z
 pistil  P IH S T EL
@@ -85609,24 +85641,24 @@ pizana  P IY Z & N AH2
 pizano  P IY Z AA N OW
 pizarro  P IH Z AA R OW
 pizatti  P IH Z AA T IY
-pizaZ  P IH Z AE Z
+pizazz  P IH Z AE Z
 pizer  P AY Z ER
-piZa  P IY T S AH2
-piZa's  P IY T S AH2 Z
-piZano  P IY T S AA N OW
-piZas  P IY T S AH2 Z
-piZazier  P IH Z AE Z Y ER
-piZaZ  P IH Z AE Z
-piZeria  P IY T S ER IY AH2
-piZerias  P IY T S ER IY AH2 Z
-piZi  P IH Z IY
-piZimenti  P IY T S IY M EH N T IY
-piZino  P IY T S IY N OW
-piZitola  P IY T S IY T OW L AH2
-piZo  P IH Z OW
-piZolato  P IY T S OW L AA T OW
-piZuti  P IY T S UW T IY
-piZuto  P IY T S UW T OW
+pizza  P IY T S AH2
+pizza's  P IY T S AH2 Z
+pizzano  P IY T S AA N OW
+pizzas  P IY T S AH2 Z
+pizzazier  P IH Z AE Z Y ER
+pizzazz  P IH Z AE Z
+pizzeria  P IY T S ER IY AH2
+pizzerias  P IY T S ER IY AH2 Z
+pizzi  P IH Z IY
+pizzimenti  P IY T S IY M EH N T IY
+pizzino  P IY T S IY N OW
+pizzitola  P IY T S IY T OW L AH2
+pizzo  P IH Z OW
+pizzolato  P IY T S OW L AA T OW
+pizzuti  P IY T S UW T IY
+pizzuto  P IY T S UW T OW
 pj's  P IY JH EY Z
 pla  P L AA
 placard  P L AE K ER D
@@ -85643,12 +85675,12 @@ placemat  P L EY S M AE T
 placement  P L EY S M AH2 N T
 placements  P L EY S M AH2 N T S
 placencia  P L AA CH EH N CH AH2
-placenta  P L AH S EH N T AH2
-placentia  P L AH S EH N SH AH2
+placenta  P L AH2 S EH N T AH2
+placentia  P L AH2 S EH N SH AH2
 placer  P L AE S ER
 places  P L EY S IH Z
-placeta  P L AH S EY T AH2
-placetas  P L AH S EY T AH Z
+placeta  P L AH2 S EY T AH2
+placetas  P L AH2 S EY T AH2 Z
 placeway  P L EY S W EY
 placid  P L AE S IH D
 placid's  P L AE S IH D Z
@@ -86065,10 +86097,10 @@ plumes  P L UW M Z
 plumlee  P L AH M L IY
 plumley  P L AH M L IY
 plummer  P L AH M ER
-plummet  P L AH M AH T
-plummeted  P L AH M AH T AH2 D
-plummeting  P L AH M AH T IH NG
-plummets  P L AH M AH T S
+plummet  P L AH M AH2 T
+plummeted  P L AH M AH2 T AH2 D
+plummeting  P L AH M AH2 T IH NG
+plummets  P L AH M AH2 T S
 plump  P L AH M P
 plumped  P L AH M P T
 plums  P L AH M Z
@@ -86410,7 +86442,7 @@ politte  P EL IH T
 polity  P AA L AH2 T IY
 politz  P AA L IH T S
 polivka  P OW L IY V K AH2
-poliZi  P OW L IY T S IY
+polizzi  P OW L IY T S IY
 polje  P OW L JH IY
 polk  P OW K
 polk's  P OW K S
@@ -86810,7 +86842,7 @@ porpoise  P OR P AH S
 porpoises  P OR P AH S IH Z
 porr  P OR
 porras  P OR AA Z
-porraZo  P OR AA Z OW
+porrazzo  P OR AA Z OW
 porreca  P OR EH K AH2
 porretta  P OR EH T AH2
 porridge  P OR AH2 JH
@@ -87177,6 +87209,11 @@ powerhouses  P AW ER HH AW S IH Z
 powering  P AW ER IH NG
 powerless  P AW ER L AH2 S
 powerlessness  P AW ER L AH2 S N AH2 S
+powerlift  P AW ER L IH F T
+powerlifted  P AW ER L IH F T AH2 D
+powerlifter  P AW ER L IH F T ER
+powerlifters  P AW ER L IH F T ER Z
+powerlifting  P AW ER L IH F T IH NG
 powerpc  P AW ER P IY S IY
 powerpcs  P AW ER P IY S IY Z
 powerpcs'  P AW ER P IY S IY Z
@@ -87210,7 +87247,7 @@ pozniak  P AA Z N IY AE K
 poznikov  P AA Z N IH K AA V
 pozo  P OW Z OW
 pozos  P OW Z OW S
-poZi  P AO Z IY
+pozzi  P AO Z IY
 prab  P R AE B
 pracht  P R AE K T
 practicable  P R AE K T AH2 K AH2 B EL
@@ -87314,10 +87351,10 @@ preadolescence  P R IY AE D EL EH S IH S
 preadolescent  P R IY AE D EL EH S AH2 N T
 preakness  P R IY K N IH S
 preamble  P R IY & M B EL
-prearrange  P R IY R EY N JH
-prearranged  P R IY R EY N JH D
-prearranges  P R IY R EY N JH AH Z
-prearranging  P R IY R EY N JH IH NG
+prearrange  P R IY AH2 R EY N JH
+prearranged  P R IY AH2 R EY N JH D
+prearranges  P R IY AH2 R EY N JH AH Z
+prearranging  P R IY AH2 R EY N JH IH NG
 preas  P R IY Z
 prebble  P R EH B EL
 prebe  P R IY B
@@ -87458,7 +87495,7 @@ preexists  P R IY IH G Z IH S T S
 prefab  P R IY F AE B
 prefabricate  P R IY F AE B R IH K EY T
 prefabricated  P R IY F AE B R IH K EY T AH2 D
-prefabrication  P R IY F AE B R AH K EY SH IH N
+prefabrication  P R IY F AE B R AH2 K EY SH IH N
 prefabs  P R IY F AE B Z
 preface  P R EH F IH S
 prefaced  P R EH F IH S T
@@ -87715,7 +87752,7 @@ prestidigitation  P R EH S T IH D IH JH AH2 T EY SH IH N
 prestidigitator  P R EH S T IH D IH JH AH2 T EY T ER
 prestidigitators  P R EH S T IH D IH JH AH2 T EY T ER Z
 prestige  P R EH S T IY ZH
-prestigiacomo  P R EH S T IY JH AH K OW M OW
+prestigiacomo  P R EH S T IY JH AH2 K OW M OW
 prestigious  P R EH S T IH JH IH S
 presto  P R EH S T OW
 preston  P R EH S T IH N
@@ -87820,7 +87857,7 @@ preyistas  P R EY IH S T AH2 Z
 preys  P R EY Z
 preziosi  P R EH Z IY OW S IY
 prezioso  P R EH Z IY OW S OW
-preZano  P R EH Z AA N OW
+prezzano  P R EH Z AA N OW
 pri  P R IY
 priam  P R AY & M
 priam's  P R AY & M Z
@@ -88223,8 +88260,8 @@ proffered  P R AA F ER D
 proffering  P R AA F ER IH NG
 proffit  P R AA F IH T
 proffitt  P R AA F IH T
-proficiency  P R AH F IH SH IH N S IY
-proficient  P R AA F IH SH IH N T
+proficiency  P R AH2 F IH SH IH N S IY
+proficient  P R AH2 F IH SH IH N T
 profile  P R OW F AY EL
 profiled  P R OW F AY EL D
 profiles  P R OW F AY EL Z
@@ -88312,7 +88349,7 @@ projectors  P R AH2 JH EH K T ER Z
 projects  P R AA JH EH K T S
 projects'  P R AA JH EH K T S
 prokofiev  P R AA K OW F IY V
-prokop  P R OW K AH P
+prokop  P R OW K AH2 P
 prolactin  P R OW L AE K T IH N
 proler  P R OW L ER
 proletarian  P R OW L AH T EH R IY AH2 N
@@ -89124,8 +89161,8 @@ purely  P Y ER L IY
 purer  P Y ER ER
 purest  P Y ER IH S T
 purex  P Y ER EH K S
-purgason  P ER G AH S AH2 N
-purgatory  P ER G AH T OR IY
+purgason  P ER G AH2 S AH2 N
+purgatory  P ER G AH2 T OR IY
 purge  P ER JH
 purged  P ER JH D
 purges  P ER JH IH Z
@@ -89287,14 +89324,14 @@ puusepp  P UW Z AH2 P
 puza  P UW Z AH2
 puzio  P UW Z IY OW
 puzo  P UW Z OW
-puZle  P AH Z AH2 L
-puZled  P AH Z EL D
-puZlemaster  P AH Z AH2 L M AE S T ER
-puZlement  P AH Z AH2 L M AH2 N T
-puZler  P AH Z L ER
-puZles  P AH Z EL Z
-puZling  P AH Z EL IH NG
-puZo  P UW Z OW
+puzzle  P AH Z AH2 L
+puzzled  P AH Z EL D
+puzzlemaster  P AH Z AH2 L M AE S T ER
+puzzlement  P AH Z AH2 L M AH2 N T
+puzzler  P AH Z L ER
+puzzles  P AH Z EL Z
+puzzling  P AH Z EL IH NG
+puzzo  P UW Z OW
 pyatt  P AY AH2 T
 pyburn  P IH B ER N
 pye  P AY
@@ -89434,13 +89471,13 @@ quanex  K W AA N EH K S
 quang  K W AO NG
 quant  K W & N T
 quantico  K W AA N T IH K OW
-quantifiable  K W AA N T IH F AY AH2 B EH L
+quantifiable  K W AA N T IH F AY AH2 B EL
 quantification  K W AA N T IH F AH2 K EY SH IH N
 quantified  K W AA N T IH F AY D
 quantify  K W AA N T IH F AY
 quantifying  K W AA N T IH F AY IH NG
 quantitative  K W AA N T IH T EY T IH V
-quantitatively  K W AA N T IH T EY T AH V L IY
+quantitatively  K W AA N T IH T EY T IH V L IY
 quantities  K W AA N T AH2 T IY Z
 quantity  K W AA N T AH2 T IY
 quantum  K W AA N T AH2 M
@@ -89744,10 +89781,10 @@ quixote  K IY HH OW T IY
 quixotic  K W IH K S AA T IH K
 quiz  K W IH Z
 quizard  K W IH Z ER D
-quiZed  K W IH Z D
-quiZes  K W IH Z IH Z
-quiZical  K W IH Z AH2 K EL
-quiZing  K W IH Z IH NG
+quizzed  K W IH Z D
+quizzes  K W IH Z IH Z
+quizzical  K W IH Z AH2 K EL
+quizzing  K W IH Z IH NG
 quo  K W OW
 quon  K W AA N
 quora  K W OR AH2
@@ -89817,7 +89854,7 @@ rabon  R AA B AO N
 raborn  R AE B ER N
 rabourn  R AH B UH R N
 raboy  R AE B OY
-rabuck  R AE B AH K
+rabuck  R AE B AH2 K
 rabuka  R AH B UW K AH2
 rabun  R AE B IH N
 raburn  R AE B ER N
@@ -90277,7 +90314,8 @@ rambow  R & M B OW
 rambunctious  R & M B AH NG K SH IH S
 rambutan  R AA M B UW T AA N
 ramel  R & M AH2 L
-ramella  R AH M EH L AH2
+ramella  R AH2 M EH L AH2
+ramen  R AA M AH2 N
 ramer  R EY M ER
 rameriz  R AA M EH R IY Z
 rameses  R & M AH2 S IY Z
@@ -90375,7 +90413,7 @@ randa  R AA N D AH2
 randa's  R AA N D AH2 Z
 randal  R & N D EL
 randall  R & N D EL
-randaZo  R AA N D AA Z OW
+randazzo  R AA N D AA Z OW
 randel  R & N D EL
 randell  R & N D EH L
 rander  R & N D ER
@@ -90822,7 +90860,7 @@ raynor  R EY N ER
 rayon  R EY IH N
 rayonier  R EY OW N IH R
 rayos  R EY OW Z
-rayovac  R EY AH V AE K
+rayovac  R EY AH2 V AE K
 rayrock  R EY R AA K
 rays  R EY Z
 rayson  R EY Z IH N
@@ -90843,9 +90881,9 @@ razorback  R EY Z ER B AE K
 razorback's  R EY Z ER B AE K S
 razorbacks  R EY Z ER B AE K S
 razors  R EY Z ER Z
-raZano  R AA T S AA N OW
-raZle  R AE Z AH2 L
-raZmataZ  R AE Z M AH2 T AE Z
+razzano  R AA T S AA N OW
+razzle  R AE Z AH2 L
+razzmatazz  R AE Z M AH2 T AE Z
 re  R IY
 re's  R EY Z
 rea  R EY
@@ -90969,11 +91007,11 @@ realms  R EH L M Z
 realmuto  R EL M UW T OW
 realpolitik  R IY L P AO L IH T IH K
 realtime  R IY L T AY M
-realtor  R IY L T ER
-realtor's  R IY L T ER Z
-realtors  R IY L T ER Z
-realty  R IY L T IY
-realty's  R IY L T IY Z
+realtor  R IY AH2 L T ER
+realtor's  R IY AH2 L T ER Z
+realtors  R IY AH2 L T ER Z
+realty  R IY AH2 L T IY
+realty's  R IY AH2 L T IY Z
 ream  R IY M
 reamer  R IY M ER
 reamer's  R IY M ER Z
@@ -91012,12 +91050,12 @@ rearing  R IY R IH NG
 rearm  R IY AA R M
 rearmament  R IY AA R M AH2 M AH2 N T
 rearming  R IY AA R M IH NG
-rearrange  R IY R EY N JH
-rearranged  R IY R EY N JH D
-rearrangement  R IY R EY N JH M AH2 N T
-rearranging  R IY R EY N JH IH NG
-rearrest  R IY R EH S T
-rearrested  R IY R EH S T AH2 D
+rearrange  R IY AH2 R EY N JH
+rearranged  R IY AH2 R EY N JH D
+rearrangement  R IY AH2 R EY N JH M AH2 N T
+rearranging  R IY AH2 R EY N JH IH NG
+rearrest  R IY AH2 R EH S T
+rearrested  R IY AH2 R EH S T AH2 D
 rears  R IY R Z
 rearview  R IY R V Y UW
 reas  R IY Z
@@ -91026,7 +91064,7 @@ reaser  R IY S ER
 reasner  R IY S N ER
 reason  R IY Z IH N
 reasonable  R IY Z AH2 N AH2 B EL
-reasonableness  R IY Z AH2 N AH B EL N IH S
+reasonableness  R IY Z AH2 N AH2 B EL N IH S
 reasonably  R IY Z AH2 N AH2 B L IY
 reasoned  R IY Z AH2 N D
 reasoner  R IY Z AH2 N ER
@@ -91454,6 +91492,9 @@ recurring  R AH2 K ER IH NG
 recursion  R IY K ER ZH IH N
 recursive  R IY K ER S IH V
 recursively  R IY K ER S IH V L IY
+recurve  R IY K ER V
+recurved  R IY K ER V D
+recurves  R IY K ER V Z
 recusal  R AH2 K Y UW Z AH2 L
 recuse  R AH2 K Y UW Z
 recused  R AH2 K Y UW Z D
@@ -91723,8 +91764,12 @@ reexamining  R IY IH G Z & M AH2 N IH NG
 reexport  R IY EH K S P OR T
 reexports  R IY EH K S P OR T S
 ref  R EH F
-refaat  R AH F AA T
-refah  R AH F AA
+refaat  R AH2 F AA T
+refactor  R IY F AE K T ER
+refactored  R IY F AE K T ER D
+refactoring  R IY F AE K T ER IH NG
+refactors   R IY F AE K T ER Z
+refah  R AH2 F AA
 refco  R EH F K OW
 refcorp  R EH F K OR P
 refenes  R EH F IH N EH S
@@ -94526,13 +94571,13 @@ rizer  R AY Z ER
 rizk  R IH Z K
 rizo  R IY Z OW
 rizor  R AY Z ER
-riZa  R IH Z AH2
-riZi  R IH Z IY
-riZo  R IH Z OW
-riZoli  R IH Z OW L IY
-riZolo  R IY T S OW L OW
-riZuti  R IY T S UW T IY
-riZuto  R IY T S UW T OW
+rizza  R IH Z AH2
+rizzi  R IH Z IY
+rizzo  R IH Z OW
+rizzoli  R IH Z OW L IY
+rizzolo  R IY T S OW L OW
+rizzuti  R IY T S UW T IY
+rizzuto  R IY T S UW T OW
 ro  R OW
 roa  R OW AH2
 roach  R OW CH
@@ -94546,6 +94591,8 @@ roadcap  R OW D K AE P
 roades  R OW D Z
 roadhouse  R OW D HH AW S
 roadie  R OW D IY
+roadmap  R OW D M AE P
+roadmaps  R OW D M AE P S
 roadmaster  R OW D M AE S T ER
 roadrailer  R OW D R EY L ER
 roadrunner  R OW D R AH N ER
@@ -94696,7 +94743,7 @@ roca  R OW K AH2
 rocap  R OW K AE P
 rocard  R OW K ER D
 rocca  R AA K AH2
-roccaforte  R OW K AH F OR T IY
+roccaforte  R OW K AH2 F OR T IY
 roccas  R AA K AH2 S
 rocchi  R OW K IY
 rocchio  R OW K IY OW
@@ -95078,6 +95125,7 @@ romaine  R OW M EY N
 roman  R OW M AH2 N
 roman's  R OW M AH2 N Z
 romance  R OW M & N S
+romanced  R OW M & N S T
 romances  R OW M & N S IH Z
 romancing  R OW M & N S IH NG
 romanek  R AA M AH2 N IH K
@@ -95767,8 +95815,8 @@ rozman  R AA Z M AH2 N
 roznowski  R AH2 Z N AO F S K IY
 rozsa  R OW Z S AH2
 rozycki  R AH2 Z IH T S K IY
-roZell  R AA Z AH2 L
-roZi  R AA Z IY
+rozzell  R AA Z AH2 L
+rozzi  R AA Z IY
 ru  R UW
 rua  R UW AH2
 ruam  R UW AH2 M
@@ -96304,7 +96352,7 @@ ruyle  R AY EL
 ruzek  R UW Z EH K
 ruzich  R AH Z IH HH
 ruzicka  R UW Z IH K AH2
-ruZo  R UW Z OW
+ruzzo  R UW Z OW
 rwanda  R AH2 W AA N D AH2
 rwanda's  R AH2 W AA N D AH2 Z
 rwandan  R AH2 W AA N D IH N
@@ -96817,7 +96865,7 @@ saliva  S AH2 L AY V AH2
 salivate  S AE L AH2 V EY T
 salivated  S AE L AH2 V EY T AH2 D
 salivating  S AE L AH2 V EY T IH NG
-saliZoni  S AE L IH Z OW N IY
+salizzoni  S AE L IH Z OW N IY
 salk  S AO K
 salk's  S AO K S
 salkeld  S AE L K IH L D
@@ -96996,7 +97044,7 @@ samford  S & M F ER D
 sami  S & M IY
 sami's  S & M IY Z
 samina  S AH M IH N AH2
-samir  S AH M IH R
+samir  S AH M IY R
 sammarco  S AA M AA R K OW
 sammartino  S AA M AA R T IY N OW
 sammet  S & M IH T
@@ -97274,6 +97322,7 @@ santor  S & N T ER
 santora  S AA N T OR AH2
 santore  S AA N T OR IY
 santorelli  S AA N T OR EH L IY
+santorini  S & N T OR IY N IY
 santoro  S & N T OR OW
 santorum  S & N T OR AH2 M
 santorum's  S & N T OR AH2 M Z
@@ -97930,7 +97979,7 @@ scavengers  S K AE V AH2 N JH ER Z
 scavenging  S K AE V AH2 N JH IH NG
 scavo  S K AA V OW
 scavone  S K AH2 V OW N
-scavuZo  S K AA V UW Z OW
+scavuzzo  S K AA V UW Z OW
 scearce  S ER S
 scenario  S AH2 N AA R IY OW
 scenarios  S AH2 N AA R IY OW Z
@@ -98361,7 +98410,7 @@ schmeltzer  SH M EH L T Z ER
 schmelz  SH M EH L Z
 schmelzer  SH M EH L Z ER
 schmelzle  SH M EH L Z AH L
-schmergel  SH M ER G AH L
+schmergel  SH M ER G AH2 L
 schmertz  SH M ER T S
 schmetterer  SH M EH T ER ER
 schmick  SH M IH K
@@ -98863,6 +98912,8 @@ sciaroni  S IY R OW N IY
 sciarra  S IY AA R AA
 sciarrino  SH ER IY N OW
 sciascia  SH AO S CH AA
+sciatic  S AY AE T IH K
+sciatica  S AY AE T IH K AH2
 scibelli  S IH B EH L IY
 scibilia  S IH B IY L IY AH2
 scicchitano  S IH K IH T AA N OW
@@ -98915,7 +98966,7 @@ scobee  S K AA B IY
 scobey  S K OW B IY
 scobie  S K AA B IY
 scoby  S K OW B IY
-scocoZa  S K AA K AA Z AH2
+scocozza  S K AA K AA Z AH2
 scoff  S K AO F
 scoffed  S K AO F T
 scoffield  S K AO F IY L D
@@ -99043,7 +99094,7 @@ scowden  S K AW D IH N
 scowl  S K AW AH2 L
 scowled  S K AW EL D
 scowling  S K AW AH2 L IH NG
-scoZafava  S K OW T S AA F AA V AH2
+scozzafava  S K OW T S AA F AA V AH2
 scrabble  S K R AE B EL
 scragg  S K R AE G
 scraggle  S K R AE G AH2 L
@@ -99232,6 +99283,7 @@ scurried  S K ER IY D
 scurrilous  S K ER EL AH2 S
 scurry  S K ER IY
 scurrying  S K ER IY IH NG
+scurvy  S K ER V IY
 scutt  S K AH T
 scuttle  S K AH T EL
 scuttlebutt  S K AH T EL B AH T
@@ -99589,6 +99641,7 @@ seedeater  S IY D IY T ER
 seedeaters  S IY D IY T ER Z
 seeded  S IY D AH2 D
 seeding  S IY D IH NG
+seedless  S IY D L AH2 S
 seedling  S IY D L IH NG
 seedlings  S IY D L IH NG Z
 seedorf  S IY D OR F
@@ -99811,6 +99864,8 @@ selections  S AH2 L EH K SH IH N Z
 selective  S AH2 L EH K T IH V
 selectively  S AH2 L EH K T IH V L IY
 selectivity  S AH2 L EH K T IH V AH2 T IY
+selector  S AH2 L EH K T ER
+selectors  S AH2 L EH K T ER Z
 selectnet  S AH2 L EH K T N EH T
 selects  S AH2 L EH K T S
 selena  S AH2 L IY N AH2
@@ -99963,7 +100018,7 @@ semiotic  S EH M IY AA T IH K
 semiotics  S EH M IY AA T IH K S
 semipermanent  S EH M IY P ER M AH2 N IH N T
 semiprecious  S EH M IY P R EH SH IH S
-semira  S EH M IH R AH2
+semira  S EH M IY R AH2
 semireligious  S EH M IY R AH2 L IH JH IH S
 semis  S EH M AY Z
 semisecrecy  S EH M IY S IY K R AH2 S IY
@@ -100487,10 +100542,10 @@ seymour  S IY M OR
 seymour's  S IY M OR Z
 sfernice  S F ER N IH S
 sferra  S F EY R AH2
-sferraZa  S F ER AA T S AH2
+sferrazza  S F ER AA T S AH2
 sffed  S F EH D
 sforza  S F OR Z AH2
-sfuZi  S F UW T Z IY
+sfuzzi  S F UW T Z IY
 sgambati  S K AA M B AA T IY
 sgro  S K R OW
 sgroi  S K R OY
@@ -100502,8 +100557,8 @@ shaanxi  SH AA NG K S IY
 shaath  SH AA TH
 shaath's  SH AA TH S
 shabad  SH AH2 B AE D
-shabaZ  SH AA B AA Z
-shabaZ's  SH AA B AA Z IH Z
+shabazz  SH AA B AA Z
+shabazz's  SH AA B AA Z IH Z
 shabby  SH AE B IY
 shaber  SH EY B ER
 shack  SH AE K
@@ -100656,8 +100711,8 @@ shamelessly  SH EY M L AH2 S L IY
 shamelle  SH AH M EH L
 shames  SH EY M Z
 shaming  SH EY M IH NG
-shamir  SH AH M IH R
-shamir's  SH AH M IH R Z
+shamir  SH AH M IY R
+shamir's  SH AH M IY R Z
 shammond  SH & M AH2 N D
 shamp  SH & M P
 shampine  SH & M P AY N
@@ -100713,7 +100768,7 @@ shantytown  SH & N T IY T AW N
 shantytowns  SH & N T IY T AW N Z
 shantz  SH & N T S
 shao  SH AW
-shaolin  SH AA OW L IH N
+shaolin  SH AW L IH N
 shap  SH AE P
 shape  SH EY P
 shaped  SH EY P T
@@ -100723,9 +100778,9 @@ shapero  SH AH P IH R OW
 shapes  SH EY P S
 shaping  SH EY P IH NG
 shapira  SH AH2 P IY R AH2
-shapiro  SH AH2 P IH R OW
-shapiro's  SH AH2 P IH R OW Z
-shapiros  SH AH2 P IH R OW Z
+shapiro  SH AH2 P IY R OW
+shapiro's  SH AH2 P IY R OW Z
+shapiros  SH AH2 P IY R OW Z
 shapley  SH AE P L IY
 shapp  SH AE P
 shappell  SH AE P EL
@@ -101631,7 +101686,7 @@ showalter  SH OW AH2 L T ER
 showbiz  SH OW B IH Z
 showboat  SH OW B OW T
 showboat's  SH OW B OW T S
-showbuZ  SH OW B AH Z
+showbuzz  SH OW B AH Z
 showcase  SH OW K EY S
 showcased  SH OW K EY S T
 showcases  SH OW K EY S IH Z
@@ -102668,12 +102723,12 @@ sizemore  S AY Z M OR
 sizer  S AY Z ER
 sizes  S AY Z IH Z
 sizing  S AY Z IH NG
-siZle  S IH Z AH2 L
-siZled  S IH Z EL D
-siZler  S IH Z L ER
-siZlers  S IH Z L ER Z
-siZlin  S IH Z L IH N
-siZling  S IH Z EL IH NG
+sizzle  S IH Z AH2 L
+sizzled  S IH Z EL D
+sizzler  S IH Z L ER
+sizzlers  S IH Z L ER Z
+sizzlin  S IH Z L IH N
+sizzling  S IH Z EL IH NG
 sjoberg  SH OW B ER G
 sjoblom  SH OW B L AA M
 sjodin  SH OW D IH N
@@ -102821,6 +102876,7 @@ skipjacks  S K IH P JH AE K S
 skipp  S K IH P
 skippa  S K IH P AH2
 skippa's  S K IH P AH2 Z
+skippable  S K IH P AH2 B EL
 skipped  S K IH P T
 skipper  S K IH P ER
 skipper's  S K IH P ER Z
@@ -103206,16 +103262,16 @@ slobogin's  S L AH B OW G IH N Z
 slobs  S L AA B Z
 slocan  S L OW K IH N
 slocan's  S L OW K IH N Z
-slocomb  S L OW K AH M
-slocum  S L OW K AH M
-slocumb  S L OW K AH M
+slocomb  S L OW K AH2 M
+slocum  S L OW K AH2 M
+slocumb  S L OW K AH2 M
 sloe  S L OW
 slog  S L AA G
 slogan  S L OW G IH N
 slogans  S L OW G IH N Z
 slogged  S L AA G D
 slogging  S L AA G IH NG
-slokum  S L OW K AH M
+slokum  S L OW K AH2 M
 sloma  S L OW M AH2
 sloman  S L OW M AH2 N
 slominski  S L AH M IH N S K IY
@@ -103226,6 +103282,7 @@ sloniker  S L AA N IH K ER
 sloop  S L UW P
 slop  S L AA P
 slope  S L OW P
+sloped  S L OW P T
 sloper  S L OW P ER
 slopes  S L OW P S
 sloping  S L OW P IH NG
@@ -103534,7 +103591,7 @@ smoots  S M UW T S
 smorgasbord  S M OR G AH S B OR D
 smosh  S M UH SH
 smoshed  S M UH SH T
-smoshes  S M UH SH AH Z
+smoshes  S M UH SH AH2 Z
 smoshing  S M UH SH IH NG
 smother  S M AH DH ER
 smothered  S M AH DH ER D
@@ -103638,8 +103695,8 @@ snatches  S N AE CH IH Z
 snatching  S N AE CH IH NG
 snavely  S N EY V L IY
 snay  S N EY
-snaZier  S N AE Z IY ER
-snaZy  S N AE Z IY
+snazzier  S N AE Z IY ER
+snazzy  S N AE Z IY
 snead  S N IY D
 sneak  S N IY K
 sneaked  S N IY K T
@@ -103915,7 +103972,7 @@ sociologists  S OW S IY AA L AH2 JH IH S T S
 sociology  S OW S IY AA L AH2 JH IY
 sociopath  S OW S IY OW P AE TH
 sociopathic  S OW S IY OW P AE TH IH K
-sociopaths  S OW S IY OW P AE TH Z
+sociopaths  S OW S IY OW P AE TH S
 sock  S AA K
 socked  S AA K T
 socket  S AA K IH T
@@ -104052,7 +104109,7 @@ solares  S OW L AA R EH S
 solari  S OW L AA R IY
 solaris  S OW L EY R IH S
 solarz  S OW L AA R Z
-solaZo  S OW L AA Z OW
+solazzo  S OW L AA Z OW
 solberg  S OW L B ER G
 solchaga  S OW L CH AA G AH2
 sold  S OW L D
@@ -104498,6 +104555,7 @@ sourby  S AW ER B IY
 source  S OR S
 source's  S OR S IH Z
 sourcebook  S OR S B UH K
+sourced  S OR S T
 sources  S OR S IH Z
 sources'  S OR S IH Z
 sourcing  S OR S IH NG
@@ -104999,7 +105057,7 @@ sperm  S P ER M
 sperms  S P ER M Z
 spero  S P EY R OW
 speros  S P EY R OW Z
-sperraZa  S P ER AA T S AH2
+sperrazza  S P ER AA T S AH2
 sperrfrist  S P EY R F R IH S T
 sperry  S P EH R IY
 spessard  S P EH S ER D
@@ -105014,7 +105072,7 @@ spews  S P Y UW Z
 spey  S P EY
 speyer  S P EY ER
 speziale  S P EH Z IY AA L IY
-speZano  S P EH T S AA N OW
+spezzano  S P EH T S AA N OW
 sphar  S F AA R
 sphere  S F IY R
 spheres  S F IY R Z
@@ -105034,7 +105092,7 @@ spicher  S P IH CH ER
 spicing  S P UY S IH NG
 spickard  S P IH K ER D
 spickler  S P IH K L ER
-spicuZa  S P IY K UW T S AH2
+spicuzza  S P IY K UW T S AH2
 spicy  S P UY S IY
 spidel  S P IH D EL
 spidell  S P IH D EL
@@ -105107,7 +105165,7 @@ spinella  S P IH N EH L AH2
 spinelli  S P IH N EH L IY
 spinello  S P IH N EH L OW
 spines  S P AY N Z
-spinfiZ  S P IH N F IH Z
+spinfizz  S P IH N F IH Z
 spinifex  S P IH N IH F EH K S
 spink  S P IH NG K
 spinks  S P IH NG K S
@@ -105172,7 +105230,7 @@ spivack  S P IH V AH2 K
 spivak  S P IH V AH2 K
 spivey  S P IH V IY
 spiwak  S P IH V AH2 K
-spiZirri  S P IY T S IH R IY
+spizzirri  S P IY T S IH R IY
 splain  S P L EY N
 splaine  S P L EY N
 splash  S P L AE SH
@@ -105233,7 +105291,7 @@ spoils  S P OY EL Z
 spokane  S P OW K EY N
 spoke  S P OW K
 spoken  S P OW K IH N
-spokenly  S P OW K AH N L IY
+spokenly  S P OW K AH2 N L IY
 spokes  S P OW K S
 spokesman  S P OW K S M AH2 N
 spokesmen  S P OW K S M AH2 N
@@ -105428,7 +105486,7 @@ sprinters  S P R IH N T ER Z
 sprinting  S P R IH N T IH NG
 sprints  S P R IH N T S
 sprite  S P R UY T
-spriZo  S P R IH Z OW
+sprizzo  S P R IH Z OW
 sproat  S P R OW T
 sprock  S P R AA K
 sprocket  S P R AA K IH T
@@ -106758,7 +106816,7 @@ stiefel  S T IY F EL
 stiefelhagen  S T IY F EL HH EY G IH N
 stiefvater  S T IY F V AH T ER
 stieg  S T IY G
-stiegemeier  S T IY JH AH M AY ER
+stiegemeier  S T IY JH AH2 M AY ER
 stiegler  S T IY G L ER
 stieglitz  S T IY G L IH T S
 stiehl  S T IY L
@@ -106986,7 +107044,7 @@ stockwell  S T AA K W EH L
 stocky  S T AA K IY
 stockyard  S T AA K Y AA R D
 stockyards  S T AA K Y AA R D Z
-stocum  S T OW K AH M
+stocum  S T OW K AH2 M
 stoddard  S T AA D ER D
 stoddard's  S T AA D ER D Z
 stodghill  S T AA JH HH IH L
@@ -107824,12 +107882,12 @@ sturdier  S T ER D IY ER
 sturdiness  S T ER D IY N IH S
 sturdivant  S T ER D IH V IH N T
 sturdy  S T ER D IY
-sturgell  S T ER G AH L
+sturgell  S T ER G AH2 L
 sturgeon  S T ER JH IH N
 sturgeons  S T ER JH IH N Z
 sturges  S T ER JH IH Z
 sturgess  S T ER G IH S
-sturgill  S T ER G AH L
+sturgill  S T ER G AH2 L
 sturgis  S T ER JH IH S
 sturkie  S T ER K IY
 sturm  S T ER M
@@ -108978,7 +109036,7 @@ sverige  S V EH R IH JH
 svetlana  S V EH T L AA N AH2
 svetlik  S V EH T L IH K
 svitak  S V IH T AH2 K
-sviZera  S V IH Z EH R AH2
+svizzera  S V IH Z EH R AH2
 svoboda  S V OW B OW D AH2
 svoray  S V OR EY
 swab  S W AA B
@@ -110031,6 +110089,7 @@ tangredi  T AA NGG R EH D IY
 tangs  T EY NG Z
 tanguay  T & N G EY
 tanguma  T AA NGG UW M AH2
+tangy  T EY NG IY
 tani  T AA N IY
 tania  T AA N Y AH2
 taniguchi  T AA N IH G UW CH IY
@@ -110627,7 +110686,7 @@ teixeira  T AH K S EH R AH2
 tejada  T EY Y AA D AH2
 tejan  T EY JH IH N
 tejano  T EY Y AA N OW
-tejas  T IY JH AH S
+tejas  T IY JH AH2 S
 tejeda  T EY Y EY D AH2
 tejera  T EY IH R AH2
 tejon  T EH JH AA N
@@ -110803,7 +110862,7 @@ temblor  T EH M B L ER
 temblors  T EH M B L ER Z
 temco  T EH M K OW
 temecula  T AH M EH K Y AH2 L AH2
-temerity  T AH2 M EH R IH T IY
+temerity  T AH2 M EY R IH T IY
 temerlin  T EH M ER L IH N
 temerous  T EH M ER IH S
 temkin  T EH M K IH N
@@ -110998,12 +111057,12 @@ teriyaki  T EH R IY Y AA K IY
 terkel  T ER K EL
 terkhorn  T ER K OR N
 terlecki  T ER L EH T S K IY
-terliZi  T ER L IY T S IY
+terlizzi  T ER L IY T S IY
 term  T ER M
 term's  T ER M Z
 terman  T ER M AH2 N
 termed  T ER M D
-termeer  T ER M IH R
+termeer  T ER M IY R
 termer  T ER M ER
 termers  T ER M ER Z
 terminable  T ER M AH2 N AH2 B EL
@@ -111076,7 +111135,7 @@ territorially  T EH R IH T OR IY EL IY
 territories  T EH R AH2 T OR IY Z
 territory  T EH R IH T OR IY
 territory's  T EH R IH T OR IY Z
-terriZi  T EH R IH T S IY
+terrizzi  T EH R IH T S IY
 terrones  T EH R AO N EH Z
 terror  T EH R ER
 terrorism  T EH R AH2 R IH Z EM
@@ -111419,7 +111478,7 @@ theology  TH IY AA L AH2 JH IY
 theon  TH IY AH2 N
 theone  TH IY AA N
 theophania  TH IY AH2 F & N IY AH2
-theophila  TH EY AH F IY L AH2
+theophila  TH EY AH2 F IY L AH2
 theora  TH IY AH2 R AH2
 theorem  TH IY AH2 R AH2 M
 theorems  TH IY AH2 R AH2 M Z
@@ -111842,6 +111901,8 @@ throughway  TH R UW W EY
 throve  TH R OW V
 throw  TH R OW
 throwaway  TH R OW AH2 W EY
+throwable  TH R OW AH2 B EL
+throwables  TH R OW AH2 B EL Z
 throwback  TH R OW B AE K
 thrower  TH R OW ER
 throwers  TH R OW ER Z
@@ -112385,7 +112446,7 @@ titusville  T UY T AH2 S V IH L
 titzer  T IH T Z ER
 tivo  T IH V OW
 tivoli  T IH V AH2 L IY
-tiZy  T IH Z IY
+tizzy  T IH Z IY
 tjaden  JH EY D IH N
 tjarks  JH AA R K S
 tkach  K AE CH
@@ -112504,7 +112565,7 @@ tokars  T OW K AA R Z
 tokarski  T AH K AA R S K IY
 tokarz  T OW K AA R Z
 token  T OW K IH N
-tokenism  T OW K AH N IH Z EM
+tokenism  T OW K AH2 N IH Z EM
 tokens  T OW K IH N Z
 tokio  T OW K IY OW
 tokkin  T AA K IH N
@@ -113117,8 +113178,8 @@ townley  T AW N L IY
 towns  T AW N Z
 townsel  T AW N S AH2 L
 townsell  T AW N S AH2 L
-townsend  T AW N Z AH N D
-townsend's  T AW N Z AH N D Z
+townsend  T AW N Z AH2 N D
+townsend's  T AW N Z AH2 N D Z
 townsfolk  T AW N Z F OW K
 townshend  T AW N SH EH N D
 township  T AW N SH IH P
@@ -113164,7 +113225,7 @@ toystore  T OY S T OR
 toystores  T OY S T OR Z
 tozer  T OW Z ER
 tozier  T OW Z IY ER
-toZi  T AA Z IY
+tozzi  T AA Z IY
 traber  T R EY B ER
 trabert  T R AE B ER T
 trabucco  T R AA B UW K OW
@@ -113183,11 +113244,11 @@ tracheophyte  T R EY K IY AH2 F UY T
 tracheophytes  T R EY K IY AH2 F UY T S
 trachsel  T R AE K S AH2 L
 tracht  T R AE K T
-trachtenberg  T R AE K T AH N B ER G
+trachtenberg  T R AE K T EN B ER G
 traci  T R EY S IY
 tracie  T R EY S IY
-tracinda  T R AH S IH N D AH2
-tracinda's  T R AH S IH N D AH2 Z
+tracinda  T R AH2 S IH N D AH2
+tracinda's  T R AH2 S IH N D AH2 Z
 tracing  T R EY S IH NG
 track  T R AE K
 track's  T R AE K S
@@ -113347,7 +113408,7 @@ transactions  T R & N Z AE K SH IH N Z
 transafrica  T R & N Z AE F R IH K AH2
 transalaska  T R & N Z AH L AE S K AH2
 transalta  T R & N Z AO L T AH2
-transamerica  T R & N S AH2 M EH R IH K AH2
+transamerica  T R & N S AH2 M EY R IH K AH2
 transamerica's  T R & N Z EM EH R IH K AH2 Z
 transamerican  T R & N Z EM EH R IH K IH N
 transamerican's  T R & N Z EM EH R IH K IH N Z
@@ -113784,7 +113845,7 @@ trexler  T R EH K S L ER
 trey  T R EY
 treybig  T R EY B IH G
 trezise  T R EH Z AY Z
-treZa  T R EH Z AH2
+trezza  T R EH Z AH2
 tri  T R AY
 triad  T R AY AE D
 triad's  T R AY AE D Z
@@ -114559,7 +114620,7 @@ turenne  T UW ER IH N
 turf  T ER F
 turgeon  T ER JH IH N
 turgid  T ER JH IH D
-turgut  T ER G AH T
+turgut  T ER G AH2 T
 turi  T UH R IY
 turin  T Y ER IH N
 turing  T ER IH NG
@@ -114698,7 +114759,7 @@ tuxhorn  T AH K S HH ER N
 tuyle  T UW L
 tuzla  T UW Z L AH2
 tuzla's  T UW Z L AH2 Z
-tuZolino  T UW T S OW L IY N OW
+tuzzolino  T UW T S OW L IY N OW
 tvedt  T V EH D T
 tveit  T V IY T
 tvsat  T AH V S AE T
@@ -114876,14 +114937,14 @@ typings  T UY P IH NG Z
 typist  T UY P IH S T
 typists  T UY P IH S T S
 typo  T UY P OW
-typographical  T UY P AH2 G R AE F IH K EL
-typography  T UY P AA G R AH2 F IY
+typographical  T AY P AH2 G R AE F IH K EL
+typography  T AY P AA G R AH2 F IY
 tyra  T AY R AH2
 tyrannical  T ER & N IH K EL
-tyrannies  T IH R AH2 N IY Z
-tyrannized  T IH R AH2 N AY Z D
-tyrannosaurus  T IH R & N AH2 S OR AH2 S
-tyranny  T IH R AH2 N IY
+tyrannies  T IY R AH2 N IY Z
+tyrannized  T IY R AH2 N AY Z D
+tyrannosaurus  T ER & N AH2 S OR AH2 S
+tyranny  T IY R AH2 N IY
 tyrant  T AY R IH N T
 tyrants  T AY R IH N T S
 tyre  T AY ER
@@ -114905,8 +114966,8 @@ ubben  AH2 B IH N
 uber  UW B ER
 ubiquitous  Y UW B IH K W IH T AH2 S
 ubiquity  Y UW B IH K W IH T IY
-ubuntu  UW B UW T UW
-uccel  UW CH AH L
+ubuntu  UW B UW N T UW
+uccel  UW CH EL
 uccel's  UW CH EL Z
 ucci  UW CH IY
 uchida  UW K IY D AH2
@@ -115146,7 +115207,7 @@ unaltered  AH N AO L T ER D
 unambiguous  AH N & M B IH G Y AH W AH S
 unambiguously  AH N & M B IH G Y UW IH S L IY
 unamended  AH N AH2 M EH N D AH2 D
-unamerican  AH N AH2 M EH R IH K IH N
+unamerican  AH N AH2 M EY R IH K IH N
 unamortized  AH N & M ER T AY Z D
 unangst  AH N AE NG S T
 unanimity  Y UW N & N IH M IH T IY
@@ -115368,9 +115429,9 @@ undercounted  AH N D ER K AW N T AH2 D
 undercover  AH N D ER K AH2 V ER
 undercurrent  AH N D ER K ER IH N T
 undercurrents  AH N D ER K ER IH N T S
-undercut  AH N D ER K AH2 T
-undercuts  AH N D ER K AH2 T S
-undercutting  AH N D ER K AH2 T IH NG
+undercut  AH N D ER K AH T
+undercuts  AH N D ER K AH T S
+undercutting  AH N D ER K AH T IH NG
 underdahl  AH N D ER D AA L
 underdevelop  AH N D ER D AH2 V EH L AH2 P
 underdeveloped  AH N D ER D AH2 V EH L AH2 P T
@@ -116113,6 +116174,7 @@ unsightly  AH N S UY T L IY
 unsigned  AH N S AY N D
 unsinkable  AH N S IH NG K AH2 B EL
 unskilled  AH N S K IH L D
+unskippable  AH N S K IH P AH2 B EL
 unsmiling  AH N S M AY EL IH NG
 unsold  AH N S OW L D
 unsolicited  AH N S AH2 L IH S IH T AH2 D
@@ -116595,8 +116657,8 @@ uzelac  AH2 Z EH L AH2 K
 uzi  UW Z IY
 uzis  UW Z IY Z
 uzmack  UW Z M AE K
-uZell  UW Z EH L
-uZle  AH2 Z AH2 L
+uzzell  UW Z EH L
+uzzle  AH2 Z AH2 L
 vaal  V AA L
 vaapenfabrikk  V AA P EH N F AE B R IH K
 vaca  V AE K AH2
@@ -116946,7 +117008,7 @@ vanderlinde  V & N D ER L AH2 N D
 vanderlinden  V & N D ER L IH N D IH N
 vanderlip  V & N D ER L IH P
 vandermark  V & N D ER M AA R K
-vandermeer  V & N D ER M IH R
+vandermeer  V & N D ER M IY R
 vandermeulen  V & N D ER M OY L IH N
 vandermolen  V & N D ER M AA L IH N
 vanderploeg  V & N D ER P L OW G
@@ -117600,7 +117662,7 @@ venturing  V EH N CH ER IH NG
 venturini  V EH N T ER IY N IY
 venturino  V EH N T ER IY N OW
 venue  V EH N Y UW
-venues  V EH N UW Z
+venues  V EH N Y UW Z
 venus  V IY N IH S
 venuti  V EH N UW T IY
 venuto  V EH N UW T OW
@@ -117686,6 +117748,7 @@ verified  V EH R AH2 F AY D
 verifies  V EH R AH2 F AY Z
 verify  V EH R AH2 F AY
 verifying  V EH R AH2 F AY IH NG
+verily  V EH R IH L IY
 verina  V ER IY N AH2
 verine  V ER IY N IY
 verisimilitude  V EH R IH S IH M IH L IH T UW D
@@ -117704,7 +117767,7 @@ verlag  V ER L AE G
 verleger  V ER L AH2 G ER
 verley  V ER L IY
 verma  V EH R M AH2
-vermeer  V ER M IH R
+vermeer  V ER M IY R
 vermette  V ER M EH T
 vermeulen  V ER M OY L IH N
 vermilion  V ER M IH L Y IH N
@@ -117809,7 +117872,7 @@ vesicle  V EH Z IH K EL
 vesicles  V EH Z IH K EL Z
 vesmen  V EH S M AH2 N
 vesna  V EH S N AH2
-vespa  V EY S P AH2
+vespa  V EH S P AH2
 vesper  V EH S P ER
 vespera  V EH S P EH R AH2
 vess  V EH S
@@ -118474,7 +118537,7 @@ viyella  V IH Y EH L AH2
 vizcaino  V IY Z K AA IY N OW
 vizcarra  V IY Z K AA R AH2
 vizcaya  V IH Z K AY AH2
-viZini  V IY T S IY N IY
+vizzini  V IY T S IY N IY
 vlach  V L AE CH
 vlachos  V L EY K OW S
 vlad  V L AE D
@@ -120280,7 +120343,7 @@ wenke  W EH NG K
 wenker  W EH NG K ER
 wennberg  W EH N B ER G
 wenner  W EH N ER
-wennerstrom  W EH N ER S T R AH M
+wennerstrom  W EH N ER S T R AH2 M
 wenning  W EH N IH NG
 wenninger  W EH N IH NG ER
 wenona  W EH N AH2 N AH2
@@ -120288,15 +120351,15 @@ wenrich  W EH N R IH K
 wenrick  W EH N R IH K
 wensberg  W EH N Z B ER G
 wensel  W EH N S AH2 L
-wenstrom  W EH N S T R AH M
+wenstrom  W EH N S T R AH2 M
 went  W EH N T
 wente  W EH N T
 wentland  W EH N T L AH2 N D
 wentling  W EH N T L IH NG
 wentworth  W EH N T W ER TH
 wentz  W EH N T S
-wentzel  W EH N T Z AH L
-wentzell  W EH N T Z AH L
+wentzel  W EH N T Z AH2 L
+wentzell  W EH N T Z AH2 L
 wentzville  W EH N T S V IH L
 wenz  W EH N Z
 wenzel  W EH N Z AH L
@@ -120311,6 +120374,7 @@ werden  W ER D IH N
 werder  W ER D ER
 werdesheim  W ER D Z HH AY M
 were  W ER
+werebear  W EY R B EY R
 wereldhave  W EY R EL D HH AA V EY
 weren't  W ER IH N T
 werewolf  W EY R W UH L F
@@ -120397,8 +120461,8 @@ west's  W EH S T S
 westair  W EH S T EH R
 westall  W EH S T EL
 westall's  W EH S T EL Z
-westamerica  W EH S T AH2 M EH R IH K AH2
-westamerica's  W EH S T AH2 M EH R IH K AH2 Z
+westamerica  W EH S T AH2 M EY R IH K AH2
+westamerica's  W EH S T AH2 M EY R IH K AH2 Z
 westar  W EH S T ER
 westbay  W EH S T B EY
 westberg  W EH S T B ER G
@@ -120536,7 +120600,7 @@ wever  W IY V ER
 wexler  W EH K S L ER
 wexner  W EH K S N ER
 wey  W EY
-weyand  W EY AH N D
+weyand  W EY AH2 N D
 weyandt  W EY IH N T
 weyant  W EY IH N T
 weyenberg  W AY N B ER G
@@ -120877,10 +120941,10 @@ whitwam  W IH T W AA M
 whitwell  W IH T W EH L
 whitworth  W IH T W ER TH
 whiz  W IH Z
-whiZed  W IH Z D
-whiZer  W IH Z ER
-whiZes  W IH Z IH Z
-whiZing  W IH Z IH NG
+whizzed  W IH Z D
+whizzer  W IH Z ER
+whizzes  W IH Z IH Z
+whizzing  W IH Z IH NG
 who  HH UW
 who'd  HH UW D
 who'll  HH UW L
@@ -121497,8 +121561,8 @@ windlass  W IH N D L AH S
 windle  W IH N D EL
 windler  W IH N D L ER
 windley  W IH N D L IY
-windmere  W IH N D M IH R
-windmere's  W IH N D M IH R Z
+windmere  W IH N D M IY R
+windmere's  W IH N D M IY R Z
 windmill  W IH N D M IH L
 windmiller  W IH N D M IH L ER
 windmills  W IH N D M IH L Z
@@ -122601,7 +122665,7 @@ wuthrich  W AH TH R IH K
 wuttke  W AH T K IY
 wuxi  W AH K S IY
 wuyda  W OY D AH2
-wuZy  W UH Z IY
+wuzzy  W UH Z IY
 wy  W EY
 wyan  W AY AH2 N
 wyand  W AY AH2 N D
@@ -122849,7 +122913,7 @@ yanks  Y EY NG K S
 yanni  Y & N IY
 yannick  Y & N IH K
 yannone  Y & N IH N
-yannuZi  Y AA N UW T S IY
+yannuzzi  Y AA N UW T S IY
 yano  Y AA N OW
 yanofsky  Y AH N AA F S K IY
 yanomami  Y AA N OW M AA M IY
@@ -122940,7 +123004,7 @@ yax  Y AE K S
 yay  Y EY
 yazoo  Y AA Z UW
 yazov  Y AE Z AA V
-yaZie  Y AE Z IY
+yazzie  Y AE Z IY
 ybanez  IY B & N IH Z
 ybarbo  IY B AA R B OW
 ybarra  IY B AA R AH2
@@ -123124,18 +123188,18 @@ yniguez  IY N IY G EH Z
 ynjiun  IH N JH UH N
 yo  Y OW
 yoak  Y OW K
-yoakam  Y OW K AH M
-yoakum  Y OW K AH M
+yoakam  Y OW K AH2 M
+yoakum  Y OW K AH2 M
 yoast  Y OW S T
 yobbo  Y AA B OW
-yocam  Y OW K AH M
+yocam  Y OW K AH2 M
 yocham  Y AA CH AH2 M
 yochelson  Y OW K EL S AH2 N
 yochim  Y AA CH IH M
 yochum  Y AA CH AH2 M
 yockey  Y AA K IY
-yocom  Y OW K AH M
-yocum  Y OW K AH M
+yocom  Y OW K AH2 M
+yocum  Y OW K AH2 M
 yoda  Y OW D AH2
 yoda's  Y OW D AH2 Z
 yodel  Y OW D EL
@@ -123166,11 +123230,11 @@ yokes  Y OW K S
 yokich  Y OW K IH CH
 yokley  Y AA K L IY
 yoko  Y OW K OW
-yokohama  Y OW K AH HH AA M AH2
+yokohama  Y OW K AH2 HH AA M AH2
 yokokohji  Y OW K OW K OW JH IY
 yokota  Y OW K OW T AH2
 yokoyama  Y OW K OW Y AA M AH2
-yokum  Y OW K AH M
+yokum  Y OW K AH2 M
 yola  Y OW L AH2
 yolanda  Y OW L AA N D AH2
 yolande  Y OW L AH2 N D
@@ -124055,7 +124119,7 @@ ziv  Z IH V
 ziwei  Z IY W EY
 ziyad  Z IY AE D
 ziyang  ZH IY EY NG
-ziZo  Z IH Z OW
+zizzo  Z IH Z OW
 zlata  Z L AA T AH2
 zlata's  Z L AA T AH2 Z
 zlin  Z L IH N

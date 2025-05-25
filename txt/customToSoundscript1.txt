@@ -17,7 +17,7 @@ OY	oi
 UY  u̇i
 UH	uu
 UW	u
-UW2	oo
+UW2	u
 ER	er
 EL  el
 EM	em
@@ -53,8 +53,8 @@ W	w
 WH	hw
 Y	y
 Z	z
-ZH	zh
-X	kh
+ZH	ж
+X	k̇
 
 //French
 O	o
